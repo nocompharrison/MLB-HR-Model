@@ -1,6 +1,8 @@
-# NFL transcripts | week 12 | updated 2026-11-25 06:50 ET
+# NFL transcripts | week 12 | updated 2026-11-25 20:20 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 35 files in NFL/transcripts/week-12:
+# 53 files in NFL/transcripts/week-12:
+NFL/transcripts/week-12/-_SPL-Lz2GM_CirclesOff_I_Ran_10_000_Simulations_of_One_NFL_Game_Here_s_How_Presented_by_Proph.txt
+NFL/transcripts/week-12/-gxUj4JR_Wk_Stokastic_Packers_Rams_Showdown_Strategy_Wednesday_Week_12_DFS_Picks_NFL_DFS_Str.txt
 NFL/transcripts/week-12/0Wg2o_97qQI_BettingPros_NFL_Week_12_Early_Picks_Line_Movement_Predictions_2026.txt
 NFL/transcripts/week-12/1F8Yj2aDwbU_SGPN_Chiefs_vs_Bills_Prediction_Picks_Best_Bets_NFL_Week_12.txt
 NFL/transcripts/week-12/26zWnPBRETw_FantasyAlarm_Week_12_Waiver_Wire_Adds_For_Fantasy_Football.txt
@@ -9,24 +11,36 @@ NFL/transcripts/week-12/4dtgmgqBvQo_SGPN_Falcons_vs_Vikings_Prediction_Picks_Bes
 NFL/transcripts/week-12/4p50S1GYfFE_SGPN_Broncos_vs_Steelers_Prediction_Picks_Best_Bets_NFL_Week_12.txt
 NFL/transcripts/week-12/4wqYsUNTvck_CallingOurShot_NFL_Week_12_Best_Picks_Predictions.txt
 NFL/transcripts/week-12/5P1xXijmapA_BettingPros_Top_4_Bets_for_Wednesday_Thanksgiving_NFL_Picks_Predictions.txt
+NFL/transcripts/week-12/6TQmvOprsJo_SportsLine_Packers_vs_Rams_Picks_Thanksgiving_Eve_NFL_Bets_NBA_NHL_Early_Edge.txt
 NFL/transcripts/week-12/6gZSvZhb1hc_PickDawgz_NFL_Picks_Predictions_For_Today_Wednesday_11_25_26_FREE_NFL_Best_Bets.txt
 NFL/transcripts/week-12/6tdWk-OmTH8_SGPN_Patriots_vs_Chargers_Prediction_Picks_Best_Bets_NFL_Week_12.txt
 NFL/transcripts/week-12/7gaHBR92Fp8_TheAudible_How_does_Seth_McGowan_s_hamstring_injury_make_it_even_smarter_to_drop.txt
 NFL/transcripts/week-12/9ZpuHfbykFY_Footballers_Week_12_Waivers_OUCH_Borland_Fantasy_Football_2026_Ep_2022.txt
+NFL/transcripts/week-12/AZmbb_lilaw_Footballers_MEGALODON_Episode_Week_12_Matchups_Turkey_Day_Awards_More_Fantasy_Foot.txt
 NFL/transcripts/week-12/Aa6bjkw2bxM_SGPN_Bears_vs_Lions_Prediction_Picks_Best_Bets_NFL_Week_12.txt
 NFL/transcripts/week-12/CQoP75yR_bY_DFSArmy_NFL_DFS_Thursday_Strategy_for_DraftKings_2026.txt
+NFL/transcripts/week-12/DWQoi9Mw0wo_LandYourBets_My_Top_4_NFL_Thanksgiving_Day_Player_Prop_Bets_Plus_6_Strong_Leans_Nov.txt
 NFL/transcripts/week-12/DYHuCrpmXR8_TheAudible_Week_12_waiver_wire_Is_Chris_Rodriguez_the_must_add_RB_Plus_Packers_v.txt
 NFL/transcripts/week-12/E5kAIReP8iA_SGPN_NFL_Week_12_Prop_Bets_Best_Bets_Predictions.txt
 NFL/transcripts/week-12/GYzYq8pvbHA_FootballersDFS_Thanksgiving_DFS_Slate_Battle_Royale_Fantasy_Football_DFS_Betting.txt
 NFL/transcripts/week-12/GqH7yqIv3J8_SGPNPropcast_NFL_Week_12_Weekday_Games_Thanksgiving_Player_Props_11_24_26.txt
 NFL/transcripts/week-12/PCWkCR9vexw_ActionNetwork_NFL_Week_12_Picks_Predictions_Best_Bets_for_EVERY_Game.txt
+NFL/transcripts/week-12/PCom2M8Yxv0_ActionNetwork_Our_Anytime_Touchdown_Picks_for_the_Thanksgiving_Week_12_Slate_of_The.txt
 NFL/transcripts/week-12/RIhWW6IFh6M_PickDawgz_RAMS_VS_PACKERS_11_25_26_NFL_FREE_VALUE_PLAY_OF_THE_DAY_PICKS_PREDICTI.txt
 NFL/transcripts/week-12/St0Z9UPc49Q_SGPN_Ravens_vs_Texans_Prediction_Picks_Best_Bets_NFL_Week_12.txt
+NFL/transcripts/week-12/U8XbAQTNvK0_PickDawgz_Packers_vs_Rams_Picks_Predictions_11_25_26_NFL_Week_12_Picks_Best_Bets.txt
 NFL/transcripts/week-12/UUl__rxYQ60_BettingPros_NFL_Thanksgiving_Football_Bets_Players_Props_Picks_For_Every_Game_Wedn.txt
 NFL/transcripts/week-12/UZHO6C7CQPs_DFSArmy_NFL_DFS_Week_12_Strategy_for_DraftKings_2026.txt
+NFL/transcripts/week-12/VhL1-nEmwPI_SGPN_Commanders_vs_Cardinals_Prediction_Picks_Best_Bets_NFL_Week_12.txt
+NFL/transcripts/week-12/VmBjfm_Lz3w_CallingOurShot_My_Best_NFL_Picks_Parlays_for_Thanksgiving_Day.txt
 NFL/transcripts/week-12/WH5Xb_RtfeI_Stokastic_NFL_DFS_Thanksgiving_Slate_First_Look_Picks_Week_12.txt
 NFL/transcripts/week-12/WHPov6T8Ze0_PlayerProfiler_Week_12_TOP_Kickers_Defenses_High_Upside_Streamers.txt
+NFL/transcripts/week-12/X9PIZRq7EIg_SGPNPropcast_NFL_Week_12_Circa_Million_Spread_Picks_11_24_26.txt
+NFL/transcripts/week-12/XOW5ElxNprY_DFSArmy_Packers_vs_Rams_Showdown_Breakdown_Wednesday_Night_Football_DraftKings.txt
+NFL/transcripts/week-12/c1UDeJdpy9I_ShipItNation_Packers_vs_Rams_NFL_DFS_Showdown_WNF_Week_12_Showdown_Shippers_Picks_P.txt
 NFL/transcripts/week-12/dq4_UZVjHDw_SGPN_Jets_vs_Dolphins_Prediction_Picks_Best_Bets_NFL_Week_12.txt
+NFL/transcripts/week-12/ezddgYbB514_SGPN_Giants_vs_Colts_Prediction_Picks_Best_Bets_NFL_Week_12.txt
+NFL/transcripts/week-12/g-oDz-0v7ts_PlayerProfiler_Week_12_Waiver_Wire_Targets_2026_Top_Fantasy_Football_Pickups.txt
 NFL/transcripts/week-12/gqWZmIEQLSc_SGPN_Eagles_vs_Cowboys_Prediction_Picks_Best_Bets_NFL_Week_12.txt
 NFL/transcripts/week-12/hL7mTPCYJ4Y_SGPN_Saints_vs_Bengals_Prediction_Picks_Best_Bets_NFL_Week_12.txt
 NFL/transcripts/week-12/iH85JuPc1ps_SGPN_Panthers_vs_Buccaneers_Prediction_Picks_Best_Bets_NFL_Week_12.txt
@@ -34,51 +48,51 @@ NFL/transcripts/week-12/jNU5HM1Cpw0_PlayerProfiler_Top_10_Takeaways_for_Fantasy_
 NFL/transcripts/week-12/klRqKKOM8vU_SportsLine_Week_12_NFL_Picks_to_Make_Now.txt
 NFL/transcripts/week-12/mrAtCRKMfbc_SportsLine_NFL_Picks_Bets_for_Thanksgiving_Week_Games.txt
 NFL/transcripts/week-12/nU3k0EL7fR4_SGPN_Packers_vs_Rams_Prediction_Picks_Best_Bets_NFL_Week_12.txt
+NFL/transcripts/week-12/rAEYvHx2IsI_SGPN_NFL_Week_12_Picks_Best_Bets_Predictions.txt
+NFL/transcripts/week-12/sLuVKGYKnQs_TheAudible_NFL_DFS_Week_12_Best_DraftKings_Plays_Stacks_Sleepers_Fades_Main_Slate.txt
+NFL/transcripts/week-12/w0NA_cuU0MQ_TheAudible_Thanksgiving_NFL_preview_Bears_Lions_for_NFC_North_supremacy_Chiefs_Bi.txt
 NFL/transcripts/week-12/xP0pyiz3uZE_RotoGrinders_Thanksgiving_NFL_DFS_Strategy_6_Under_the_Radar_Players_to_Target.txt
 NFL/transcripts/week-12/y3lpvlcv9pM_SGPN_Seahawks_vs_49ers_Prediction_Picks_Best_Bets_NFL_Week_12.txt
+NFL/transcripts/week-12/yoI7y8R6izs_DFSArmy_NFL_Week_Thanksgiving_DraftKings_and_FanDuel_DFS_Strategy_and_Picks_To.txt
 
 # this run:
-NEW     NFL/transcripts/week-12/9ZpuHfbykFY_Footballers_Week_12_Waivers_OUCH_Borland_Fantasy_Football_2026_Ep_2022.txt  (11,078 words)
-NEW     NFL/transcripts/week-12/GYzYq8pvbHA_FootballersDFS_Thanksgiving_DFS_Slate_Battle_Royale_Fantasy_Football_DFS_Betting.txt  (15,091 words)
+NEW     NFL/transcripts/week-12/AZmbb_lilaw_Footballers_MEGALODON_Episode_Week_12_Matchups_Turkey_Day_Awards_More_Fantasy_Foot.txt  (22,077 words)
+NONE    channel FootballersDFS: nothing new in the date window (or everything already saved)
 NONE    channel SwankTank: nothing new in the date window (or everything already saved)
+NOCAPS  RotoGrinders VtQhBuh1CYM Packers vs. Rams WNF Showdown! - NFL DFS Picks & Strategy  (captions not posted yet - often appear a few hours after upload; Groq fallback after 4h (posted 0.0h ago))
+UPCOMING RotoGrinders v0o7bXRpezU PICK SIX! The BEST 3 NFL Games to Target in DFS for Week 12!  (not aired yet - scheduled for 11/27/26 8:00PM)
+UPCOMING RotoGrinders a4EQveySOTE Broncos vs. Steelers Friday Showdown! - NFL DFS Picks & Stra  (not aired yet - scheduled for 11/27/26 12:00PM)
 UPCOMING RotoGrinders dSzGTxMPf6k Thanksgiving Slate Pre-Lock! - NFL DFS Picks & Strategy  (not aired yet - scheduled for 11/26/26 11:45AM)
-UPCOMING RotoGrinders VtQhBuh1CYM Packers vs. Rams WNF Showdown! - NFL DFS Picks & Strategy  (not aired yet - scheduled for 11/25/26 7:15PM)
-NONE    channel ShipItNation: nothing new in the date window (or everything already saved)
-NEW     NFL/transcripts/week-12/iH85JuPc1ps_SGPN_Panthers_vs_Buccaneers_Prediction_Picks_Best_Bets_NFL_Week_12.txt  (827 words)
-NOCAPS  SGPN rAEYvHx2IsI NFL Week 12 Picks, Best Bets & Predictions  (captions not posted yet - often appear a few hours after upload; Groq fallback after 4h (posted 3.2h ago))
-NEW     NFL/transcripts/week-12/y3lpvlcv9pM_SGPN_Seahawks_vs_49ers_Prediction_Picks_Best_Bets_NFL_Week_12.txt  (1,247 words)
-NEW     NFL/transcripts/week-12/6tdWk-OmTH8_SGPN_Patriots_vs_Chargers_Prediction_Picks_Best_Bets_NFL_Week_12.txt  (1,314 words)
-NEW     NFL/transcripts/week-12/2oS1bJiesl4_SGPN_Titans_vs_Jaguars_Prediction_Picks_Best_Bets_NFL_Week_12.txt  (1,066 words)
-NEW     NFL/transcripts/week-12/dq4_UZVjHDw_SGPN_Jets_vs_Dolphins_Prediction_Picks_Best_Bets_NFL_Week_12.txt  (1,048 words)
-NEW     NFL/transcripts/week-12/hL7mTPCYJ4Y_SGPN_Saints_vs_Bengals_Prediction_Picks_Best_Bets_NFL_Week_12.txt  (1,137 words)
-NEW     NFL/transcripts/week-12/4dtgmgqBvQo_SGPN_Falcons_vs_Vikings_Prediction_Picks_Best_Bets_NFL_Week_12.txt  (1,227 words)
-NEW     NFL/transcripts/week-12/GqH7yqIv3J8_SGPNPropcast_NFL_Week_12_Weekday_Games_Thanksgiving_Player_Props_11_24_26.txt  (8,249 words)
-NOCAPS  SGPNPropcast X9PIZRq7EIg NFL Week 12 Circa Million Spread Picks - 11/24/26  (no captions; Groq: live stream still processing - audio not final yet)
-NEW     NFL/transcripts/week-12/PCWkCR9vexw_ActionNetwork_NFL_Week_12_Picks_Predictions_Best_Bets_for_EVERY_Game.txt  (16,334 words)
-NEW     NFL/transcripts/week-12/CQoP75yR_bY_DFSArmy_NFL_DFS_Thursday_Strategy_for_DraftKings_2026.txt  (3,039 words)
-NEW     NFL/transcripts/week-12/UZHO6C7CQPs_DFSArmy_NFL_DFS_Week_12_Strategy_for_DraftKings_2026.txt  (7,705 words)
-UPCOMING DFSArmy yoI7y8R6izs NFL Week Thanksgiving DraftKings and FanDuel DFS Strategy an  (not aired yet - scheduled for 11/25/26 5:00PM)
-UPCOMING DFSArmy XOW5ElxNprY Packers vs. Rams Showdown Breakdown | Wednesday Night Footba  (not aired yet - scheduled for 11/25/26 12:00PM)
+NOCAPS  ShipItNation 68MFp4oW_-0 NFL DFS Week 12 Thanksgiving Shippers | DraftKings & FanDuel  (no captions; Groq: live stream still processing - audio not final yet)
+NEW     NFL/transcripts/week-12/c1UDeJdpy9I_ShipItNation_Packers_vs_Rams_NFL_DFS_Showdown_WNF_Week_12_Showdown_Shippers_Picks_P.txt  (11,158 words)
+NEW     NFL/transcripts/week-12/VhL1-nEmwPI_SGPN_Commanders_vs_Cardinals_Prediction_Picks_Best_Bets_NFL_Week_12.txt  (1,136 words)
+NEW     NFL/transcripts/week-12/ezddgYbB514_SGPN_Giants_vs_Colts_Prediction_Picks_Best_Bets_NFL_Week_12.txt  (1,497 words)
+NEW     NFL/transcripts/week-12/rAEYvHx2IsI_SGPN_NFL_Week_12_Picks_Best_Bets_Predictions.txt  (26,295 words)
+NEW     NFL/transcripts/week-12/X9PIZRq7EIg_SGPNPropcast_NFL_Week_12_Circa_Million_Spread_Picks_11_24_26.txt  (4,352 words)
+NOCAPS  ActionNetwork 47aXLZtDaQ4 NFL Week 12 Best Bets: Player Props, SGPs & Longshots | Bran  (captions not posted yet - often appear a few hours after upload; Groq fallback after 4h (posted 1.0h ago))
+NOCAPS  ActionNetwork SL_nPnQH3TU FULL NFL Week 12 Betting Preview & Picks | The Favorites  (no captions; Groq: live stream still processing - audio not final yet)
+NEW     NFL/transcripts/week-12/PCom2M8Yxv0_ActionNetwork_Our_Anytime_Touchdown_Picks_for_the_Thanksgiving_Week_12_Slate_of_The.txt  (10,847 words)
+NEW     NFL/transcripts/week-12/yoI7y8R6izs_DFSArmy_NFL_Week_Thanksgiving_DraftKings_and_FanDuel_DFS_Strategy_and_Picks_To.txt  (15,868 words)
+NEW     NFL/transcripts/week-12/XOW5ElxNprY_DFSArmy_Packers_vs_Rams_Showdown_Breakdown_Wednesday_Night_Football_DraftKings.txt  (13,094 words)
 NONE    channel DFSArmyLive: nothing new in the date window (or everything already saved)
-NEW     NFL/transcripts/week-12/DYHuCrpmXR8_TheAudible_Week_12_waiver_wire_Is_Chris_Rodriguez_the_must_add_RB_Plus_Packers_v.txt  (5,248 words)
-DEFER   PlayerProfiler g-oDz-0v7ts Week 12 Waiver Wire Targets (2026) | Top Fantasy Football Pi  (still rate-limited after a new IP - will retry next run)
-UPCOMING Stokastic NHaT8FFyypI NFL DFS Sims Tournament Strategy Week 12 | NFL DFS Strategy  (not aired yet - scheduled for 11/27/26 6:50AM (approx.))
-UPCOMING Stokastic -gxUj4JR_Wk Packers-Rams Showdown Strategy Wednesday Week 12 DFS Picks |  (not aired yet - scheduled for 11/25/26 10:50AM (approx.))
-UPCOMING Stokastic cnw_zoe8j4E NFL DFS Live Before Lock | Thanksgiving Week 12 NFL DFS Pick  (not aired yet - scheduled for 11/26/26 8:50AM (approx.))
-UPCOMING Stokastic Zh4nd-mpAUU Broncos-Steelers Showdown Strategy Black Friday Week 12 DFS   (not aired yet - scheduled for 11/27/26 6:50AM (approx.))
-NEW     NFL/transcripts/week-12/5P1xXijmapA_BettingPros_Top_4_Bets_for_Wednesday_Thanksgiving_NFL_Picks_Predictions.txt  (2,928 words)
-NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
-NONE    channel SportsLine: nothing new in the date window (or everything already saved)
-NONE    channel CirclesOff: nothing new in the date window (or everything already saved)
+NEW     NFL/transcripts/week-12/sLuVKGYKnQs_TheAudible_NFL_DFS_Week_12_Best_DraftKings_Plays_Stacks_Sleepers_Fades_Main_Slate.txt  (10,328 words)
+NEW     NFL/transcripts/week-12/w0NA_cuU0MQ_TheAudible_Thanksgiving_NFL_preview_Bears_Lions_for_NFC_North_supremacy_Chiefs_Bi.txt  (7,461 words)
+NEW     NFL/transcripts/week-12/g-oDz-0v7ts_PlayerProfiler_Week_12_Waiver_Wire_Targets_2026_Top_Fantasy_Football_Pickups.txt  (7,991 words)
+NEW     NFL/transcripts/week-12/-gxUj4JR_Wk_Stokastic_Packers_Rams_Showdown_Strategy_Wednesday_Week_12_DFS_Picks_NFL_DFS_Str.txt  (11,216 words)
+UPCOMING Stokastic NHaT8FFyypI NFL DFS Sims Tournament Strategy Week 12 | NFL DFS Strategy  (not aired yet - scheduled for 11/27/26 10:00AM)
+UPCOMING Stokastic cnw_zoe8j4E NFL DFS Live Before Lock | Thanksgiving Week 12 NFL DFS Pick  (not aired yet - scheduled for 11/26/26 9:30AM)
+UPCOMING Stokastic Zh4nd-mpAUU Broncos-Steelers Showdown Strategy Black Friday Week 12 DFS   (not aired yet - scheduled for 11/27/26 11:00AM)
+NONE    channel BettingPros: nothing new in the date window (or everything already saved)
+NEW     NFL/transcripts/week-12/DWQoi9Mw0wo_LandYourBets_My_Top_4_NFL_Thanksgiving_Day_Player_Prop_Bets_Plus_6_Strong_Leans_Nov.txt  (3,795 words)
+UPCOMING SportsLine SuRajuQJWE4 Broncos vs Steelers Picks: Black Friday NFL Bets + NBA  + Co  (not aired yet - scheduled for 11/27/26 10:00AM)
+UPCOMING SportsLine DwGJH6d83C8 Thanksgiving NFL Bets | Early Edge  (not aired yet - scheduled for 11/26/26 10:00AM)
+NEW     NFL/transcripts/week-12/6TQmvOprsJo_SportsLine_Packers_vs_Rams_Picks_Thanksgiving_Eve_NFL_Bets_NBA_NHL_Early_Edge.txt  (8,804 words)
+NEW     NFL/transcripts/week-12/-_SPL-Lz2GM_CirclesOff_I_Ran_10_000_Simulations_of_One_NFL_Game_Here_s_How_Presented_by_Proph.txt  (4,866 words)
 NONE    channel SlopRules: nothing new in the date window (or everything already saved)
 NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
-NEW     NFL/transcripts/week-12/26zWnPBRETw_FantasyAlarm_Week_12_Waiver_Wire_Adds_For_Fantasy_Football.txt  (11,338 words)
+NOCAPS  FantasyAlarm rkxOqVUbanI Week 12 NFL DFS Picks, Props, and YOUR Start/Sit Questions!  (no captions; Groq: live stream still processing - audio not final yet)
 NONE    channel FantasyAces: nothing new in the date window (or everything already saved)
-DEFER   PickDawgz U8XbAQTNvK0 Packers vs Rams Picks & Predictions 11/25/26 - NFL Week 12 P  (per-channel cap of 2 reached - raise it in the channel list or it comes next run)
-DEFER   PickDawgz 2zwiBmyAIIQ PACKERS VS RAMS 11/25/26 | FREE NFL PICK & PREDICTION | ELIT  (per-channel cap of 2 reached - raise it in the channel list or it comes next run)
-NEW     NFL/transcripts/week-12/RIhWW6IFh6M_PickDawgz_RAMS_VS_PACKERS_11_25_26_NFL_FREE_VALUE_PLAY_OF_THE_DAY_PICKS_PREDICTI.txt  (336 words)
-NEW     NFL/transcripts/week-12/6gZSvZhb1hc_PickDawgz_NFL_Picks_Predictions_For_Today_Wednesday_11_25_26_FREE_NFL_Best_Bets.txt  (2,714 words)
+NEW     NFL/transcripts/week-12/U8XbAQTNvK0_PickDawgz_Packers_vs_Rams_Picks_Predictions_11_25_26_NFL_Week_12_Picks_Best_Bets.txt  (1,235 words)
 NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
-NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
-NOTE    changed VPN IP 3 time(s) this run after YouTube rate limits
-NOTE    deferred videos are picked up automatically on the next scheduled run
+NEW     NFL/transcripts/week-12/VmBjfm_Lz3w_CallingOurShot_My_Best_NFL_Picks_Parlays_for_Thanksgiving_Day.txt  (4,889 words)
+NOTE    changed VPN IP 1 time(s) this run after YouTube rate limits
