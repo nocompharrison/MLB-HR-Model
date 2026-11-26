@@ -1,4 +1,4 @@
-<!-- source: https://www.actionnetwork.com/ncaab | fetched: 2026-11-26 11:17 ET -->
+<!-- source: https://www.actionnetwork.com/ncaab | fetched: 2026-11-26 17:02 ET -->
 
 
 ---
@@ -132,546 +132,798 @@ SMU vs. LSU
 Right Arrow
 Pacific vs. Omaha
 ### Top Stories
-[![Georgia vs Cincinnati Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://images.actionnetwork.com/blog/2026/11/Georgia-vs-Cincinnati-11.26.26.jpg)](https://www.actionnetwork.com/ncaab/georgia-bulldogs-vs-cincinnati-bearcats-prediction-pick-odds-college-basketball-thursday-november-26)
+[![Arkansas vs Michigan State Odds, Picks, Predictions — 11/26](https://images.actionnetwork.com/blog/2026/11/arkansas-razorbacks-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-thursday-november-26-1.jpg)](https://www.actionnetwork.com/ncaab/arkansas-razorbacks-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-thursday-november-26)
 NCAAB
-[Georgia vs Cincinnati Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://www.actionnetwork.com/ncaab/georgia-bulldogs-vs-cincinnati-bearcats-prediction-pick-odds-college-basketball-thursday-november-26)
+[Arkansas vs Michigan State Odds, Picks, Predictions — 11/26](https://www.actionnetwork.com/ncaab/arkansas-razorbacks-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-thursday-november-26)
+Ryan Minion
+3 hours ago
+[![Utah State vs USC Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://images.actionnetwork.com/blog/2026/11/rodrice.jpg)](https://www.actionnetwork.com/ncaab/utah-state-aggies-vs-usc-trojans-prediction-pick-odds-college-basketball-thursday-november-26)
+NCAAB
+[Utah State vs USC Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://www.actionnetwork.com/ncaab/utah-state-aggies-vs-usc-trojans-prediction-pick-odds-college-basketball-thursday-november-26)
+Carter Elliott
+3 hours ago
+[![Saint Mary’s vs UCLA Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://images.actionnetwork.com/blog/2026/11/saint-marys-gaels-vs-ucla-bruins-prediction-pick-odds-college-basketball-thursday-november-26.jpg)](https://www.actionnetwork.com/ncaab/saint-marys-gaels-vs-ucla-bruins-prediction-pick-odds-college-basketball-thursday-november-26)
+NCAAB
+[Saint Mary’s vs UCLA Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://www.actionnetwork.com/ncaab/saint-marys-gaels-vs-ucla-bruins-prediction-pick-odds-college-basketball-thursday-november-26)
 Colby Marchio
-Nov 25, 2026 EST
-[![Oklahoma vs Purdue Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://images.actionnetwork.com/blog/2026/11/Oklahoma-vs-Purdue-11.26.26.jpg)](https://www.actionnetwork.com/ncaab/oklahoma-sooners-vs-purdue-boilermakers-prediction-pick-odds-college-basketball-thursday-november-26)
+11 hours ago
+[![Creighton vs TCU Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://images.actionnetwork.com/blog/2026/11/BJ-Davissss.png)](https://www.actionnetwork.com/ncaab/creighton-bluejays-vs-tcu-horned-frogs-prediction-pick-odds-college-basketball-thursday-november-26)
 NCAAB
-[Oklahoma vs Purdue Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://www.actionnetwork.com/ncaab/oklahoma-sooners-vs-purdue-boilermakers-prediction-pick-odds-college-basketball-thursday-november-26)
+[Creighton vs TCU Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://www.actionnetwork.com/ncaab/creighton-bluejays-vs-tcu-horned-frogs-prediction-pick-odds-college-basketball-thursday-november-26)
 Jonathan Jorcin
-24 mins ago
-[![San Diego State vs Maryland Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://images.actionnetwork.com/blog/2026/11/MarylandTerrapins-11262026.jpg)](https://www.actionnetwork.com/ncaab/san-diego-state-aztecs-vs-maryland-terrapins-prediction-pick-odds-college-basketball-thursday-november-26)
+10 hours ago
+[![St. John’s vs Louisville Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://images.actionnetwork.com/blog/2026/11/st-johns-red-storm-vs-louisville-cardinals-prediction-pick-odds-college-basketball-thursday-november-26.jpg)](https://www.actionnetwork.com/ncaab/st-johns-red-storm-vs-louisville-cardinals-prediction-pick-odds-college-basketball-thursday-november-26)
 NCAAB
-[San Diego State vs Maryland Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://www.actionnetwork.com/ncaab/san-diego-state-aztecs-vs-maryland-terrapins-prediction-pick-odds-college-basketball-thursday-november-26)
-Colby Marchio
-6 hours ago
-[![Georgetown vs Texas Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://images.actionnetwork.com/blog/2026/11/georgetown-hoyas-vs-texas-longhorns-prediction-pick-odds-college-basketball-thursday-november-26.jpg)](https://www.actionnetwork.com/ncaab/georgetown-hoyas-vs-texas-longhorns-prediction-pick-odds-college-basketball-thursday-november-26)
-NCAAB
-[Georgetown vs Texas Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://www.actionnetwork.com/ncaab/georgetown-hoyas-vs-texas-longhorns-prediction-pick-odds-college-basketball-thursday-november-26)
+[St. John’s vs Louisville Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://www.actionnetwork.com/ncaab/st-johns-red-storm-vs-louisville-cardinals-prediction-pick-odds-college-basketball-thursday-november-26)
 Sean Paul
-6 hours ago
-[![Iowa State vs Tennessee Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://images.actionnetwork.com/blog/2026/11/IowaSt-NCAAB-11262026.jpg)](https://www.actionnetwork.com/ncaab/iowa-state-cyclones-vs-tennessee-volunteers-prediction-pick-odds-college-basketball-thursday-november-26)
+8 hours ago
+[![Kansas State vs Alabama Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://images.actionnetwork.com/blog/2026/11/AmariAllen-11252026.jpg)](https://www.actionnetwork.com/ncaab/kansas-state-wildcats-vs-alabama-crimson-tide-prediction-pick-odds-college-basketball-thursday-november-26)
 NCAAB
-[Iowa State vs Tennessee Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://www.actionnetwork.com/ncaab/iowa-state-cyclones-vs-tennessee-volunteers-prediction-pick-odds-college-basketball-thursday-november-26)
-Colby Marchio
-21 mins ago
-[![Michigan vs Miami Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://images.actionnetwork.com/blog/2026/11/Michigan-vs-Miami-11.26.26.jpg)](https://www.actionnetwork.com/ncaab/michigan-wolverines-vs-miami-hurricanes-prediction-pick-odds-college-basketball-thursday-november-26)
-NCAAB
-[Michigan vs Miami Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://www.actionnetwork.com/ncaab/michigan-wolverines-vs-miami-hurricanes-prediction-pick-odds-college-basketball-thursday-november-26)
+[Kansas State vs Alabama Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://www.actionnetwork.com/ncaab/kansas-state-wildcats-vs-alabama-crimson-tide-prediction-pick-odds-college-basketball-thursday-november-26)
 Sean Paul
-5 hours ago
+3 hours ago
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=65c82890-79e8-4ee8-9d0c-60461e9d16ae&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=27cde7c2-1d8f-495c-a6bd-f556c37aeaf3&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-4-ncaab-picks-thanksgiving-thursday-november-26&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=136&tw_session_id=1795708995698-767581053&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=65c82890-79e8-4ee8-9d0c-60461e9d16ae&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=27cde7c2-1d8f-495c-a6bd-f556c37aeaf3&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-4-ncaab-picks-thanksgiving-thursday-november-26&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=136&tw_session_id=1795708995698-767581053&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=fa6b1ae4-4b21-4f3c-a025-3e02f90de4f8&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=27cde7c2-1d8f-495c-a6bd-f556c37aeaf3&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-4-ncaab-picks-thanksgiving-thursday-november-26&tw_engaged_ms=7452&tw_iframe_status=0&tw_pid_src=2&tw_session_count=136&tw_session_id=1795708995698-767581053&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=fa6b1ae4-4b21-4f3c-a025-3e02f90de4f8&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=27cde7c2-1d8f-495c-a6bd-f556c37aeaf3&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-4-ncaab-picks-thanksgiving-thursday-november-26&tw_engaged_ms=7452&tw_iframe_status=0&tw_pid_src=2&tw_session_count=136&tw_session_id=1795708995698-767581053&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=aa39b22b-387c-403d-8fb6-ef17519f61ba&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=5d4be4ee-03d0-47cf-80c5-8bcb62896d10&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-4-ncaab-picks-thanksgiving-thursday-november-26&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=138&tw_session_id=1795730460481-402974131&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=aa39b22b-387c-403d-8fb6-ef17519f61ba&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=5d4be4ee-03d0-47cf-80c5-8bcb62896d10&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-4-ncaab-picks-thanksgiving-thursday-november-26&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=138&tw_session_id=1795730460481-402974131&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=a72e2790-436e-4a0d-902b-4626034fcd40&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=5d4be4ee-03d0-47cf-80c5-8bcb62896d10&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-4-ncaab-picks-thanksgiving-thursday-november-26&tw_engaged_ms=7655&tw_iframe_status=0&tw_pid_src=2&tw_session_count=138&tw_session_id=1795730460481-402974131&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=a72e2790-436e-4a0d-902b-4626034fcd40&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=5d4be4ee-03d0-47cf-80c5-8bcb62896d10&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcollege-basketball-best-bets-4-ncaab-picks-thanksgiving-thursday-november-26&tw_engaged_ms=7655&tw_iframe_status=0&tw_pid_src=2&tw_session_count=138&tw_session_id=1795730460481-402974131&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 
 
 
 ---
-## SOURCE: https://www.actionnetwork.com/ncaab/georgia-bulldogs-vs-cincinnati-bearcats-prediction-pick-odds-college-basketball-thursday-november-26
+## SOURCE: https://www.actionnetwork.com/ncaab/arkansas-razorbacks-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-thursday-november-26
 
 Table of Contents
 [Home](https://www.actionnetwork.com/)Right Arrow[NCAAB](https://www.actionnetwork.com/ncaab)
-# Georgia vs Cincinnati Prediction, Pick, College Basketball Odds for Thursday, Nov. 26
+# Arkansas vs Michigan State Odds, Picks, Predictions — 11/26
+![Author Profile](https://images.actionnetwork.com/blog/2026/01/3C9951D0-FA52-47B9-ACCF-70401B29AFA0-150x150.jpeg)
+[Ryan Minion](https://www.actionnetwork.com/article/author/rminion)
+Contributing Writer 
+[Download App](https://action.onelink.me/qhpb/f46fa531)
+Updated:
+Nov 26, 2026, 01:22 PM EST
+Updated:
+Nov 26, 2026, 01:22 PM EST
+Credit:
+IMAGN IMAGES via Reuters Connect. Pictured: Arkansas Razorbacks guard Jordan Smith Jr. (23)
+_If you want more Action Network content, be sure to[add us as a preferred source on Google](https://www.google.com/preferences/source?q=actionnetwork.com)._
+The Arkansas Razorbacks take on the Michigan State Spartans in Detroit, MI. Tip-off is set for 4:30 p.m. ET on CBS.
+Michigan State is favored by -5.5 points on the [spread](https://www.actionnetwork.com/education/point-spread) with a [moneyline](https://www.actionnetwork.com/education/moneyline) of -225. The total is set at 148.5 points.
+Here’s my **Arkansas vs. Michigan State prediction** and [college basketball picks](https://www.actionnetwork.com/ncaab) for November 26, 2026.
+* * *
+## Arkansas vs Michigan State Odds, Spread, Pick
+[![Arkansas Logo](https://static.sprtactn.co/teamlogos/ncaab/100/ark.png)](https://www.actionnetwork.com/ncaab/odds/arkansas-razorbacks)
+Thursday, Nov 26
+4:30 p.m. ET
+CBS
+[![Michigan St Logo](https://static.sprtactn.co/teamlogos/ncaab/100/msud.png)](https://www.actionnetwork.com/ncaab/odds/michigan-state-spartans)  
+| Arkansas Odds |  
+| --- |  
+| Spread  | Total  | Moneyline  |  
+|  +5.5 -110  |  148.5 -115o / -105u  | +185  |  
+| Michigan St Odds |  
+| --- |  
+| Spread  | Total  | Moneyline  |  
+|  -5.5 -110  |  148.5 -115o / -105u  | -225  |  
+Odds via [DraftKings](https://www.actionnetwork.com/online-sports-betting/reviews/draftkings). Get up-to-the-minute [NCAAB odds here](https://www.actionnetwork.com/ncaab/odds).
+[![DraftKings Logo](https://assets.actionnetwork.com/603379_Primary.png)](https://www.actionnetwork.com/online-sports-betting/reviews/draftkings)
+  * **Pick:[ Arkansas +5.5](https://playbookbot.com/books/fanduel/passthrough?deeplinkId%5B0%5D=ML3251961847&context=action-articles)**
+
+
+My**Arkansas vs Michigan State best bet** is on the Razorbacks to cover the spread. Be sure to find the best lines by using our live [NCAAB odds page](https://www.actionnetwork.com/ncaab/odds) and [**download the Action Network app**](https://www.actionnetwork.com/app?af_esp=true&af_xp=custom&source_caller=ui&af_dp=actionnetwork%3A%2F%2F&shortlink=z6p41qid&pid=website&deep_link_value=actionnetwork%3A%2F%2F&af_adset=Web&c=Website%20Downloads) for the latest picks and analysis.
+* * *
+## Arkansas vs Michigan State NCAAB Preview
+**Arkansas Basketball**
+Per usual, it was quite the offseason for [Arkansas](https://www.actionnetwork.com/ncaab/odds/arkansas-razorbacks) head coach John Calipari, who both secured significant transfer portal talent, in addition to a few five-star freshman prospects.
+Despite losing a great deal of last season's offensive production, Calipari landed the second-ranked incoming freshman in the nation in guard Jordan Smith Jr., along with three other recruits ranked inside the top 35.
+The head coach also acquired small forward JJ Andrews (14th), 6-foot-6 wing Abdou Toure (16th) and combo guard Davion Thompson (34th) to round out the class.
+That said, the Razorbacks are off to a rough 4-2 start to the season, and now draw the 11th-ranked Spartans in a game they are expected to lose.
+While Cal sought to surround his backcourt with lengthy wings who can stretch the floor and create transition scoring chances, the Razorbacks have largely struggled to remain consistent on defense.
+Though both Smith and Billy Richmond III have thrived attacking the rim, half-court spacing has stalled when perimeter shots aren't falling against physical half-court defenses
+Arkansas’ length has also been rather ineffective on the defensive end, and the Hogs have been underwhelming in crashing the glass.
+Though the Razorbacks boast one of the most athletic teams in the entire country, we have yet to see Arkansas live up to its full potential, and a matchup with an extremely well-coached Sparty squad presents a prime opportunity for Calipari’s youngsters to shine after a sluggish start.
+If Calipari’s bunch is to reign supreme over the Spartans in Detroit on Thanksgiving, Arkansas will definitely need to live up to its preseason hype both on the glass and through its lengthy perimeter defense to limit Michigan State’s primary facilitator, Jeremy Fears Jr.
+![Ryan Minion](https://s3.amazonaws.com/tan-user-assets/profile_images/284665/1771025276588-9c63cf533c824c8b9df3401b5b4eb21b.jpg)
+[Ryan Minion](https://www.actionnetwork.com/picks/profile/VegasMinion)
+Last 30d: 290-285-7 (+16.5u)
+Follow
+![CHI](https://assets.actionnetwork.com/598430_bears1.png)
+![DET](https://static.sprtactn.co/teamlogos/nfl/100/det.png)
+Bears @ Lions Picks
+Today
+/
+1:00 PM on CBS/Paramount+
+•
+202.9k bets
+L.Burden Anytime TD Scorer Yes
++140 (1u)
+Copy Bet
+https://discord.gg/VG3WjA2Rs
+A.St. Brown o83.5 Rec Yds
+-110 (1.1u)
+Copy Bet
+https://discord.gg/VG3WjA2Rs
+CHI -115
+-115 (1.15u)
+Copy Bet
+https://discord.gg/VG3WjA2Rs
+J.Gibbs First Touchdown Scorer Yes
++360 (1u)
+Copy Bet
+https://discord.gg/uKZpwueN9 #GibbsSZN 🦁🦁
+J.Gibbs o131.5 Rush + Rec Yds
+-114 (1.14u)
+Copy Bet
+https://discord.gg/uKZpwueN9 #GibbsSZN 🦁🦁
+L.Burden o60.5 Rec Yds
+-115 (1.15u)
+Copy Bet
+https://discord.gg/uKZpwueN9
+Over 55
+-110 (1.1u)
+Copy Bet
+https://discord.gg/wA7wc4GA3
+A.St. Brown 2+ TDs Yes
++400 (0.8u)
+Copy Bet
+https://discord.gg/kh5uhc8NT
+A.St. Brown 100+ Receiving Yards Yes
++160 (1u)
+Copy Bet
+https://discord.gg/kh5uhc8NT 🪜🦁
+![PHI](https://static.sprtactn.co/teamlogos/nfl/100/phi.png)
+![DAL](https://static.sprtactn.co/teamlogos/nfl/100/dal.png)
+Eagles @ Cowboys Picks
+Today
+/
+4:30 PM on FOX
+•
+145.2k bets
+D.Smith Anytime TD Scorer Yes
++200 (1u)
+Copy Bet
+https://discord.gg/uKZpwueN9
+PHI +8.5
+-110 (1.1u)
+Copy Bet
+https://discord.gg/wA7wc4GA3
+G.Pickens Anytime TD Scorer Yes
+-115 (1.15u)
+Copy Bet
+https://discord.gg/VG3WjA2Rs
+K.Turpin Anytime TD Scorer Yes
++700 (0.5u)
+Copy Bet
+#AnnualSystem #ThanksGivingBet #InsideJoke #IYKYK 🐸🐸
+D.Smith 80+ Receiving Yards Yes
++160 (1u)
+Copy Bet
+https://discord.gg/VG3WjA2Rs 🪜🦅
+D.Smith o63.5 Rec Yds
+-115 (1.15u)
+Copy Bet
+https://discord.gg/uKZpwueN9
+See All
+**Michigan State Basketball**
+Tom Izzo’s 11th-ranked [Spartans](https://www.actionnetwork.com/ncaab/odds/michigan-state-spartans) enter this matchup with Arkansas as a well-deserved six-point favorite. They have prevailed in five of their first six games, with their sole loss coming to [Tennessee](https://www.actionnetwork.com/ncaab/odds/tennessee-volunteers) on the road.
+Fears is off to an extremely impressive start to his junior campaign, scoring nearly 17 points per game, along with a nation-leading 9.3 assists. Fears was a Preseason National Player of the Year candidate heading into the season and is undoubtedly in contention following the first few weeks.
+Michigan State’s offseason game plan was centered around high roster continuity, while also boasting a top-10 2026 recruiting class.
+Izzo secured the likes of 6-foot-5 shooting guard Jasiah Jervis (No. 28) and 6-foot-10 center Ethan Taylor, a vital acquisition given that Jaxon Kohler entered the portal.
+In Kohler’s absence, Izzo has had to rely heavily on Taylor as the Spartans’ premier rim-protector.
+The Spartans also returned a number of key players from last season's offensive core, including high-flying 6-foot-5 wing Coen Carr, as well as sophomores Jordan Scott, Cam Ward and Jesse McCulloch.
+7-foot-2 former [Charlotte](https://www.actionnetwork.com/ncaab/odds/charlotte-49ers) center Anton Bonke will definitely get heavy minutes as well versus Arkansas, given the Razorbacks’ vast interior physicality.
+![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/ark.png)
+![Header Second Logo](https://static.sprtactn.co/teamlogos/ncaab/100/msud.png)
+## Arkansas vs Michigan State Picks, Betting Analysis
+We are in for an electric matchup on Thursday featuring two teams boasting arguably the top two head coaches in college basketball.
+In a matchup featuring two teams that prefer playing at very different tempos on the offensive end, it's Arkansas’ defense that I expect to be the biggest factor on Turkey Day.
+Despite Thursday’s game being played in Detroit, I am not expecting a huge turnout of Spartan fans, as betting markets currently anticipate.
+While Arkansas’ 4-2 record to start the year is far from ideal, Calipari boasts an extremely agile lineup that I expect to hang with Izzo’s bunch if the Razorbacks can establish their preferred up-tempo transition offense.
+**Pick:[ Arkansas +5.5](https://playbookbot.com/books/fanduel/passthrough?deeplinkId%5B0%5D=ML3251961847&context=action-articles)**
+* * *
+### How To Watch Arkansas vs Michigan St
+Location:
+Little Caesars Arena in Detroit, MI
+Date:
+Thu, Nov 26
+Tipoff Time:
+4:30 PM EST
+TV/Streaming:
+CBS
+Arkansas vs Michigan St is scheduled for 4:30 PM EST live from Little Caesars Arena on Thursday. The game will be broadcast on CBS.
+[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Farkansas-razorbacks-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-thursday-november-26)[](https://twitter.com/intent/tweet?text=Arkansas%20vs%20Michigan%20State%20Odds%2C%20Picks%2C%20Predictions%20%E2%80%94%2011%2F26&url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Farkansas-razorbacks-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-thursday-november-26)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Farkansas-razorbacks-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-thursday-november-26)
+![Author Profile](https://images.actionnetwork.com/blog/2026/01/3C9951D0-FA52-47B9-ACCF-70401B29AFA0-150x150.jpeg)
+About the Author
+Ryan graduated from Providence College in 2016 with Bachelor Degrees in Business Economics &amp; Mathematics. It was at Providence where Ryan really first found his passion for sports betting. For a lifelong sports fan with a knack for statistical analysis, he was instantly drawn to the fundamentals of the industry, specifically how sports betting markets functioned and fluctuated. In what primarily started as a recreational hobby, Ryan began studying the ins-and-outs of sports betting markets on a daily basis. He took to Twitter (now X), where he amassed a following for writing a sports betting blog that provided statistical analysis behind his wagers. In spite of seeking employment opportunities elsewhere post graduation, Ryan continued to follow his passion for the statistical analysis of sports betting wagers, eventually deciding to pursue a career in the sports betting industry.
+[Follow @vegasminion on X](https://x.com/vegasminion)
+This site [contains commercial content](https://www.actionnetwork.com/legal-online-sports-betting/affiliate-marketing-disclosure). We may be compensated for the links provided on this page. The content on this page is for informational purposes only. Action Network makes no representation or warranty as to the accuracy of the information given or the outcome of any game or event.
+### On This Page
+Right Arrow
+Arkansas vs Michigan State Odds, Spread, Pick
+Right Arrow
+Arkansas vs Michigan State NCAAB Preview
+Right Arrow
+Arkansas vs Michigan State Picks, Betting Analysis
+Right Arrow
+How To Watch Arkansas vs Michigan St
+### Top Stories
+[![College Basketball Best Bets: 4 NCAAB Picks for Thanksgiving](https://images.actionnetwork.com/blog/2026/11/andy-.png)](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-4-ncaab-picks-thanksgiving-thursday-november-26)
+NCAAB
+[College Basketball Best Bets: 4 NCAAB Picks for Thanksgiving](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-4-ncaab-picks-thanksgiving-thursday-november-26)
+Action Network Staff
+TODAY / 12:18 AM EST
+[![Utah State vs USC Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://images.actionnetwork.com/blog/2026/11/rodrice.jpg)](https://www.actionnetwork.com/ncaab/utah-state-aggies-vs-usc-trojans-prediction-pick-odds-college-basketball-thursday-november-26)
+NCAAB
+[Utah State vs USC Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://www.actionnetwork.com/ncaab/utah-state-aggies-vs-usc-trojans-prediction-pick-odds-college-basketball-thursday-november-26)
+Carter Elliott
+3 hours ago
+[![Saint Mary’s vs UCLA Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://images.actionnetwork.com/blog/2026/11/saint-marys-gaels-vs-ucla-bruins-prediction-pick-odds-college-basketball-thursday-november-26.jpg)](https://www.actionnetwork.com/ncaab/saint-marys-gaels-vs-ucla-bruins-prediction-pick-odds-college-basketball-thursday-november-26)
+NCAAB
+[Saint Mary’s vs UCLA Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://www.actionnetwork.com/ncaab/saint-marys-gaels-vs-ucla-bruins-prediction-pick-odds-college-basketball-thursday-november-26)
+Colby Marchio
+11 hours ago
+[![Creighton vs TCU Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://images.actionnetwork.com/blog/2026/11/BJ-Davissss.png)](https://www.actionnetwork.com/ncaab/creighton-bluejays-vs-tcu-horned-frogs-prediction-pick-odds-college-basketball-thursday-november-26)
+NCAAB
+[Creighton vs TCU Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://www.actionnetwork.com/ncaab/creighton-bluejays-vs-tcu-horned-frogs-prediction-pick-odds-college-basketball-thursday-november-26)
+Jonathan Jorcin
+10 hours ago
+[![St. John’s vs Louisville Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://images.actionnetwork.com/blog/2026/11/st-johns-red-storm-vs-louisville-cardinals-prediction-pick-odds-college-basketball-thursday-november-26.jpg)](https://www.actionnetwork.com/ncaab/st-johns-red-storm-vs-louisville-cardinals-prediction-pick-odds-college-basketball-thursday-november-26)
+NCAAB
+[St. John’s vs Louisville Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://www.actionnetwork.com/ncaab/st-johns-red-storm-vs-louisville-cardinals-prediction-pick-odds-college-basketball-thursday-november-26)
+Sean Paul
+8 hours ago
+[![Kansas State vs Alabama Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://images.actionnetwork.com/blog/2026/11/AmariAllen-11252026.jpg)](https://www.actionnetwork.com/ncaab/kansas-state-wildcats-vs-alabama-crimson-tide-prediction-pick-odds-college-basketball-thursday-november-26)
+NCAAB
+[Kansas State vs Alabama Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://www.actionnetwork.com/ncaab/kansas-state-wildcats-vs-alabama-crimson-tide-prediction-pick-odds-college-basketball-thursday-november-26)
+Sean Paul
+3 hours ago
+### Follow Us On Social
+[](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=2c42b208-cc67-4a3c-a8ad-295f98e64b2a&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=1f8e4628-1e6e-4f6c-bdc3-ecf846c1c8df&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Farkansas-razorbacks-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-thursday-november-26&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=138&tw_session_id=1795730460481-402974131&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=2c42b208-cc67-4a3c-a8ad-295f98e64b2a&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=1f8e4628-1e6e-4f6c-bdc3-ecf846c1c8df&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Farkansas-razorbacks-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-thursday-november-26&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=138&tw_session_id=1795730460481-402974131&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=b4c651b3-faa3-4076-b19a-9a01d3f4f9f0&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=1f8e4628-1e6e-4f6c-bdc3-ecf846c1c8df&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Farkansas-razorbacks-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-thursday-november-26&tw_engaged_ms=7696&tw_iframe_status=0&tw_pid_src=2&tw_session_count=138&tw_session_id=1795730460481-402974131&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=b4c651b3-faa3-4076-b19a-9a01d3f4f9f0&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=1f8e4628-1e6e-4f6c-bdc3-ecf846c1c8df&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Farkansas-razorbacks-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-thursday-november-26&tw_engaged_ms=7696&tw_iframe_status=0&tw_pid_src=2&tw_session_count=138&tw_session_id=1795730460481-402974131&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+
+
+
+---
+## SOURCE: https://www.actionnetwork.com/ncaab/utah-state-aggies-vs-usc-trojans-prediction-pick-odds-college-basketball-thursday-november-26
+
+Table of Contents
+[Home](https://www.actionnetwork.com/)Right Arrow[NCAAB](https://www.actionnetwork.com/ncaab)
+# Utah State vs USC Predictions, Start Time, Odds: NCAAB Picks for Thursday
+![Author Profile](https://images.actionnetwork.com/blog/2026/03/855290_logo-2-150x150.png)
+[Carter Elliott](https://www.actionnetwork.com/article/author/celliott)
+Betting Analyst
+[Download App](https://action.onelink.me/qhpb/f46fa531)
+Updated:
+Nov 26, 2026, 01:24 PM EST
+Updated:
+Nov 26, 2026, 01:24 PM EST
+Credit:
+Nov 14, 2025; Inglewood, California, USA; Southern California Trojans guard Rodney Rice (1) shoots a free throw during the first half of the Hall of Fame Series game against the Illinois State Redbirds at Intuit Dome. Mandatory Credit: Kiyoshi Mio-Imagn Images
+_If you want more Action Network content, be sure to[add us as a preferred source on Google](https://www.google.com/preferences/source?q=actionnetwork.com)._
+The [Utah State](https://www.actionnetwork.com/ncaab/odds/utah-state-aggies) Aggies take on the [USC](https://www.actionnetwork.com/ncaab/odds/usc-trojans) Trojans in Thousand Palms, CA, Acrisure Series. Tip-off is set for 4:30 p.m. ET on CBS Sports Network.
+USC is favored by 1.5 points on the spread with a moneyline of -122. The total is set at 157.5 points.
+Here’s my **Utah State vs. USC prediction** and [college basketball picks](https://www.actionnetwork.com/ncaab) for November 26, 2026.
+* * *
+## Utah State vs USC Prediction
+**Pick:[USC -2.5](https://playbookbot.com/books/fanduel/passthrough?deeplinkId%5B0%5D=ML3252119338&context=action-articles&sport=basketball)**
+My**Utah State vs USC best bet** is on the Trojans to cover the spread. Be sure to find the best lines by using our live [NCAAB odds page](https://www.actionnetwork.com/ncaab/odds) and [**download the Action Network app**](https://www.actionnetwork.com/app?af_esp=true&af_xp=custom&source_caller=ui&af_dp=actionnetwork%3A%2F%2F&shortlink=z6p41qid&pid=website&deep_link_value=actionnetwork%3A%2F%2F&af_adset=Web&c=Website%20Downloads) for the latest picks and analysis.
+* * *
+## Utah State vs. USC Odds, Spread
+[![Utah State Logo](https://static.sprtactn.co/teamlogos/ncaab/100/uts.png)](https://www.actionnetwork.com/ncaab/odds/utah-state-aggies)
+Thursday, Nov 26
+4:30 p.m. ET
+CBS Sports Network
+[![USC Logo](https://static.sprtactn.co/teamlogos/ncaab/100/usc.png)](https://www.actionnetwork.com/ncaab/odds/usc-trojans)  
+| Utah State Odds |  
+| --- |  
+| Spread  | Total  | Moneyline  |  
+|  +1.5 -110  |  157.5 -105o / -115u  | +102  |  
+| USC Odds |  
+| --- |  
+| Spread  | Total  | Moneyline  |  
+|  -1.5 -110  |  157.5 -105o / -115u  | -122  |  
+Odds via [DraftKings](https://www.actionnetwork.com/online-sports-betting/reviews/draftkings). Get up-to-the-minute [NCAAB odds here](https://www.actionnetwork.com/ncaab/odds).
+[![DraftKings Logo](https://assets.actionnetwork.com/603379_Primary.png)](https://www.actionnetwork.com/online-sports-betting/reviews/draftkings)
+  * **Utah State vs USC spread:** Utah State +1.5 (-110), USC -1.5 (-110)
+  * **Utah State vs USC over/under:** 157.5 (-105o / -115u)
+  * **Utah State vs USC moneyline:** Utah State +102, USC -122
+
+
+* * *
+## Utah State vs USC College Basketball Preview
+![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/uts.png)
+### Utah State Basketball
+Under new head coach Ben Jacobson, Utah State is off to a dominant start this season. 
+The undefeated Aggies have secured victories by 30 points or more in every contest. However, their first major test arrives as they face an equally undefeated USC squad, which is currently ranked in KenPom's top 25.
+The Aggies are powered by fifth-year senior Mason Falslev, the reigning 2026 Mountain West Player of the Year, who is already building a compelling All-American case. 
+Averaging 21.2 points, 8.8 rebounds and 5.2 assists per game, Falslev effectively leverages his 6-foot-4, 200-pound frame to consistently attack inside the arc. 
+While he struggles from the perimeter (under 30% from 3-point distance), his impact remains undeniable. 
+Utah State's backcourt is further strengthened by guards Dallin Hall and Solomon Callaghan. Both players contribute over 15 points per game, with Hall dishing out a team-leading seven assists per contest.
+Overall, the Aggies have featured a stellar offensive attack, entering this matchup ranked 16th nationally in offensive efficiency. 
+On the other end of the floor, their defense has been less dominant, placing 62nd overall.
+Both facets will be pushed to the limit against the unbeaten Trojans.
+![Carter Elliott](https://s3.amazonaws.com/tan-user-assets/profile_images/283091/1667833672810-f3a0aca05ead11ed9b2e8ff20452d41a.jpg)
+[Carter Elliott](https://www.actionnetwork.com/picks/profile/CarterElliott)
+Last 30d: 4-9-0 (-5.4u)
+Follow
+![USU](https://static.sprtactn.co/teamlogos/ncaab/100/uts.png)
+![USC](https://static.sprtactn.co/teamlogos/ncaab/100/usc.png)
+Utah State @ USC Picks
+Today
+/
+4:30 PM on CBS Sports Network
+•
+11.8k bets
+USC -2.5
+-110 (1u)
+Copy Bet
+While Utah State has delivered strong performances this season and Falslev is undoubtedly a talented player, the Aggies' statistics appear somewhat inflated due to a lighter schedule. USC's high-pressure defense and elite guard play give it the edge needed to secure a win and cover the spread. Back the Trojans to take this one.
+More
+![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/usc.png)
+### USC Basketball
+Led by head coach Eric Musselman, the undefeated Trojans have mounted an impressive start to the season. 
+At the center of their success is the star duo of Rodney Rice and Alijah Arenas, who make a strong case for being college basketball's premier backcourt. 
+Arenas leads the team in scoring with 21.3 points and four rebounds per game, while Rice closely follows with 20.8 points and four rebounds, in addition to a team-high 5.8 assists per game. 
+Beyond their dynamic backcourt and offensive firepower, the Trojans are even more formidable on the defensive end. Currently ranked 21st in defensive efficiency on KenPom, USC limits opponents to under 26% shooting from beyond the arc and under 42% from 2-point range. 
+Furthermore, they rank among the top 40 nationally in forcing turnovers, setting up a fascinating matchup against a Utah State squad that excels at protecting the basketball better than any team in the nation.
+![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/uts.png)
+![Header Second Logo](https://static.sprtactn.co/teamlogos/ncaab/100/usc.png)
+## Utah State vs. USC Pick, Betting Analysis
+While Utah State has delivered strong performances this season and Falslev is undoubtedly a talented player, the Aggies' statistics appear somewhat inflated due to a lighter schedule.
+USC's high-pressure defense and elite guard play give it the edge needed to secure a win and cover the spread.
+Back the Trojans to take this one.
+**Pick:[USC -2.5](https://playbookbot.com/books/fanduel/passthrough?deeplinkId%5B0%5D=ML3252119338&context=action-articles&sport=basketball)**
+* * *
+### How To Watch Utah State vs USC
+Location:
+Acrisure Arena in Thousand Palms, CA
+Date:
+Thu, Nov 26
+Tipoff Time:
+4:30 PM EST
+TV/Streaming:
+CBS Sports Network
+Utah State vs USC is scheduled for 4:30 PM EST live from Acrisure Arena on Thursday. The game will be broadcast on CBS Sports Network.
+[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Futah-state-aggies-vs-usc-trojans-prediction-pick-odds-college-basketball-thursday-november-26)[](https://twitter.com/intent/tweet?text=Utah%20State%20vs%20USC%20Predictions%2C%20Start%20Time%2C%20Odds%3A%20NCAAB%20Picks%20for%20Thursday&url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Futah-state-aggies-vs-usc-trojans-prediction-pick-odds-college-basketball-thursday-november-26)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Futah-state-aggies-vs-usc-trojans-prediction-pick-odds-college-basketball-thursday-november-26)
+![Author Profile](https://images.actionnetwork.com/blog/2026/03/855290_logo-2-150x150.png)
+About the Author
+Carter Elliott • Betting Analyst
+This site [contains commercial content](https://www.actionnetwork.com/legal-online-sports-betting/affiliate-marketing-disclosure). We may be compensated for the links provided on this page. The content on this page is for informational purposes only. Action Network makes no representation or warranty as to the accuracy of the information given or the outcome of any game or event.
+### On This Page
+Right Arrow
+Utah State vs USC Prediction
+Right Arrow
+Utah State vs. USC Odds, Spread
+Right Arrow
+Utah State vs USC College Basketball Preview
+Right Arrow
+Utah State Basketball
+Right Arrow
+USC Basketball
+Right Arrow
+Utah State vs. USC Pick, Betting Analysis
+Right Arrow
+How To Watch Utah State vs USC
+### Top Stories
+[![College Basketball Best Bets: 4 NCAAB Picks for Thanksgiving](https://images.actionnetwork.com/blog/2026/11/andy-.png)](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-4-ncaab-picks-thanksgiving-thursday-november-26)
+NCAAB
+[College Basketball Best Bets: 4 NCAAB Picks for Thanksgiving](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-4-ncaab-picks-thanksgiving-thursday-november-26)
+Action Network Staff
+TODAY / 12:18 AM EST
+[![Arkansas vs Michigan State Odds, Picks, Predictions — 11/26](https://images.actionnetwork.com/blog/2026/11/arkansas-razorbacks-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-thursday-november-26-1.jpg)](https://www.actionnetwork.com/ncaab/arkansas-razorbacks-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-thursday-november-26)
+NCAAB
+[Arkansas vs Michigan State Odds, Picks, Predictions — 11/26](https://www.actionnetwork.com/ncaab/arkansas-razorbacks-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-thursday-november-26)
+Ryan Minion
+3 hours ago
+[![Saint Mary’s vs UCLA Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://images.actionnetwork.com/blog/2026/11/saint-marys-gaels-vs-ucla-bruins-prediction-pick-odds-college-basketball-thursday-november-26.jpg)](https://www.actionnetwork.com/ncaab/saint-marys-gaels-vs-ucla-bruins-prediction-pick-odds-college-basketball-thursday-november-26)
+NCAAB
+[Saint Mary’s vs UCLA Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://www.actionnetwork.com/ncaab/saint-marys-gaels-vs-ucla-bruins-prediction-pick-odds-college-basketball-thursday-november-26)
+Colby Marchio
+11 hours ago
+[![Creighton vs TCU Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://images.actionnetwork.com/blog/2026/11/BJ-Davissss.png)](https://www.actionnetwork.com/ncaab/creighton-bluejays-vs-tcu-horned-frogs-prediction-pick-odds-college-basketball-thursday-november-26)
+NCAAB
+[Creighton vs TCU Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://www.actionnetwork.com/ncaab/creighton-bluejays-vs-tcu-horned-frogs-prediction-pick-odds-college-basketball-thursday-november-26)
+Jonathan Jorcin
+10 hours ago
+[![St. John’s vs Louisville Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://images.actionnetwork.com/blog/2026/11/st-johns-red-storm-vs-louisville-cardinals-prediction-pick-odds-college-basketball-thursday-november-26.jpg)](https://www.actionnetwork.com/ncaab/st-johns-red-storm-vs-louisville-cardinals-prediction-pick-odds-college-basketball-thursday-november-26)
+NCAAB
+[St. John’s vs Louisville Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://www.actionnetwork.com/ncaab/st-johns-red-storm-vs-louisville-cardinals-prediction-pick-odds-college-basketball-thursday-november-26)
+Sean Paul
+8 hours ago
+[![Kansas State vs Alabama Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://images.actionnetwork.com/blog/2026/11/AmariAllen-11252026.jpg)](https://www.actionnetwork.com/ncaab/kansas-state-wildcats-vs-alabama-crimson-tide-prediction-pick-odds-college-basketball-thursday-november-26)
+NCAAB
+[Kansas State vs Alabama Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://www.actionnetwork.com/ncaab/kansas-state-wildcats-vs-alabama-crimson-tide-prediction-pick-odds-college-basketball-thursday-november-26)
+Sean Paul
+3 hours ago
+### Follow Us On Social
+[](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=29548ad8-5afd-41eb-9def-75b89e30dd14&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=31a8d582-ae81-4725-8a34-371bb3faba57&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Futah-state-aggies-vs-usc-trojans-prediction-pick-odds-college-basketball-thursday-november-26&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=138&tw_session_id=1795730460481-402974131&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=29548ad8-5afd-41eb-9def-75b89e30dd14&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=31a8d582-ae81-4725-8a34-371bb3faba57&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Futah-state-aggies-vs-usc-trojans-prediction-pick-odds-college-basketball-thursday-november-26&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=138&tw_session_id=1795730460481-402974131&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=35f51255-034f-4ec2-a7fa-5956ecf6b852&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=31a8d582-ae81-4725-8a34-371bb3faba57&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Futah-state-aggies-vs-usc-trojans-prediction-pick-odds-college-basketball-thursday-november-26&tw_engaged_ms=7721&tw_iframe_status=0&tw_pid_src=2&tw_session_count=138&tw_session_id=1795730460481-402974131&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=35f51255-034f-4ec2-a7fa-5956ecf6b852&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=31a8d582-ae81-4725-8a34-371bb3faba57&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Futah-state-aggies-vs-usc-trojans-prediction-pick-odds-college-basketball-thursday-november-26&tw_engaged_ms=7721&tw_iframe_status=0&tw_pid_src=2&tw_session_count=138&tw_session_id=1795730460481-402974131&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+
+
+
+---
+## SOURCE: https://www.actionnetwork.com/ncaab/saint-marys-gaels-vs-ucla-bruins-prediction-pick-odds-college-basketball-thursday-november-26
+
+Table of Contents
+[Home](https://www.actionnetwork.com/)Right Arrow[NCAAB](https://www.actionnetwork.com/ncaab)
+# Saint Mary’s vs UCLA Prediction, Pick, College Basketball Odds for Thursday, Nov. 26
 ![Author Profile](https://images.actionnetwork.com/blog/2026/03/855290_logo-2-150x150.png)
 [Colby Marchio](https://www.actionnetwork.com/article/author/cmaricho)
 Betting Analyst
 [Download App](https://action.onelink.me/qhpb/f46fa531)
 Updated:
-Nov 25, 2026, 11:06 PM EST
+Nov 26, 2026, 06:01 AM EST
 Updated:
-Nov 25, 2026, 11:06 PM EST
+Nov 26, 2026, 06:01 AM EST
 Credit:
-Photo Credit: Dale Zanine-Imagn Images  
-Pictured: Blue Cain controls a rebound
+IMAGN IMAGES via Reuters Connect. Pictured: UCLA Bruins guard Trent Perry
 _If you want more Action Network content, be sure to[add us as a preferred source on Google](https://www.google.com/preferences/source?q=actionnetwork.com)._
-The Georgia Bulldogs take on the Cincinnati Bearcats in Kissimmee, FL, in the ESPN Events Invitational. Tip-off is set for 11 a.m. ET on ESPN.
-Cincinnati is favored by -2.5 points on the spread with a moneyline of -130. The total is set at 155.5 points.
-Here’s my **Georgia vs. Cincinnati prediction** and [college basketball picks](https://www.actionnetwork.com/ncaab) for November 26, 2026.
+The Saint Mary's Gaels take on the UCLA Bruins in San Diego, CA, in the Rady Children's Invitational. Tip-off is set for 5 p.m. ET on Fox Sports 1.
+UCLA is favored by -7.5 points on the [spread](https://www.actionnetwork.com/education/point-spread) with a [moneyline](https://www.actionnetwork.com/education/moneyline) of -310. The total is set at 153.5 points.
+Here’s my **Saint Mary's vs. UCLA prediction** and [college basketball picks](https://www.actionnetwork.com/ncaab) for November 26, 2026.
 * * *
-## Georgia vs Cincinnati Prediction
-**Pick:[Georgia +2.5](https://playbookbot.com/books/draftkings/passthrough?deeplinkId%5B0%5D=ML3252751286&context=action-articles)**
-My**Georgia vs Cincinnati best bet** is on the Bulldogs to cover the spread. Be sure to find the best lines by using our live [NCAAB odds page](https://www.actionnetwork.com/ncaab/odds) and [**download the Action Network app**](https://www.actionnetwork.com/app?af_esp=true&af_xp=custom&source_caller=ui&af_dp=actionnetwork%3A%2F%2F&shortlink=z6p41qid&pid=website&deep_link_value=actionnetwork%3A%2F%2F&af_adset=Web&c=Website%20Downloads) for the latest picks and analysis.
+## Saint Mary's vs UCLA Prediction
+**Pick:[ Over 153.5](https://playbookbot.com/books/fanduel/passthrough?deeplinkId%5B0%5D=ML3252119358&context=action-articles)**
+My**Saint Mary's vs UCLA best bet** is on the game total over. Be sure to find the best lines by using our live [NCAAB odds page](https://www.actionnetwork.com/ncaab/odds) and [**download the Action Network app**](https://www.actionnetwork.com/app?af_esp=true&af_xp=custom&source_caller=ui&af_dp=actionnetwork%3A%2F%2F&shortlink=z6p41qid&pid=website&deep_link_value=actionnetwork%3A%2F%2F&af_adset=Web&c=Website%20Downloads) for the latest picks and analysis.
 * * *
-## Georgia vs Cincinnati Odds
-[![Georgia Logo](https://static.sprtactn.co/teamlogos/ncaab/100/uga.png)](https://www.actionnetwork.com/ncaab/odds/georgia-bulldogs)
-Thursday, Nov 26
-11 a.m. ET
-ESPN
-[![Cincinnati Logo](https://static.sprtactn.co/teamlogos/ncaab/100/cind.png)](https://www.actionnetwork.com/ncaab/odds/cincinnati-bearcats)  
-| Georgia Odds |  
+## Saint Mary's vs. UCLA Odds
+[![Saint Mary's Logo](https://static.sprtactn.co/teamlogos/ncaab/100/smc.png)](https://www.actionnetwork.com/ncaab/odds/saint-marys-gaels)
+Thursday, November 26
+5 p.m. ET
+Fox Sports 1
+[![UCLA Logo](https://static.sprtactn.co/teamlogos/ncaab/100/ucla.png)](https://www.actionnetwork.com/ncaab/odds/ucla-bruins)  
+| Saint Mary's Odds |  
 | --- |  
 | Spread  | Total  | Moneyline  |  
-|  +2.5 -112  |  155.5 -112o / -108u  | +110  |  
-| Cincinnati Odds |  
+|  +7.5 -114  |  153.5 -110o / -110u  | +250  |  
+| UCLA Odds |  
 | --- |  
 | Spread  | Total  | Moneyline  |  
-|  -2.5 -108  |  155.5 -112o / -108u  | -130  |  
-Odds via [DraftKings](https://www.actionnetwork.com/online-sports-betting/reviews/draftkings). Get up-to-the-minute [NCAAB odds here](https://www.actionnetwork.com/ncaab/odds).
-[![DraftKings Logo](https://assets.actionnetwork.com/603379_Primary.png)](https://www.actionnetwork.com/online-sports-betting/reviews/draftkings)
-  * **Georgia vs Cincinnati spread:** Cincinnati -2.5 (-108), Georgia +2.5 (-112)
-  * **Georgia vs Cincinnati over/under:** 155.5 (-112o / -108u)
-  * **Georgia vs Cincinnati moneyline:** Georgia +110, Cincinnati -130
+|  -7.5 -106  |  153.5 -110o / -110u  | -310  |  
+Odds via [FanDuel](https://www.actionnetwork.com/online-sports-betting/reviews/fanduel). Get up-to-the-minute [NCAAB odds here](https://www.actionnetwork.com/ncaab/odds).
+[![FanDuel Logo](https://assets.actionnetwork.com/392973_FanDuel.png)](https://www.actionnetwork.com/online-sports-betting/reviews/fanduel)
+  * **Saint Mary's vs UCLA spread:** Saint Mary's +7.5 (-114), UCLA -7.5 (-106)
+  * **Saint Mary's vs UCLA over/under:** 153.5 (-110o / -110u)
+  * **Saint Mary's vs UCLA moneyline:** Saint Mary's +250, UCLA -310
 
 
 * * *
-## Georgia vs Cincinnati College Basketball Preview
-![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/uga.png)
-### Georgia Basketball
-[Georgia](https://www.actionnetwork.com/ncaab/odds/georgia-bulldogs) has been playing some great basketball early on, and people are starting to notice [Blue Cain](https://www.actionnetwork.com/ncaab/players/blue-cain-256260-g)'s greatness.
-The Bulldogs' most recent game against little brother [Georgia Tech](https://www.actionnetwork.com/ncaab/odds/georgia-tech-yellow-jackets) was a bit of a roller coaster. The Dawgs blew an early first-half lead that reached 19 points, only to escape with a six-point road victory.
-Mike White has had a week to prepare his boys for this big matchup against the Bearcats.
-With that extra time, Georgia should be able to come out and play a much cleaner game.
-![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/cind.png)
-### Cincinnati Basketball
-For the first season of the Jerrod Calhoun era, the Bearcats have looked solid. He brought in a bunch of transfers, with only one returning player.
-[Cincinnati](https://www.actionnetwork.com/ncaab/odds/cincinnati-bearcats) is currently 5-1, with its only loss coming against Minnesota on Nov. 9. This group has held its own against everyone else on its schedule.
-Bart Torvik has Cincinnati ranked as a top-60 offense and a top-30 defense. However, I have some doubts, which we can dive into right … now.
-![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/uga.png)
-![Header Second Logo](https://static.sprtactn.co/teamlogos/ncaab/100/cind.png)
-## Georgia vs. Cincinnati Pick, Betting Analysis
-The Bearcats may have endured the tougher schedule early on (184th toughest), but based on what we've seen so far, beating [Dayton](https://www.actionnetwork.com/ncaab/odds/dayton-flyers) — even at home — isn't looking too sexy. Then you add in the loss to [Minnesota](https://www.actionnetwork.com/ncaab/odds/minnesota-golden-gophers) at home, and has Cincinnati's schedule really been that difficult?
-Georgia, meanwhile, has played the 62nd-easiest schedule, per Haslametrics. The Bulldogs traveled to [North Carolina](https://www.actionnetwork.com/ncaab/odds/north-carolina-tar-heels) and won by eight. They didn't cover against Georgia Tech, but they got the job done on the road.
-The Bulldogs are being disrespected here, especially considering how much experience this roster has playing together compared to Calhoun's newly assembled group.
-If Cain and company are firing on all cylinders, this is a game the Dawgs should have no problem coming out alive in.
-**Pick:[Georgia +2.5](https://playbookbot.com/books/draftkings/passthrough?deeplinkId%5B0%5D=ML3252751286&context=action-articles)**
+## Saint Mary's vs UCLA College Basketball Preview
+![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/smc.png)
+### Saint Mary's Basketball
+Welcome to the Mickey McConnell era at Saint Mary's! How has it been going? Well, the Gaels are currently 2-1 against top-100 teams, beating Illinois State and Saint Louis. Their lone loss came in overtime against Nevada, but they still covered.
+The McConnell style will look very different from what you may remember over the last 25 years under Randy Bennett. McConnell's system emphasizes unselfish, disciplined and fast-paced basketball.
+So far, the Gaels have showcased a lethal offense with enough firepower to go toe-to-toe with just about anyone.
+![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/ucla.png)
+### UCLA Basketball
+The Bruins' win over Arizona was a massive victory on opening night, but it has been 24 days since that matchup, and UCLA has not played a soul since.
+The Bruins enter Thanksgiving Day owning the 35th-easiest schedule in the country, while their opponent has faced the 62nd-toughest.
+UCLA has a very talented roster, and this team could be worthy of adding to your futures portfolio to win it all. However, with just one impressive win on its resume, don't rush into anything just yet.
+Mick Cronin and his boys have all the talent in the world to take down this Saint Mary's team under a new regime. But are the Bruins battle-tested enough to take on a team nearly 200 spots ahead of their previous opponents, especially after nearly a month without facing a top opponent?
+![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/smc.png)
+![Header Second Logo](https://static.sprtactn.co/teamlogos/ncaab/100/ucla.png)
+## Saint Mary's vs. UCLA Pick, Betting Analysis
+As much as this writer would love to back the Gaels in this spot, the over feels much safer.
+Despite Saint Mary's facing a tough schedule out of the gate, its defense has some serious issues.
+While ranking 72nd in adjusted defensive efficiency, the Gaels are 231st in effective field goal percentage defense, 229th in 3-point percentage defense, bottom 20 in far 2-point percentage defense, 209th in 2-point percentage defense and 243rd in free-throw rate defense.
+Saint Mary's offense, on the other hand, is fantastic. McConnell wants his team pushing the pace, and Bart Torvik currently ranks the Gaels as the 75th-fastest squad in the country.
+Saint Mary's also has the 15th-best effective field goal percentage offense in the country and ranks seventh in 3-point percentage and 24th in close 2-point percentage.
+UCLA, which has not played a soul since opening night, may have its hands full. The Bruins' defense is highly ranked, but if you went out and played a grade school team, your defensive metrics would look fantastic, too. Their offense, however, is very legit.
+Expect UCLA to go right through the struggling Gaels defensive unit, pushing this total well over 153.5.
+**Pick:[ Over 153.5](https://playbookbot.com/books/fanduel/passthrough?deeplinkId%5B0%5D=ML3252119358&context=action-articles)**
 * * *
-### How To Watch Georgia vs Cincinnati
+### How To Watch Saint Mary's vs UCLA
 Location:
-State Farm Field House in Kissimmee, FL
+Jenny Craig Pavilion in San Diego, CA
 Date:
 Thu, Nov 26
 Tipoff Time:
-11:00 AM EST
+5:00 PM EST
 TV/Streaming:
-ESPN
-Georgia vs Cincinnati is scheduled for 11:00 AM EST live from State Farm Field House on Thursday. The game will be broadcast on ESPN.
-[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fgeorgia-bulldogs-vs-cincinnati-bearcats-prediction-pick-odds-college-basketball-thursday-november-26)[](https://twitter.com/intent/tweet?text=Georgia%20vs%20Cincinnati%20Prediction%2C%20Pick%2C%20College%20Basketball%20Odds%20for%20Thursday%2C%20Nov.%2026&url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fgeorgia-bulldogs-vs-cincinnati-bearcats-prediction-pick-odds-college-basketball-thursday-november-26)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fgeorgia-bulldogs-vs-cincinnati-bearcats-prediction-pick-odds-college-basketball-thursday-november-26)
+Fox Sports 1
+Saint Mary's vs UCLA is scheduled for 5:00 PM EST live from Jenny Craig Pavilion on Thursday. The game will be broadcast on Fox Sports 1.
+[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fsaint-marys-gaels-vs-ucla-bruins-prediction-pick-odds-college-basketball-thursday-november-26)[](https://twitter.com/intent/tweet?text=Saint%20Mary%E2%80%99s%20vs%20UCLA%20Prediction%2C%20Pick%2C%20College%20Basketball%20Odds%20for%20Thursday%2C%20Nov.%2026&url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fsaint-marys-gaels-vs-ucla-bruins-prediction-pick-odds-college-basketball-thursday-november-26)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fsaint-marys-gaels-vs-ucla-bruins-prediction-pick-odds-college-basketball-thursday-november-26)
 ![Author Profile](https://images.actionnetwork.com/blog/2026/03/855290_logo-2-150x150.png)
 About the Author
 Colby Marchio • Betting Analyst
 This site [contains commercial content](https://www.actionnetwork.com/legal-online-sports-betting/affiliate-marketing-disclosure). We may be compensated for the links provided on this page. The content on this page is for informational purposes only. Action Network makes no representation or warranty as to the accuracy of the information given or the outcome of any game or event.
 ### On This Page
 Right Arrow
-Georgia vs Cincinnati Prediction
+Saint Mary's vs UCLA Prediction
 Right Arrow
-Georgia vs Cincinnati Odds
+Saint Mary's vs. UCLA Odds
 Right Arrow
-Georgia vs Cincinnati College Basketball Preview
+Saint Mary's vs UCLA College Basketball Preview
 Right Arrow
-Georgia Basketball
+Saint Mary's Basketball
 Right Arrow
-Cincinnati Basketball
+UCLA Basketball
 Right Arrow
-Georgia vs. Cincinnati Pick, Betting Analysis
+Saint Mary's vs. UCLA Pick, Betting Analysis
 Right Arrow
-How To Watch Georgia vs Cincinnati
+How To Watch Saint Mary's vs UCLA
 ### Top Stories
 [![College Basketball Best Bets: 4 NCAAB Picks for Thanksgiving](https://images.actionnetwork.com/blog/2026/11/andy-.png)](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-4-ncaab-picks-thanksgiving-thursday-november-26)
 NCAAB
 [College Basketball Best Bets: 4 NCAAB Picks for Thanksgiving](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-4-ncaab-picks-thanksgiving-thursday-november-26)
 Action Network Staff
-10 hours ago
-[![Oklahoma vs Purdue Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://images.actionnetwork.com/blog/2026/11/Oklahoma-vs-Purdue-11.26.26.jpg)](https://www.actionnetwork.com/ncaab/oklahoma-sooners-vs-purdue-boilermakers-prediction-pick-odds-college-basketball-thursday-november-26)
+TODAY / 12:18 AM EST
+[![Arkansas vs Michigan State Odds, Picks, Predictions — 11/26](https://images.actionnetwork.com/blog/2026/11/arkansas-razorbacks-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-thursday-november-26-1.jpg)](https://www.actionnetwork.com/ncaab/arkansas-razorbacks-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-thursday-november-26)
 NCAAB
-[Oklahoma vs Purdue Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://www.actionnetwork.com/ncaab/oklahoma-sooners-vs-purdue-boilermakers-prediction-pick-odds-college-basketball-thursday-november-26)
+[Arkansas vs Michigan State Odds, Picks, Predictions — 11/26](https://www.actionnetwork.com/ncaab/arkansas-razorbacks-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-thursday-november-26)
+Ryan Minion
+3 hours ago
+[![Utah State vs USC Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://images.actionnetwork.com/blog/2026/11/rodrice.jpg)](https://www.actionnetwork.com/ncaab/utah-state-aggies-vs-usc-trojans-prediction-pick-odds-college-basketball-thursday-november-26)
+NCAAB
+[Utah State vs USC Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://www.actionnetwork.com/ncaab/utah-state-aggies-vs-usc-trojans-prediction-pick-odds-college-basketball-thursday-november-26)
+Carter Elliott
+3 hours ago
+[![Creighton vs TCU Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://images.actionnetwork.com/blog/2026/11/BJ-Davissss.png)](https://www.actionnetwork.com/ncaab/creighton-bluejays-vs-tcu-horned-frogs-prediction-pick-odds-college-basketball-thursday-november-26)
+NCAAB
+[Creighton vs TCU Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://www.actionnetwork.com/ncaab/creighton-bluejays-vs-tcu-horned-frogs-prediction-pick-odds-college-basketball-thursday-november-26)
 Jonathan Jorcin
-24 mins ago
-[![San Diego State vs Maryland Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://images.actionnetwork.com/blog/2026/11/MarylandTerrapins-11262026.jpg)](https://www.actionnetwork.com/ncaab/san-diego-state-aztecs-vs-maryland-terrapins-prediction-pick-odds-college-basketball-thursday-november-26)
+10 hours ago
+[![St. John’s vs Louisville Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://images.actionnetwork.com/blog/2026/11/st-johns-red-storm-vs-louisville-cardinals-prediction-pick-odds-college-basketball-thursday-november-26.jpg)](https://www.actionnetwork.com/ncaab/st-johns-red-storm-vs-louisville-cardinals-prediction-pick-odds-college-basketball-thursday-november-26)
 NCAAB
-[San Diego State vs Maryland Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://www.actionnetwork.com/ncaab/san-diego-state-aztecs-vs-maryland-terrapins-prediction-pick-odds-college-basketball-thursday-november-26)
-Colby Marchio
-6 hours ago
-[![Georgetown vs Texas Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://images.actionnetwork.com/blog/2026/11/georgetown-hoyas-vs-texas-longhorns-prediction-pick-odds-college-basketball-thursday-november-26.jpg)](https://www.actionnetwork.com/ncaab/georgetown-hoyas-vs-texas-longhorns-prediction-pick-odds-college-basketball-thursday-november-26)
-NCAAB
-[Georgetown vs Texas Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://www.actionnetwork.com/ncaab/georgetown-hoyas-vs-texas-longhorns-prediction-pick-odds-college-basketball-thursday-november-26)
+[St. John’s vs Louisville Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://www.actionnetwork.com/ncaab/st-johns-red-storm-vs-louisville-cardinals-prediction-pick-odds-college-basketball-thursday-november-26)
 Sean Paul
-6 hours ago
-[![Iowa State vs Tennessee Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://images.actionnetwork.com/blog/2026/11/IowaSt-NCAAB-11262026.jpg)](https://www.actionnetwork.com/ncaab/iowa-state-cyclones-vs-tennessee-volunteers-prediction-pick-odds-college-basketball-thursday-november-26)
+8 hours ago
+[![Kansas State vs Alabama Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://images.actionnetwork.com/blog/2026/11/AmariAllen-11252026.jpg)](https://www.actionnetwork.com/ncaab/kansas-state-wildcats-vs-alabama-crimson-tide-prediction-pick-odds-college-basketball-thursday-november-26)
 NCAAB
-[Iowa State vs Tennessee Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://www.actionnetwork.com/ncaab/iowa-state-cyclones-vs-tennessee-volunteers-prediction-pick-odds-college-basketball-thursday-november-26)
-Colby Marchio
-22 mins ago
-[![Michigan vs Miami Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://images.actionnetwork.com/blog/2026/11/Michigan-vs-Miami-11.26.26.jpg)](https://www.actionnetwork.com/ncaab/michigan-wolverines-vs-miami-hurricanes-prediction-pick-odds-college-basketball-thursday-november-26)
-NCAAB
-[Michigan vs Miami Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://www.actionnetwork.com/ncaab/michigan-wolverines-vs-miami-hurricanes-prediction-pick-odds-college-basketball-thursday-november-26)
+[Kansas State vs Alabama Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://www.actionnetwork.com/ncaab/kansas-state-wildcats-vs-alabama-crimson-tide-prediction-pick-odds-college-basketball-thursday-november-26)
 Sean Paul
-5 hours ago
+3 hours ago
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=5a070603-c7f3-46f2-9a59-f6db366162a9&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=5627a454-692a-4d78-8536-efbbf6eb9887&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fgeorgia-bulldogs-vs-cincinnati-bearcats-prediction-pick-odds-college-basketball-thursday-november-26&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=136&tw_session_id=1795708995698-767581053&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=5a070603-c7f3-46f2-9a59-f6db366162a9&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=5627a454-692a-4d78-8536-efbbf6eb9887&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fgeorgia-bulldogs-vs-cincinnati-bearcats-prediction-pick-odds-college-basketball-thursday-november-26&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=136&tw_session_id=1795708995698-767581053&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=129dad9e-5cb3-4c82-a083-14665b267e72&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=5627a454-692a-4d78-8536-efbbf6eb9887&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fgeorgia-bulldogs-vs-cincinnati-bearcats-prediction-pick-odds-college-basketball-thursday-november-26&tw_engaged_ms=7702&tw_iframe_status=0&tw_pid_src=2&tw_session_count=136&tw_session_id=1795708995698-767581053&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=129dad9e-5cb3-4c82-a083-14665b267e72&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=5627a454-692a-4d78-8536-efbbf6eb9887&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fgeorgia-bulldogs-vs-cincinnati-bearcats-prediction-pick-odds-college-basketball-thursday-november-26&tw_engaged_ms=7702&tw_iframe_status=0&tw_pid_src=2&tw_session_count=136&tw_session_id=1795708995698-767581053&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=bd659960-53c5-45dc-a498-21fecb356a14&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=5e4939aa-fe4a-4588-ac5a-4efab7314865&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fsaint-marys-gaels-vs-ucla-bruins-prediction-pick-odds-college-basketball-thursday-november-26&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=138&tw_session_id=1795730460481-402974131&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=bd659960-53c5-45dc-a498-21fecb356a14&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=5e4939aa-fe4a-4588-ac5a-4efab7314865&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fsaint-marys-gaels-vs-ucla-bruins-prediction-pick-odds-college-basketball-thursday-november-26&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=138&tw_session_id=1795730460481-402974131&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=32e555ca-1895-434a-bbc6-80c9e118325c&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=5e4939aa-fe4a-4588-ac5a-4efab7314865&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fsaint-marys-gaels-vs-ucla-bruins-prediction-pick-odds-college-basketball-thursday-november-26&tw_engaged_ms=7701&tw_iframe_status=0&tw_pid_src=2&tw_session_count=138&tw_session_id=1795730460481-402974131&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=32e555ca-1895-434a-bbc6-80c9e118325c&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=5e4939aa-fe4a-4588-ac5a-4efab7314865&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fsaint-marys-gaels-vs-ucla-bruins-prediction-pick-odds-college-basketball-thursday-november-26&tw_engaged_ms=7701&tw_iframe_status=0&tw_pid_src=2&tw_session_count=138&tw_session_id=1795730460481-402974131&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 
 
 
 ---
-## SOURCE: https://www.actionnetwork.com/ncaab/oklahoma-sooners-vs-purdue-boilermakers-prediction-pick-odds-college-basketball-thursday-november-26
+## SOURCE: https://www.actionnetwork.com/ncaab/creighton-bluejays-vs-tcu-horned-frogs-prediction-pick-odds-college-basketball-thursday-november-26
 
 Table of Contents
 [Home](https://www.actionnetwork.com/)Right Arrow[NCAAB](https://www.actionnetwork.com/ncaab)
-# Oklahoma vs Purdue Predictions, Start Time, Odds: NCAAB Picks for Thursday
+# Creighton vs TCU Prediction, Pick, College Basketball Odds for Thursday, Nov. 26
 ![Author Profile](https://images.actionnetwork.com/blog/2026/03/855290_logo-2-150x150.png)
 [Jonathan Jorcin](https://www.actionnetwork.com/article/author/jjorcin)
 [Download App](https://action.onelink.me/qhpb/f46fa531)
 Updated:
-Nov 26, 2026, 10:54 AM EST
+Nov 26, 2026, 06:11 AM EST
 Updated:
-Nov 26, 2026, 10:54 AM EST
+Nov 26, 2026, 06:11 AM EST
 Credit:
-Photo Credit: Butch Dill-Imagn Images  
-Pictured: Xzayvier Brown
+USA TODAY Network via Reuters Connect. Pictured: BJ Davis (Creighton)
 _If you want more Action Network content, be sure to[add us as a preferred source on Google](https://www.google.com/preferences/source?q=actionnetwork.com)._
-The Oklahoma Sooners take on the Purdue Boilermakers in Fort Myers, FL. Tip-off is set for 12 p.m. ET on FOX.
-Purdue is favored by -4.5 points on the spread with a moneyline of -198. The total is set at 140.5 points.
-Here’s my **Oklahoma vs. Purdue prediction** and [college basketball picks](https://www.actionnetwork.com/ncaab) for November 26, 2026.
+The [Creighton](https://www.actionnetwork.com/ncaab/odds/creighton-bluejays) Bluejays take on the [TCU](https://www.actionnetwork.com/ncaab/odds/tcu-horned-frogs) Horned Frogs in Las Vegas, NV, in the Players Era 16. Tip-off is set for 6 p.m. ET on ESPN.
+Creighton is favored by -1.5 points on the spread with a moneyline of -113. The total is set at 155.5 points.
+Here’s my **Creighton vs. TCU prediction** and [college basketball picks](https://www.actionnetwork.com/ncaab) for November 26, 2026.
 * * *
-## Oklahoma vs Purdue Prediction
-**Pick:[Oklahoma ML +172](https://playbookbot.com/books/fanduel/passthrough?deeplinkId%5B0%5D=ML3252837921&context=action-articles)**
-My**Oklahoma vs Purdue best bet** is on the Sooners to win outright. Be sure to find the best lines by using our live [NCAAB odds page](https://www.actionnetwork.com/ncaab/odds) and [**download the Action Network app**](https://www.actionnetwork.com/app?af_esp=true&af_xp=custom&source_caller=ui&af_dp=actionnetwork%3A%2F%2F&shortlink=z6p41qid&pid=website&deep_link_value=actionnetwork%3A%2F%2F&af_adset=Web&c=Website%20Downloads) for the latest picks and analysis.
+## Creighton vs TCU Prediction
+**Pick: BJ Davis Over Assists Prop**
+My**Creighton vs TCU best bet** is on BJ Davis to go over his assists prop. Be sure to find the best lines by using our live [NCAAB odds page](https://www.actionnetwork.com/ncaab/odds) and [**download the Action Network app**](https://www.actionnetwork.com/app?af_esp=true&af_xp=custom&source_caller=ui&af_dp=actionnetwork%3A%2F%2F&shortlink=z6p41qid&pid=website&deep_link_value=actionnetwork%3A%2F%2F&af_adset=Web&c=Website%20Downloads) for the latest picks and analysis.
 * * *
-## Oklahoma vs Purdue Odds, Spread
-[![Oklahoma Logo](https://static.sprtactn.co/teamlogos/ncaab/100/okl.png)](https://www.actionnetwork.com/ncaab/odds/oklahoma-sooners)
+## Creighton vs TCU Odds
+[![Creighton Logo](https://static.sprtactn.co/teamlogos/ncaab/100/crei.png)](https://www.actionnetwork.com/ncaab/odds/creighton-bluejays)
 Thursday, Nov 26
-12 p.m. ET
-FOX
-[![Purdue Logo](https://static.sprtactn.co/teamlogos/ncaab/100/pur.png)](https://www.actionnetwork.com/ncaab/odds/purdue-boilermakers)  
-| Oklahoma Odds |  
+6 p.m. ET
+ESPN
+[![TCU Logo](https://static.sprtactn.co/teamlogos/ncaab/100/tcud.png)](https://www.actionnetwork.com/ncaab/odds/tcu-horned-frogs)  
+| Creighton Odds |  
 | --- |  
 | Spread  | Total  | Moneyline  |  
-|  +4.5 -110  |  140.5 -108o / -112u  | +164  |  
-| Purdue Odds |  
+|  -1.5 -104  |  155.5 -110o / -110u  | -113  |  
+| TCU Odds |  
 | --- |  
 | Spread  | Total  | Moneyline  |  
-|  -4.5 -110  |  140.5 -108o / -112u  | -198  |  
-Odds via [DraftKings](https://www.actionnetwork.com/online-sports-betting/reviews/draftkings). Get up-to-the-minute [NCAAB odds here](https://www.actionnetwork.com/ncaab/odds).
-[![DraftKings Logo](https://assets.actionnetwork.com/603379_Primary.png)](https://www.actionnetwork.com/online-sports-betting/reviews/draftkings)
-  * **Oklahoma vs Purdue spread:** Purdue -4.5 (-110), Oklahoma +4.5 (-110)
-  * **Oklahoma vs Purdue over/under:** 140.5 (-108o / -112u)
-  * **Oklahoma vs Purdue moneyline:** Oklahoma +164, Purdue -198
+|  +1.5 -118  |  155.5 -110o / -110u  | -106  |  
+Odds via [FanDuel](https://www.actionnetwork.com/online-sports-betting/reviews/fanduel). Get up-to-the-minute [NCAAB odds here](https://www.actionnetwork.com/ncaab/odds).
+[![FanDuel Logo](https://assets.actionnetwork.com/392973_FanDuel.png)](https://www.actionnetwork.com/online-sports-betting/reviews/fanduel)
+  * **Creighton vs TCU spread:** TCU +1.5 (-118), Creighton -1.5 (-104)
+  * **Creighton vs TCU over/under:** 155.5 (-110o / -110u)
+  * **Creighton vs TCU moneyline:** Creighton -113, TCU -106
 
 
 * * *
-## Oklahoma vs Purdue College Basketball Preview
-![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/okl.png)
-### Oklahoma Basketball
-[Oklahoma](https://www.actionnetwork.com/ncaab/odds/oklahoma-sooners) started this season with really high expectations under sixth-year head coach Porter Moser. But the early going has produced mixed results. The Sooners lost their opening matchup to [East Texas A&M](https://www.actionnetwork.com/ncaab/odds/texas-am-commerce-lions), a game in which they were favored by 30 points.
-In that game, their best player — [Xzayvier Brown](https://www.actionnetwork.com/ncaab/players/xzayvier-brown-256091-g) — didn't play. He has played every game since and is averaging over 16 points per game. They did bounce back with four straight wins against [Mississippi Valley](https://www.actionnetwork.com/ncaab/odds/mississippi-valley-state-delta-devils), [North Alabama](https://www.actionnetwork.com/ncaab/odds/north-alabama-lions), [Fairleigh Dickinson](https://www.actionnetwork.com/ncaab/odds/fairleigh-dickinson-knights) and [Campbell](https://www.actionnetwork.com/ncaab/odds/campbell-fighting-camels).
-This will be their second game at the Fort Myers Tip-Off after falling to [Pittsburgh](https://www.actionnetwork.com/ncaab/odds/pittsburgh-panthers), which is led by former Oklahoma coach Jeff Capel.
-The Sooners have done a really good job of not turning the ball over, ranking among the nation's best in that department. But five of their six games have been against teams ranked 215th or lower on KenPom.
-At 4-2, the road gets tougher, and the rest of their schedule includes only three teams ranked outside the top 92.
-![Jonathan Jorcin](https://s3.amazonaws.com/tan-user-assets/profile_images/64173/1685081139715-57027c40fb8b11eda18dc342d78c27a8.jpg)
-[Jonathan Jorcin](https://www.actionnetwork.com/picks/profile/JonathanReno)
-Last 30d: 11-5-0 (+5.6u)
-Follow
-![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/pur.png)
-### Purdue Basketball
-After three straight seasons that included a national title game loss to [Connecticut](https://www.actionnetwork.com/ncaab/odds/connecticut-huskies), a Sweet 16 loss to [Houston](https://www.actionnetwork.com/ncaab/odds/houston-cougars) by just two points and an Elite Eight loss to [Arizona](https://www.actionnetwork.com/ncaab/odds/arizona-wildcats), this [Purdue](https://www.actionnetwork.com/ncaab/odds/purdue-boilermakers) team will have trouble making it back to the NCAA Tournament.
-The Boilermakers have already suffered losses to [Gonzaga](https://www.actionnetwork.com/ncaab/odds/gonzaga-bulldogs), [Valparaiso](https://www.actionnetwork.com/ncaab/odds/valparaiso-crusaders) and [DePaul](https://www.actionnetwork.com/ncaab/odds/depaul-blue-demons). I'll concede that DePaul is a lot better this season than it has been recently, but it still doesn't look good for the Boilers.
-Purdue lost its leading playmaker and emotional leader, Braden Smith, and has yet to find that same consistency with anyone this season.
-The Boilermakers are relying heavily on [Daniel Jacobsen](https://www.actionnetwork.com/ncaab/players/daniel-jacobsen-283018-c) and freshman [Antione West](https://www.actionnetwork.com/ncaab/players/antione-west-320127-g), but they are struggling to control the ball. They are averaging three more turnovers a game than they did a season ago. Last season, they ranked first in adjusted offensive efficiency.
-Purdue's roster makeup is a little different than it was a season ago. The Boilers' starting lineup last season included four seniors, compared to just one in 2026-27.
-![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/okl.png)
-![Header Second Logo](https://static.sprtactn.co/teamlogos/ncaab/100/pur.png)
-## Oklahoma vs. Purdue Pick, Betting Analysis
-Oklahoma opened as about a five-point underdog. Both teams have had disappointing starts to the 2026-27 campaign, and in this situation, I just can't bring myself to lay points.
-I think this game will be close and come down to a couple of possessions. I do think Moser will have his team in a get-right mindset to offset the loss against a former Oklahoma coach in its previous game.
-I'm going to take Oklahoma on the moneyline.
-**Pick:[Oklahoma ML +172](https://playbookbot.com/books/fanduel/passthrough?deeplinkId%5B0%5D=ML3252837921&context=action-articles)**
+## Creighton vs TCU College Basketball Preview
+![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/crei.png)
+### Creighton Basketball
+The Bluejays have really had a flawless season up to this point, with the only blemish a seven-point defeat to [Kansas State](https://www.actionnetwork.com/ncaab/odds/kansas-state-wildcats). They beat [Iowa](https://www.actionnetwork.com/ncaab/odds/iowa-hawkeyes) and [Michigan](https://www.actionnetwork.com/ncaab/odds/michigan-wolverines) on neutral courts, which has me believing this Creighton team is a true NCAA Tournament squad.
+They’ve done it behind Wes Enis and BJ Davis, two of the nation's most sought-after transfer options.
+They also have a lot of depth, ranking in the top 60 nationally terms of minutes from their bench. Seven of their players average at least 17 minutes a game.
+The Bluejays are focused on defense and creating turnovers, as they are fifth-best in the nation at creating turnovers.
+![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/tcud.png)
+### TCU Basketball
+TCU heads into this matchup after a statement win against [Miami](https://www.actionnetwork.com/ncaab/odds/miami-fl-hurricanes).
+The Horned Frogs opened their season with four straight games in Fort Worth against teams ranked 252nd or lower in KenPom. It’s fair to say I wasn't sure what team we would get in Frogs' first game away from home against a top-ranked squad.
+They were able to cut into Miami's early lead, come back and win the game by 13 points. They are one of the best teams at limiting turnovers offensively and creating turnovers defensively.
+Their biggest issue so far this season has been allowing teams to out-rebound them on the defensive glass.
+![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/crei.png)
+![Header Second Logo](https://static.sprtactn.co/teamlogos/ncaab/100/tcud.png)
+## Creighton vs. TCU Pick, Betting Analysis
+These two teams match up very evenly head-to-head, which is why the spread is right around 1.5 to 2.5 points.
+There should be a fair amount of pace in this game, as both teams ranked in the top third in adjusted tempo and average possession length before a shot attempt.
+Both create a lot of turnovers, which can lead to a lot of fast-break points, but I just don 't have a feel for this over.
+I do think we’ll have an opportunity to look at a prop. Davis can affect this team in a lot of ways, but I’m going to follow up on his seven-assist performance against Michigan and take his over assist prop.
+It’s not up as of writing, but I expect it to be right around three. I think he gets at least four.
+**Pick: BJ Davis Over Assists Prop**
 * * *
-### How To Watch Oklahoma vs Purdue
+### How To Watch Creighton vs TCU
 Location:
-Suncoast Credit Union Arena in Fort Myers, FL
+T-Mobile Arena in Las Vegas, NV
 Date:
 Thu, Nov 26
 Tipoff Time:
-12:00 PM EST
+6:00 PM EST
 TV/Streaming:
-FOX
-Oklahoma vs Purdue is scheduled for 12:00 PM EST live from Suncoast Credit Union Arena on Thursday. The game will be broadcast on FOX.
-[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Foklahoma-sooners-vs-purdue-boilermakers-prediction-pick-odds-college-basketball-thursday-november-26)[](https://twitter.com/intent/tweet?text=Oklahoma%20vs%20Purdue%20Predictions%2C%20Start%20Time%2C%20Odds%3A%20NCAAB%20Picks%20for%20Thursday&url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Foklahoma-sooners-vs-purdue-boilermakers-prediction-pick-odds-college-basketball-thursday-november-26)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Foklahoma-sooners-vs-purdue-boilermakers-prediction-pick-odds-college-basketball-thursday-november-26)
+ESPN
+Creighton vs TCU is scheduled for 6:00 PM EST live from T-Mobile Arena on Thursday. The game will be broadcast on ESPN.
+[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcreighton-bluejays-vs-tcu-horned-frogs-prediction-pick-odds-college-basketball-thursday-november-26)[](https://twitter.com/intent/tweet?text=Creighton%20vs%20TCU%20Prediction%2C%20Pick%2C%20College%20Basketball%20Odds%20for%20Thursday%2C%20Nov.%2026&url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcreighton-bluejays-vs-tcu-horned-frogs-prediction-pick-odds-college-basketball-thursday-november-26)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcreighton-bluejays-vs-tcu-horned-frogs-prediction-pick-odds-college-basketball-thursday-november-26)
 ![Author Profile](https://images.actionnetwork.com/blog/2026/03/855290_logo-2-150x150.png)
 About the Author
 Jonathan Jorcin • Verified Action Expert
 This site [contains commercial content](https://www.actionnetwork.com/legal-online-sports-betting/affiliate-marketing-disclosure). We may be compensated for the links provided on this page. The content on this page is for informational purposes only. Action Network makes no representation or warranty as to the accuracy of the information given or the outcome of any game or event.
 ### On This Page
 Right Arrow
-Oklahoma vs Purdue Prediction
+Creighton vs TCU Prediction
 Right Arrow
-Oklahoma vs Purdue Odds, Spread
+Creighton vs TCU Odds
 Right Arrow
-Oklahoma vs Purdue College Basketball Preview
+Creighton vs TCU College Basketball Preview
 Right Arrow
-Oklahoma Basketball
+Creighton Basketball
 Right Arrow
-Purdue Basketball
+TCU Basketball
 Right Arrow
-Oklahoma vs. Purdue Pick, Betting Analysis
+Creighton vs. TCU Pick, Betting Analysis
 Right Arrow
-How To Watch Oklahoma vs Purdue
+How To Watch Creighton vs TCU
 ### Top Stories
 [![College Basketball Best Bets: 4 NCAAB Picks for Thanksgiving](https://images.actionnetwork.com/blog/2026/11/andy-.png)](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-4-ncaab-picks-thanksgiving-thursday-november-26)
 NCAAB
 [College Basketball Best Bets: 4 NCAAB Picks for Thanksgiving](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-4-ncaab-picks-thanksgiving-thursday-november-26)
 Action Network Staff
-10 hours ago
-[![Georgia vs Cincinnati Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://images.actionnetwork.com/blog/2026/11/Georgia-vs-Cincinnati-11.26.26.jpg)](https://www.actionnetwork.com/ncaab/georgia-bulldogs-vs-cincinnati-bearcats-prediction-pick-odds-college-basketball-thursday-november-26)
+TODAY / 12:18 AM EST
+[![Arkansas vs Michigan State Odds, Picks, Predictions — 11/26](https://images.actionnetwork.com/blog/2026/11/arkansas-razorbacks-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-thursday-november-26-1.jpg)](https://www.actionnetwork.com/ncaab/arkansas-razorbacks-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-thursday-november-26)
 NCAAB
-[Georgia vs Cincinnati Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://www.actionnetwork.com/ncaab/georgia-bulldogs-vs-cincinnati-bearcats-prediction-pick-odds-college-basketball-thursday-november-26)
+[Arkansas vs Michigan State Odds, Picks, Predictions — 11/26](https://www.actionnetwork.com/ncaab/arkansas-razorbacks-vs-michigan-state-spartans-prediction-pick-odds-college-basketball-thursday-november-26)
+Ryan Minion
+3 hours ago
+[![Utah State vs USC Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://images.actionnetwork.com/blog/2026/11/rodrice.jpg)](https://www.actionnetwork.com/ncaab/utah-state-aggies-vs-usc-trojans-prediction-pick-odds-college-basketball-thursday-november-26)
+NCAAB
+[Utah State vs USC Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://www.actionnetwork.com/ncaab/utah-state-aggies-vs-usc-trojans-prediction-pick-odds-college-basketball-thursday-november-26)
+Carter Elliott
+3 hours ago
+[![Saint Mary’s vs UCLA Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://images.actionnetwork.com/blog/2026/11/saint-marys-gaels-vs-ucla-bruins-prediction-pick-odds-college-basketball-thursday-november-26.jpg)](https://www.actionnetwork.com/ncaab/saint-marys-gaels-vs-ucla-bruins-prediction-pick-odds-college-basketball-thursday-november-26)
+NCAAB
+[Saint Mary’s vs UCLA Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://www.actionnetwork.com/ncaab/saint-marys-gaels-vs-ucla-bruins-prediction-pick-odds-college-basketball-thursday-november-26)
 Colby Marchio
-Nov 25, 2026 EST
-[![San Diego State vs Maryland Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://images.actionnetwork.com/blog/2026/11/MarylandTerrapins-11262026.jpg)](https://www.actionnetwork.com/ncaab/san-diego-state-aztecs-vs-maryland-terrapins-prediction-pick-odds-college-basketball-thursday-november-26)
+11 hours ago
+[![St. John’s vs Louisville Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://images.actionnetwork.com/blog/2026/11/st-johns-red-storm-vs-louisville-cardinals-prediction-pick-odds-college-basketball-thursday-november-26.jpg)](https://www.actionnetwork.com/ncaab/st-johns-red-storm-vs-louisville-cardinals-prediction-pick-odds-college-basketball-thursday-november-26)
 NCAAB
-[San Diego State vs Maryland Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://www.actionnetwork.com/ncaab/san-diego-state-aztecs-vs-maryland-terrapins-prediction-pick-odds-college-basketball-thursday-november-26)
-Colby Marchio
-6 hours ago
-[![Georgetown vs Texas Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://images.actionnetwork.com/blog/2026/11/georgetown-hoyas-vs-texas-longhorns-prediction-pick-odds-college-basketball-thursday-november-26.jpg)](https://www.actionnetwork.com/ncaab/georgetown-hoyas-vs-texas-longhorns-prediction-pick-odds-college-basketball-thursday-november-26)
-NCAAB
-[Georgetown vs Texas Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://www.actionnetwork.com/ncaab/georgetown-hoyas-vs-texas-longhorns-prediction-pick-odds-college-basketball-thursday-november-26)
+[St. John’s vs Louisville Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://www.actionnetwork.com/ncaab/st-johns-red-storm-vs-louisville-cardinals-prediction-pick-odds-college-basketball-thursday-november-26)
 Sean Paul
-6 hours ago
-[![Iowa State vs Tennessee Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://images.actionnetwork.com/blog/2026/11/IowaSt-NCAAB-11262026.jpg)](https://www.actionnetwork.com/ncaab/iowa-state-cyclones-vs-tennessee-volunteers-prediction-pick-odds-college-basketball-thursday-november-26)
+8 hours ago
+[![Kansas State vs Alabama Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://images.actionnetwork.com/blog/2026/11/AmariAllen-11252026.jpg)](https://www.actionnetwork.com/ncaab/kansas-state-wildcats-vs-alabama-crimson-tide-prediction-pick-odds-college-basketball-thursday-november-26)
 NCAAB
-[Iowa State vs Tennessee Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://www.actionnetwork.com/ncaab/iowa-state-cyclones-vs-tennessee-volunteers-prediction-pick-odds-college-basketball-thursday-november-26)
-Colby Marchio
-22 mins ago
-[![Michigan vs Miami Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://images.actionnetwork.com/blog/2026/11/Michigan-vs-Miami-11.26.26.jpg)](https://www.actionnetwork.com/ncaab/michigan-wolverines-vs-miami-hurricanes-prediction-pick-odds-college-basketball-thursday-november-26)
-NCAAB
-[Michigan vs Miami Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://www.actionnetwork.com/ncaab/michigan-wolverines-vs-miami-hurricanes-prediction-pick-odds-college-basketball-thursday-november-26)
+[Kansas State vs Alabama Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://www.actionnetwork.com/ncaab/kansas-state-wildcats-vs-alabama-crimson-tide-prediction-pick-odds-college-basketball-thursday-november-26)
 Sean Paul
-5 hours ago
+3 hours ago
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=a50cd534-2533-44bf-9ee7-1ef3cc056901&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=a984c02d-e2e7-4e1a-a9c6-e956a4b93cf4&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Foklahoma-sooners-vs-purdue-boilermakers-prediction-pick-odds-college-basketball-thursday-november-26&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=136&tw_session_id=1795708995698-767581053&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=a50cd534-2533-44bf-9ee7-1ef3cc056901&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=a984c02d-e2e7-4e1a-a9c6-e956a4b93cf4&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Foklahoma-sooners-vs-purdue-boilermakers-prediction-pick-odds-college-basketball-thursday-november-26&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=136&tw_session_id=1795708995698-767581053&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=d27449f7-a906-4458-84be-90e359150854&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=a984c02d-e2e7-4e1a-a9c6-e956a4b93cf4&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Foklahoma-sooners-vs-purdue-boilermakers-prediction-pick-odds-college-basketball-thursday-november-26&tw_engaged_ms=7669&tw_iframe_status=0&tw_pid_src=2&tw_session_count=136&tw_session_id=1795708995698-767581053&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=d27449f7-a906-4458-84be-90e359150854&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=a984c02d-e2e7-4e1a-a9c6-e956a4b93cf4&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Foklahoma-sooners-vs-purdue-boilermakers-prediction-pick-odds-college-basketball-thursday-november-26&tw_engaged_ms=7669&tw_iframe_status=0&tw_pid_src=2&tw_session_count=136&tw_session_id=1795708995698-767581053&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=6b2fa38e-4ea4-4ccd-a5d5-c6f7ecc89036&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=924ce522-791a-4431-98d1-869a3a77eafb&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcreighton-bluejays-vs-tcu-horned-frogs-prediction-pick-odds-college-basketball-thursday-november-26&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=138&tw_session_id=1795730460481-402974131&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=6b2fa38e-4ea4-4ccd-a5d5-c6f7ecc89036&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=924ce522-791a-4431-98d1-869a3a77eafb&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcreighton-bluejays-vs-tcu-horned-frogs-prediction-pick-odds-college-basketball-thursday-november-26&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=138&tw_session_id=1795730460481-402974131&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=cbee1023-9b4a-4c97-aa28-a280b8f8f159&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=924ce522-791a-4431-98d1-869a3a77eafb&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcreighton-bluejays-vs-tcu-horned-frogs-prediction-pick-odds-college-basketball-thursday-november-26&tw_engaged_ms=7737&tw_iframe_status=0&tw_pid_src=2&tw_session_count=138&tw_session_id=1795730460481-402974131&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=cbee1023-9b4a-4c97-aa28-a280b8f8f159&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=924ce522-791a-4431-98d1-869a3a77eafb&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fcreighton-bluejays-vs-tcu-horned-frogs-prediction-pick-odds-college-basketball-thursday-november-26&tw_engaged_ms=7737&tw_iframe_status=0&tw_pid_src=2&tw_session_count=138&tw_session_id=1795730460481-402974131&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 
 
 
 ---
-## SOURCE: https://www.actionnetwork.com/ncaab/san-diego-state-aztecs-vs-maryland-terrapins-prediction-pick-odds-college-basketball-thursday-november-26
+## SOURCE: https://www.actionnetwork.com/ncaab/st-johns-red-storm-vs-louisville-cardinals-prediction-pick-odds-college-basketball-thursday-november-26
 
 Table of Contents
 [Home](https://www.actionnetwork.com/)Right Arrow[NCAAB](https://www.actionnetwork.com/ncaab)
-# San Diego State vs Maryland Prediction, Pick, College Basketball Odds for Thursday, Nov. 26
-![Author Profile](https://images.actionnetwork.com/blog/2026/03/855290_logo-2-150x150.png)
-[Colby Marchio](https://www.actionnetwork.com/article/author/cmaricho)
-Betting Analyst
-[Download App](https://action.onelink.me/qhpb/f46fa531)
-Updated:
-Nov 26, 2026, 05:06 AM EST
-Updated:
-Nov 26, 2026, 05:06 AM EST
-Credit:
-Pictured: Maryland Terrapins forward Baba Oladotun. (Credit: Daniel Kucin Jr.-Imagn Images)
-_If you want more Action Network content, be sure to[add us as a preferred source on Google](https://www.google.com/preferences/source?q=actionnetwork.com)._
-The San Diego State Aztecs take on the Maryland Terrapins in Paradise, NV, in Players Era 16. Tip-off is set for 1 p.m. ET on ESPN.
-Maryland is favored by 4.5 points on the spread with a moneyline of -225. The total is set at 153.5 points.
-Here’s my **San Diego State vs. Maryland prediction** and [college basketball picks](https://www.actionnetwork.com/ncaab) for November 26, 2026.
-* * *
-## San Diego State vs Maryland Prediction
-**Pick:[Over 153.5](https://playbookbot.com/books/draftkings/passthrough?deeplinkId%5B0%5D=ML3248091808&context=playbook-slack-quickslip&sport=basketball)**
-My**San Diego State vs Maryland best bet** is on the over. Be sure to find the best lines by using our live [NCAAB odds page](https://www.actionnetwork.com/ncaab/odds) and [**download the Action Network app**](https://www.actionnetwork.com/app?af_esp=true&af_xp=custom&source_caller=ui&af_dp=actionnetwork%3A%2F%2F&shortlink=z6p41qid&pid=website&deep_link_value=actionnetwork%3A%2F%2F&af_adset=Web&c=Website%20Downloads) for the latest picks and analysis.
-* * *
-## San Diego State vs Maryland Odds
-[![San Diego State Logo](https://static.sprtactn.co/teamlogos/ncaab/100/sdsu.png)](https://www.actionnetwork.com/ncaab/odds/san-diego-state-aztecs)
-Thursday, Nov 26
-1 p.m. ET
-ESPN
-[![Maryland Logo](https://static.sprtactn.co/teamlogos/ncaab/100/mar.png)](https://www.actionnetwork.com/ncaab/odds/maryland-terrapins)  
-| San Diego State Odds |  
-| --- |  
-| Spread  | Total  | Moneyline  |  
-|  +4.5 -110  |  153.5 -110o / -110u  | +185  |  
-| Maryland Odds |  
-| --- |  
-| Spread  | Total  | Moneyline  |  
-|  -4.5 -110  |  153.5 -110o / -110u  | -225  |  
-Odds via [DraftKings](https://www.actionnetwork.com/online-sports-betting/reviews/draftkings). Get up-to-the-minute [NCAAB odds here](https://www.actionnetwork.com/ncaab/odds).
-[![DraftKings Logo](https://assets.actionnetwork.com/603379_Primary.png)](https://www.actionnetwork.com/online-sports-betting/reviews/draftkings)
-  * **San Diego State vs Maryland spread:** Maryland -4.5 (-110), San Diego State +4.5 (-110)
-  * **San Diego State vs Maryland over/under:** 153.5 (-110o / -110u)
-  * **San Diego State vs Maryland moneyline:** San Diego State +185, Maryland -225
-
-
-* * *
-## San Diego State vs Maryland College Basketball Preview
-![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/sdsu.png)
-### San Diego State Basketball
-It's tough to gauge this Aztecs team at the moment, especially given how weak their schedule has been. [San Diego State](https://www.actionnetwork.com/ncaab/odds/san-diego-state-aztecs)'s toughest opponent before Tuesday's matchup against [Iowa State](https://www.actionnetwork.com/ncaab/odds/iowa-hawkeyes) was [Colorado](https://www.actionnetwork.com/ncaab/odds/colorado-buffaloes), which ranks 113th on Bart Torvik.
-The Aztecs won that game by 11 on a neutral court, but their brutal loss to Iowa State — which is a hell of a team — raises some questions about their overall talent level.
-Was the loss to the Cyclones what the Aztecs needed to get back on track, or are they a little below the talent level we thought they were before Tuesday's beatdown? Only time will tell.
-![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/mar.png)
-### Maryland Basketball
-The Terps lost to [Georgetown](https://www.actionnetwork.com/ncaab/odds/georgetown-hoyas) by 12, [Virginia](https://www.actionnetwork.com/ncaab/odds/virginia-cavaliers) by four and [Tennessee](https://www.actionnetwork.com/ncaab/odds/tennessee-volunteers) by eight. When will the [Maryland Terrapins](https://www.actionnetwork.com/ncaab/odds/maryland-terrapins) finally get their first win over a top-100 opponent?
-The Aztecs are coming off a 13-point loss to Iowa State, their first matchup against a top-100 opponent this season.
-With three tough losses under their belts, the Terrapins should be more than ready to finally secure their first quality win of the season.
-![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/sdsu.png)
-![Header Second Logo](https://static.sprtactn.co/teamlogos/ncaab/100/mar.png)
-## San Diego State vs. Maryland Pick, Betting Analysis
-This should be a spot where the Terrapins pick up their first top-100 win of the season. However, their struggles shooting outside the paint and defending the perimeter are concerning, so the over 153.5 is the move.
-Despite those issues, Maryland is outstanding at attacking the rim and ranks third in the country in offensive rebounding. The Terrapins are also very good at drawing fouls and getting to the line, while converting their opportunities at an efficient rate.
-San Diego State has struggled to protect the basketball and limit second-chance points, two areas the Terrapins will look to exploit on Thursday. If Maryland can generate points off turnovers while capitalizing on second-chance opportunities, the scoring should pile up.
-On the offensive end, the Aztecs have been incredible at drawing fouls, generating second-chance points and attacking the rim. They rank inside the top 50 nationally in all three categories.
-The pace of this game should be more brisk than moderate, as both teams rank inside the top 200 in tempo, with the Aztecs preferring a much faster pace than the Terrapins. There should be plenty of possessions to help take this total well over 153.5.
-**Pick:[Over 153.5](https://playbookbot.com/books/draftkings/passthrough?deeplinkId%5B0%5D=ML3248091808&context=playbook-slack-quickslip&sport=basketball)**
-* * *
-### How To Watch San Diego State vs Maryland
-Location:
-Michelob ULTRA Arena in Paradise, NV
-Date:
-Thu, Nov 26
-Tipoff Time:
-1:00 PM EST
-TV/Streaming:
-ESPN
-San Diego State vs Maryland is scheduled for 1:00 PM EST live from Michelob ULTRA Arena on Thursday. The game will be broadcast on ESPN.
-[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fsan-diego-state-aztecs-vs-maryland-terrapins-prediction-pick-odds-college-basketball-thursday-november-26)[](https://twitter.com/intent/tweet?text=San%20Diego%20State%20vs%20Maryland%20Prediction%2C%20Pick%2C%20College%20Basketball%20Odds%20for%20Thursday%2C%20Nov.%2026&url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fsan-diego-state-aztecs-vs-maryland-terrapins-prediction-pick-odds-college-basketball-thursday-november-26)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fsan-diego-state-aztecs-vs-maryland-terrapins-prediction-pick-odds-college-basketball-thursday-november-26)
-![Author Profile](https://images.actionnetwork.com/blog/2026/03/855290_logo-2-150x150.png)
-About the Author
-Colby Marchio • Betting Analyst
-This site [contains commercial content](https://www.actionnetwork.com/legal-online-sports-betting/affiliate-marketing-disclosure). We may be compensated for the links provided on this page. The content on this page is for informational purposes only. Action Network makes no representation or warranty as to the accuracy of the information given or the outcome of any game or event.
-### On This Page
-Right Arrow
-San Diego State vs Maryland Prediction
-Right Arrow
-San Diego State vs Maryland Odds
-Right Arrow
-San Diego State vs Maryland College Basketball Preview
-Right Arrow
-San Diego State Basketball
-Right Arrow
-Maryland Basketball
-Right Arrow
-San Diego State vs. Maryland Pick, Betting Analysis
-Right Arrow
-How To Watch San Diego State vs Maryland
-### Top Stories
-[![College Basketball Best Bets: 4 NCAAB Picks for Thanksgiving](https://images.actionnetwork.com/blog/2026/11/andy-.png)](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-4-ncaab-picks-thanksgiving-thursday-november-26)
-NCAAB
-[College Basketball Best Bets: 4 NCAAB Picks for Thanksgiving](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-4-ncaab-picks-thanksgiving-thursday-november-26)
-Action Network Staff
-10 hours ago
-[![Georgia vs Cincinnati Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://images.actionnetwork.com/blog/2026/11/Georgia-vs-Cincinnati-11.26.26.jpg)](https://www.actionnetwork.com/ncaab/georgia-bulldogs-vs-cincinnati-bearcats-prediction-pick-odds-college-basketball-thursday-november-26)
-NCAAB
-[Georgia vs Cincinnati Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://www.actionnetwork.com/ncaab/georgia-bulldogs-vs-cincinnati-bearcats-prediction-pick-odds-college-basketball-thursday-november-26)
-Colby Marchio
-Nov 25, 2026 EST
-[![Oklahoma vs Purdue Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://images.actionnetwork.com/blog/2026/11/Oklahoma-vs-Purdue-11.26.26.jpg)](https://www.actionnetwork.com/ncaab/oklahoma-sooners-vs-purdue-boilermakers-prediction-pick-odds-college-basketball-thursday-november-26)
-NCAAB
-[Oklahoma vs Purdue Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://www.actionnetwork.com/ncaab/oklahoma-sooners-vs-purdue-boilermakers-prediction-pick-odds-college-basketball-thursday-november-26)
-Jonathan Jorcin
-25 mins ago
-[![Georgetown vs Texas Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://images.actionnetwork.com/blog/2026/11/georgetown-hoyas-vs-texas-longhorns-prediction-pick-odds-college-basketball-thursday-november-26.jpg)](https://www.actionnetwork.com/ncaab/georgetown-hoyas-vs-texas-longhorns-prediction-pick-odds-college-basketball-thursday-november-26)
-NCAAB
-[Georgetown vs Texas Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://www.actionnetwork.com/ncaab/georgetown-hoyas-vs-texas-longhorns-prediction-pick-odds-college-basketball-thursday-november-26)
-Sean Paul
-6 hours ago
-[![Iowa State vs Tennessee Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://images.actionnetwork.com/blog/2026/11/IowaSt-NCAAB-11262026.jpg)](https://www.actionnetwork.com/ncaab/iowa-state-cyclones-vs-tennessee-volunteers-prediction-pick-odds-college-basketball-thursday-november-26)
-NCAAB
-[Iowa State vs Tennessee Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://www.actionnetwork.com/ncaab/iowa-state-cyclones-vs-tennessee-volunteers-prediction-pick-odds-college-basketball-thursday-november-26)
-Colby Marchio
-22 mins ago
-[![Michigan vs Miami Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://images.actionnetwork.com/blog/2026/11/Michigan-vs-Miami-11.26.26.jpg)](https://www.actionnetwork.com/ncaab/michigan-wolverines-vs-miami-hurricanes-prediction-pick-odds-college-basketball-thursday-november-26)
-NCAAB
-[Michigan vs Miami Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://www.actionnetwork.com/ncaab/michigan-wolverines-vs-miami-hurricanes-prediction-pick-odds-college-basketball-thursday-november-26)
-Sean Paul
-5 hours ago
-### Follow Us On Social
-[](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=d7bb7679-522a-4935-a696-c78de11f80da&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=3f049379-e1d8-49a8-8088-f85dbfcedf81&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fsan-diego-state-aztecs-vs-maryland-terrapins-prediction-pick-odds-college-basketball-thursday-november-26&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=136&tw_session_id=1795708995698-767581053&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=d7bb7679-522a-4935-a696-c78de11f80da&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=3f049379-e1d8-49a8-8088-f85dbfcedf81&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fsan-diego-state-aztecs-vs-maryland-terrapins-prediction-pick-odds-college-basketball-thursday-november-26&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=136&tw_session_id=1795708995698-767581053&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=f6989281-368d-4920-bf0a-2ce1dce05e7c&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=3f049379-e1d8-49a8-8088-f85dbfcedf81&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fsan-diego-state-aztecs-vs-maryland-terrapins-prediction-pick-odds-college-basketball-thursday-november-26&tw_engaged_ms=7704&tw_iframe_status=0&tw_pid_src=2&tw_session_count=136&tw_session_id=1795708995698-767581053&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=f6989281-368d-4920-bf0a-2ce1dce05e7c&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=3f049379-e1d8-49a8-8088-f85dbfcedf81&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fsan-diego-state-aztecs-vs-maryland-terrapins-prediction-pick-odds-college-basketball-thursday-november-26&tw_engaged_ms=7704&tw_iframe_status=0&tw_pid_src=2&tw_session_count=136&tw_session_id=1795708995698-767581053&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
-
-
-
----
-## SOURCE: https://www.actionnetwork.com/ncaab/georgetown-hoyas-vs-texas-longhorns-prediction-pick-odds-college-basketball-thursday-november-26
-
-Table of Contents
-[Home](https://www.actionnetwork.com/)Right Arrow[NCAAB](https://www.actionnetwork.com/ncaab)
-# Georgetown vs Texas Prediction, Pick, College Basketball Odds for Thursday, Nov. 26
+# St. John’s vs Louisville Prediction, Pick, College Basketball Odds for Thursday, Nov. 26
 ![Author Profile](https://images.actionnetwork.com/blog/2024/08/sean-paul-150x150.png)
 [Sean Paul](https://www.actionnetwork.com/article/author/sean-paul-smock-ii)
 Staff Writer
 [Download App](https://action.onelink.me/qhpb/f46fa531)
 Updated:
-Nov 26, 2026, 05:21 AM EST
+Nov 26, 2026, 09:01 AM EST
 Updated:
-Nov 26, 2026, 05:21 AM EST
+Nov 26, 2026, 09:01 AM EST
 Credit:
-IMAGN IMAGES via Reuters Connect. Pictured: Georgetown Hoyas guard Jaland Lowe
+USA TODAY Network via Reuters Connect. Pictured: Louisville’s Jackson Shelstad (3)
 _If you want more Action Network content, be sure to[add us as a preferred source on Google](https://www.google.com/preferences/source?q=actionnetwork.com)._
-The Georgetown Hoyas take on the Texas Longhorns in San Diego, CA, in the Rady Children's Invitational. Tip-off is set for 2:30 p.m. ET on Fox Sports 1.
-Texas is favored by 8.5 points on the [spread](https://www.actionnetwork.com/education/point-spread) with a [moneyline](https://www.actionnetwork.com/education/moneyline) of -375. The total is set at 155.5 points.
-Here’s my **Georgetown vs. Texas prediction** and [college basketball picks](https://www.actionnetwork.com/ncaab) for November 26, 2026.
+The St. John's Red Storm take on the Louisville Cardinals in Paradise, NV, in the Players Era 16. Tip-off is set for 9 p.m. ET on ESPN2.
+St. John's is favored by -2.5 points on the [spread](https://www.actionnetwork.com/education/point-spread) with a [moneyline](https://www.actionnetwork.com/education/moneyline) of -130. The total is set at 160.5 points.
+Here’s my **St. John's vs. Louisville prediction** and [college basketball picks](https://www.actionnetwork.com/ncaab) for November 26, 2026.
 * * *
-## Georgetown vs Texas Prediction
-**Pick:[ Georgetown +8.5 (Play to +6.5)](https://playbookbot.com/books/draftkings/passthrough?deeplinkId%5B0%5D=ML3251962337&context=playbook-slack-quickslip&sport=basketball)**
-My**Georgetown vs Texas best bet** is on the Hoyas to cover the spread. Be sure to find the best lines by using our live [NCAAB odds page](https://www.actionnetwork.com/ncaab/odds) and [**download the Action Network app**](https://www.actionnetwork.com/app?af_esp=true&af_xp=custom&source_caller=ui&af_dp=actionnetwork%3A%2F%2F&shortlink=z6p41qid&pid=website&deep_link_value=actionnetwork%3A%2F%2F&af_adset=Web&c=Website%20Downloads) for the latest picks and analysis.
+## St. John's vs Louisville Prediction
+**Pick:[ Louisville +2.5](https://playbookbot.com/books/fanduel/passthrough?deeplinkId%5B0%5D=ML3251961873&context=action-articles)**
+My**St. John's vs. Louisville best bet** is on the Cardinals to cover the spread. Be sure to find the best lines by using our live [NCAAB odds page](https://www.actionnetwork.com/ncaab/odds) and [**download the Action Network app**](https://www.actionnetwork.com/app?af_esp=true&af_xp=custom&source_caller=ui&af_dp=actionnetwork%3A%2F%2F&shortlink=z6p41qid&pid=website&deep_link_value=actionnetwork%3A%2F%2F&af_adset=Web&c=Website%20Downloads) for the latest picks and analysis.
 * * *
-## Georgetown vs Texas Odds
-[![Georgetown Logo](https://static.sprtactn.co/teamlogos/ncaab/100/gtown.png)](https://www.actionnetwork.com/ncaab/odds/georgetown-hoyas)
-Thursday, Nov 26
-2:30 p.m. ET
-Fox Sports 1
-[![Texas Logo](https://static.sprtactn.co/teamlogos/ncaab/100/tex.png)](https://www.actionnetwork.com/ncaab/odds/texas-longhorns)  
-| Georgetown Odds |  
+## St. John's vs Louisville Odds
+[![St. John's Logo](https://static.sprtactn.co/teamlogos/ncaab/100/sju.png)](https://www.actionnetwork.com/ncaab/odds/st-johns-red-storm)
+Thursday, November 26
+9 p.m. ET
+ESPN2
+[![Louisville Logo](https://static.sprtactn.co/teamlogos/ncaab/100/lou.png)](https://www.actionnetwork.com/ncaab/odds/louisville-cardinals)  
+| St. John's Odds |  
 | --- |  
 | Spread  | Total  | Moneyline  |  
-|  +8.5 -110  |  155.5 -110o / -110u  | +295  |  
-| Texas Odds |  
+|  -2.5 -102  |  160.5 -110o / -110u  | -130  |  
+| Louisville Odds |  
 | --- |  
 | Spread  | Total  | Moneyline  |  
-|  -8.5 -110  |  155.5 -110o / -110u  | -375  |  
-Odds via [DraftKings](https://www.actionnetwork.com/online-sports-betting/reviews/draftkings). Get up-to-the-minute [NCAAB odds here](https://www.actionnetwork.com/ncaab/odds).
-[![DraftKings Logo](https://assets.actionnetwork.com/603379_Primary.png)](https://www.actionnetwork.com/online-sports-betting/reviews/draftkings)
-  * **Georgetown vs Texas spread:** Georgetown +8.5 (-110), Texas -8.5 (-110)
-  * **Georgetown vs Texas over/under:** 155.5 (-110o / -110u)
-  * **Georgetown vs Texas moneyline:** Georgetown +295, Texas -375
+|  +2.5 -120  |  160.5 -110o / -110u  | +108  |  
+Odds via [FanDuel](https://www.actionnetwork.com/online-sports-betting/reviews/fanduel). Get up-to-the-minute [NCAAB odds here](https://www.actionnetwork.com/ncaab/odds).
+[![FanDuel Logo](https://assets.actionnetwork.com/392973_FanDuel.png)](https://www.actionnetwork.com/online-sports-betting/reviews/fanduel)
+  * **St. John's vs Louisville spread:** St. John's -2.5 (-102), Louisville +2.5 (-120)
+  * **St. John's vs Louisville over/under:** 160.5 (-110o / -110u)
+  * **St. John's vs Louisville moneyline:** St. John's -130, Louisville +108
 
 
 * * *
-## Georgetown vs Texas College Basketball Preview
-![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/gtown.png)
-### Georgetown Basketball
-The [Hoyas](https://www.actionnetwork.com/ncaab/odds/georgetown-hoyas) are off to one of their best starts in years, heading into this matchup with a 6-0 record. However, the metrics don't love them, and their big-ticket wins over [Clemson](https://www.actionnetwork.com/ncaab/odds/clemson-tigers) and [Maryland](https://www.actionnetwork.com/ncaab/odds/maryland-terrapins) are aging like milk.
-Ed Cooley is known more as a defensive-first coach, but that's not the case this season. The Hoyas rank 50th in offensive efficiency but 101st in defensive efficiency.
-The key to Georgetown's offense is Jaland Lowe. Lowe was a wildcard entering the season after an injury-riddled season at [Kentucky](https://www.actionnetwork.com/ncaab/odds/kentucky-wildcats), but he's since found his pre-injury groove, averaging 16.3 points and 7.3 assists per game.
-He has always put up gaudy stats; he's just never shot it well from deep — until this season.
-Lowe's monster play in the pick-and-roll game has done wonders for 7-footer Vince Iwuchukwu. The athletic big man leads the Hoyas with 20.5 points and 9.5 rebounds per game, including a 20-point, 10-rebound effort against Clemson.
-Cooley needed to hit on Elmarko Jackson and get a breakout from Kayvaun Mulready for the Hoyas to reach their ceiling. So far, it's happening — Jackson boosted his point-per-game average from 4.8 at [Kansas](https://www.actionnetwork.com/ncaab/odds/kansas-jayhawks) to 14.3 at Georgetown, and Mulready is shooting 38% from deep on 7.3 attempts per game.
-Moreover, I don't think Georgetown will finish outside the top 100 in defensive efficiency. The Hoyas hold teams to 46% shooting on 2s (75th) but struggle to defend the arc, as opponents shoot 33% from 3 (193rd).
-Three-point defense is luck-based — some teams just get hot for a game, and it can destroy a team's overall numbers. Looking at 2-point defense is much more predictable.
+## St. John's vs Louisville College Basketball Preview
+![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/sju.png)
+### St. John's Basketball
+The Johnnies have wins over [Syracuse](https://www.actionnetwork.com/ncaab/odds/syracuse-orange) and [Oregon](https://www.actionnetwork.com/ncaab/odds/oregon-ducks), but they haven’t faced any actually good teams thus far.
+As usual for a Rick Pitino team, St. John’s is elite on the defensive end, ranking ninth in defensive efficiency. The [Red Storm](https://www.actionnetwork.com/ncaab/odds/st-john's-red-storm) force turnovers at a 23% clip and give up offensive boards just 25% of the time.
+Offensively, the Johnnies are still searching for their identity. Ranking 39th in offensive efficiency isn’t bad, but things can get stagnant at times. That’s to be expected for Pitino after bringing in some players who usually have the ball in their hands.
+Keyshawn Hall is the primary example. He’s always been a scorer, but never played on a winning team until now. He’s one of three players averaging 15+ points per game, along with Tounde Yessoufou and Ian Jackson.
+Pitino made a sharp move in adding former EuroLeague point guard Quinn Ellis. He’s done an excellent job controlling the game, posting 9.5 points, 5.2 rebounds 8.5 assists and just 1.5 turnovers per game.
+I’m curious to see how the Johnnies fare against a team with similar size and more physicality. That’s not something they have dealt with in 2026-27.
 ![Sean Paul](https://s3.amazonaws.com/tan-user-assets/profile_images/3576691/1755813884511-65cc9019119c44288a4db4db48ce3ef0.jpg)
 [Sean Paul](https://www.actionnetwork.com/picks/profile/SeanPaulCBB)
-Last 30d: 19-23-0 (-5.1u)
+Last 30d: 20-25-0 (-6.2u)
 Follow
-![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/tex.png)
-### Texas Basketball
-[Texas](https://www.actionnetwork.com/ncaab/odds/texas-longhorns) hasn't played a very tough schedule to date. The Longhorns are 6-0 and played just one team better than 280th in KenPom — [Baylor](https://www.actionnetwork.com/ncaab/odds/baylor-bears) on a neutral site, which Texas was able to sneak out with a three-point win.
-One  _very_ important note before betting on this game: Texas guard Isaiah Johnson  _might_ not play in this tournament. He played four minutes in the Longhorns' last game and is questionable this week.
-Texas wouldn't have beaten Baylor without Johnson's efficient 26-point outing. With Mikey Lewis also out, where is Sean Miller going for guard production?
-Well, it gets a bit messy. Five-star freshman Austin Goosby would assume ball-handling duties, but he's shooting 30% from the field and 27% from 3-point range this season. I'd guess Joe Sterling plays more without Johnson, and Sterling has caught my eye this season with his sharpshooting prowess.
-That would be a welcome sight, as Texas attempts 3s just 30% of the time. Johnson and Sterling are the only two players on Texas who shoot better than 30% from deep, and it'll possibly be just Sterling.
-The best player on Texas's roster is big man Matas Vokietaitis. The physical 7-footer is an offensive rebound and foul-drawing machine, ranking 10th in offensive rebounding rate and 46th in fouls drawn per 40 minutes. He also leads Texas with 20 points and 8.8 rebounds per game.
-Putting Vokietatis next to a brawler in David Punch — who loves to attack smaller or less agile fours — and the uber-athletic Elyjah Freeman makes Texas a force on the glass. The Longhorns collect 41% of their misses, which is one of the top marks in college basketball.
-Scoring on all that Texas length isn't easy, either. The Longhorns rank 22nd in defensive efficiency, while holding opponents to 41% from inside the arc.
-![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/gtown.png)
-![Header Second Logo](https://static.sprtactn.co/teamlogos/ncaab/100/tex.png)
-## Georgetown vs. Texas Pick, Betting Analysis
-I'll take the points with Georgetown.
-To me, Texas has to play a more deliberate, defensive battle if Johnson is out — or less than 100%.
-They should shut down Iwuchukwu, but the Hoyas have the shooting to beat the Longhorns' defense.
-I expect a close one.
-**Pick:[ Georgetown +8.5 (Play to +6.5)](https://playbookbot.com/books/draftkings/passthrough?deeplinkId%5B0%5D=ML3251962337&context=playbook-slack-quickslip&sport=basketball)**
+![MICH](https://static.sprtactn.co/teamlogos/ncaab/100/mich.png)
+![MIA](https://static.sprtactn.co/teamlogos/ncaab/100/mfl.png)
+Michigan @ Miami (FL) Picks
+Today
+/
+3:30 PM on ESPN2
+•
+12.9k bets
+MICH +1.5
+-114 (1u)
+Copy Bet
+Article up
+![SJU](https://static.sprtactn.co/teamlogos/ncaab/100/sju.png)
+![LOU](https://static.sprtactn.co/teamlogos/ncaab/100/lou.png)
+St. John's @ Louisville Picks
+Today
+/
+9:00 PM on ESPN2
+•
+11.6k bets
+LOU +1.5
+-110 (1u)
+Copy Bet
+See All
+![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/lou.png)
+### Louisville Basketball
+[Louisville](https://www.actionnetwork.com/ncaab/odds/louisville-cardinals) pulled off an impressive win over [Texas Tech](https://www.actionnetwork.com/ncaab/odds/texas-tech-red-raiders). The Cardinals didn’t have a single victory of note coming to Vegas and needed to show toughness after an ugly loss to [Memphis](https://www.actionnetwork.com/ncaab/odds/memphis-tigers).
+Rebounding has proven to be a major strength of Louisville. The Cardinals grab an exceptional 44% of their misses and give up offensive boards only 24% of the time. They won the rebounding battle against Texas Tech, 41-28.
+That’s even more valuable since Louisville is shooting just 28% from 3 so far. The only two Cardinals shooting an above-average clip from deep are forward Alvaro Folgueiras (40%) and Karter Knox (35%). Once Adrian Wooley and Jackson Shelstad get rolling, Louisville should see that 29% number jump.
+I like the lineup optionality Pat Kelsey has — if he wants to go with the “you’re not scoring on us” lineup, he can pair Obinna Ekezie Jr. and Flory Bidunga at the four and five. They played together for spurts against Texas Tech, and it changed the game.
+So far, the Cardinals rank 36th in defensive efficiency. It would be ideal for them to improve from 108th in 2-point defensive percentage and 216th in 3-point defense. That feels likely with their improved length and physicality.
+My biggest Louisville question is: Who can they rely on in big moments? Against Tech, it was Seth Trimble and Knox. Will Shelstad or Wooley eventually become the guys? If not, I’m a little worried about Louisville in late-game spots.
+![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/sju.png)
+![Header Second Logo](https://static.sprtactn.co/teamlogos/ncaab/100/lou.png)
+## St. John's vs. Louisville Pick, Betting Analysis
+I see these teams close to even — and I never loved the fit with Hall, Yessoufou and Jackson.
+With Louisville’s on-ball pressure and pace, it could lead to poor decisions from those guards, who have very little experience as teammates.
+The coaching edge is with Pitino, but I like Louisville’s roster and style more, so I’ll take the +2.5.
+**Pick:[ Louisville +2.5](https://playbookbot.com/books/fanduel/passthrough?deeplinkId%5B0%5D=ML3251961873&context=action-articles)**
 * * *
-### How To Watch Georgetown vs Texas
+### How To Watch St. John's vs Louisville
 Location:
-Jenny Craig Pavilion in San Diego, CA
+Michelob ULTRA Arena in Paradise, NV
 Date:
 Thu, Nov 26
 Tipoff Time:
-2:30 PM EST
+9:00 PM EST
 TV/Streaming:
-Fox Sports 1
-Georgetown vs Texas is scheduled for 2:30 PM EST live from Jenny Craig Pavilion on Thursday. The game will be broadcast on Fox Sports 1.
-[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fgeorgetown-hoyas-vs-texas-longhorns-prediction-pick-odds-college-basketball-thursday-november-26)[](https://twitter.com/intent/tweet?text=Georgetown%20vs%20Texas%20Prediction%2C%20Pick%2C%20College%20Basketball%20Odds%20for%20Thursday%2C%20Nov.%2026&url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fgeorgetown-hoyas-vs-texas-longhorns-prediction-pick-odds-college-basketball-thursday-november-26)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fgeorgetown-hoyas-vs-texas-longhorns-prediction-pick-odds-college-basketball-thursday-november-26)
+ESPN2
+St. John's vs Louisville is scheduled for 9:00 PM EST live from Michelob ULTRA Arena on Thursday. The game will be broadcast on ESPN2.
+[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fst-johns-red-storm-vs-louisville-cardinals-prediction-pick-odds-college-basketball-thursday-november-26)[](https://twitter.com/intent/tweet?text=St.%20John%E2%80%99s%20vs%20Louisville%20Prediction%2C%20Pick%2C%20College%20Basketball%20Odds%20for%20Thursday%2C%20Nov.%2026&url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fst-johns-red-storm-vs-louisville-cardinals-prediction-pick-odds-college-basketball-thursday-november-26)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fst-johns-red-storm-vs-louisville-cardinals-prediction-pick-odds-college-basketball-thursday-november-26)
 ![Author Profile](https://images.actionnetwork.com/blog/2024/08/sean-paul-150x150.png)
 About the Author
 Sean is a contributor for the Action Network college basketball and baseball verticals, focusing on bringing insightful, in-depth betting analysis. Sean started his writing career talking about college hoops, with a strong focus on mid-major hoops, which he still covers.
@@ -679,188 +931,51 @@ Sean is a contributor for the Action Network college basketball and baseball ver
 This site [contains commercial content](https://www.actionnetwork.com/legal-online-sports-betting/affiliate-marketing-disclosure). We may be compensated for the links provided on this page. The content on this page is for informational purposes only. Action Network makes no representation or warranty as to the accuracy of the information given or the outcome of any game or event.
 ### On This Page
 Right Arrow
-Georgetown vs Texas Prediction
+St. John's vs Louisville Prediction
 Right Arrow
-Georgetown vs Texas Odds
+St. John's vs Louisville Odds
 Right Arrow
-Georgetown vs Texas College Basketball Preview
+St. John's vs Louisville College Basketball Preview
 Right Arrow
-Georgetown Basketball
+St. John's Basketball
 Right Arrow
-Texas Basketball
+Louisville Basketball
 Right Arrow
-Georgetown vs. Texas Pick, Betting Analysis
+St. John's vs. Louisville Pick, Betting Analysis
 Right Arrow
-How To Watch Georgetown vs Texas
+How To Watch St. John's vs Louisville
 ### Top Stories
 [![College Basketball Best Bets: 4 NCAAB Picks for Thanksgiving](https://images.actionnetwork.com/blog/2026/11/andy-.png)](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-4-ncaab-picks-thanksgiving-thursday-november-26)
 NCAAB
 [College Basketball Best Bets: 4 NCAAB Picks for Thanksgiving](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-4-ncaab-picks-thanksgiving-thursday-november-26)
 Action Network Staff
-10 hours ago
-[![Georgia vs Cincinnati Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://images.actionnetwork.com/blog/2026/11/Georgia-vs-Cincinnati-11.26.26.jpg)](https://www.actionnetwork.com/ncaab/georgia-bulldogs-vs-cincinnati-bearcats-prediction-pick-odds-college-basketball-thursday-november-26)
+TODAY / 12:18 AM EST
+[![Saint Mary’s vs UCLA Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://images.actionnetwork.com/blog/2026/11/saint-marys-gaels-vs-ucla-bruins-prediction-pick-odds-college-basketball-thursday-november-26.jpg)](https://www.actionnetwork.com/ncaab/saint-marys-gaels-vs-ucla-bruins-prediction-pick-odds-college-basketball-thursday-november-26)
 NCAAB
-[Georgia vs Cincinnati Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://www.actionnetwork.com/ncaab/georgia-bulldogs-vs-cincinnati-bearcats-prediction-pick-odds-college-basketball-thursday-november-26)
+[Saint Mary’s vs UCLA Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://www.actionnetwork.com/ncaab/saint-marys-gaels-vs-ucla-bruins-prediction-pick-odds-college-basketball-thursday-november-26)
 Colby Marchio
-Nov 25, 2026 EST
-[![Oklahoma vs Purdue Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://images.actionnetwork.com/blog/2026/11/Oklahoma-vs-Purdue-11.26.26.jpg)](https://www.actionnetwork.com/ncaab/oklahoma-sooners-vs-purdue-boilermakers-prediction-pick-odds-college-basketball-thursday-november-26)
+11 hours ago
+[![Creighton vs TCU Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://images.actionnetwork.com/blog/2026/11/BJ-Davissss.png)](https://www.actionnetwork.com/ncaab/creighton-bluejays-vs-tcu-horned-frogs-prediction-pick-odds-college-basketball-thursday-november-26)
 NCAAB
-[Oklahoma vs Purdue Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://www.actionnetwork.com/ncaab/oklahoma-sooners-vs-purdue-boilermakers-prediction-pick-odds-college-basketball-thursday-november-26)
+[Creighton vs TCU Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://www.actionnetwork.com/ncaab/creighton-bluejays-vs-tcu-horned-frogs-prediction-pick-odds-college-basketball-thursday-november-26)
 Jonathan Jorcin
-25 mins ago
-[![San Diego State vs Maryland Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://images.actionnetwork.com/blog/2026/11/MarylandTerrapins-11262026.jpg)](https://www.actionnetwork.com/ncaab/san-diego-state-aztecs-vs-maryland-terrapins-prediction-pick-odds-college-basketball-thursday-november-26)
+10 hours ago
+[![Kansas State vs Alabama Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://images.actionnetwork.com/blog/2026/11/AmariAllen-11252026.jpg)](https://www.actionnetwork.com/ncaab/kansas-state-wildcats-vs-alabama-crimson-tide-prediction-pick-odds-college-basketball-thursday-november-26)
 NCAAB
-[San Diego State vs Maryland Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://www.actionnetwork.com/ncaab/san-diego-state-aztecs-vs-maryland-terrapins-prediction-pick-odds-college-basketball-thursday-november-26)
-Colby Marchio
-6 hours ago
-[![Iowa State vs Tennessee Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://images.actionnetwork.com/blog/2026/11/IowaSt-NCAAB-11262026.jpg)](https://www.actionnetwork.com/ncaab/iowa-state-cyclones-vs-tennessee-volunteers-prediction-pick-odds-college-basketball-thursday-november-26)
+[Kansas State vs Alabama Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://www.actionnetwork.com/ncaab/kansas-state-wildcats-vs-alabama-crimson-tide-prediction-pick-odds-college-basketball-thursday-november-26)
+Sean Paul
+3 hours ago
+[![Gonzaga vs Baylor Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://images.actionnetwork.com/blog/2026/11/Gonzaga-vs-Baylor-11.26.26.jpg)](https://www.actionnetwork.com/ncaab/gonzaga-bulldogs-vs-baylor-bears-prediction-pick-odds-college-basketball-thursday-november-26)
 NCAAB
-[Iowa State vs Tennessee Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://www.actionnetwork.com/ncaab/iowa-state-cyclones-vs-tennessee-volunteers-prediction-pick-odds-college-basketball-thursday-november-26)
-Colby Marchio
-22 mins ago
-[![Michigan vs Miami Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://images.actionnetwork.com/blog/2026/11/Michigan-vs-Miami-11.26.26.jpg)](https://www.actionnetwork.com/ncaab/michigan-wolverines-vs-miami-hurricanes-prediction-pick-odds-college-basketball-thursday-november-26)
+[Gonzaga vs Baylor Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://www.actionnetwork.com/ncaab/gonzaga-bulldogs-vs-baylor-bears-prediction-pick-odds-college-basketball-thursday-november-26)
+Jonathan Jorcin
+5 hours ago
+[![Oregon vs Texas Tech Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://images.actionnetwork.com/blog/2026/11/Oregon-TexasTech-NCAAB-11_26.jpg)](https://www.actionnetwork.com/ncaab/oregon-ducks-vs-texas-tech-red-raiders-prediction-pick-odds-college-basketball-thursday-november-26)
 NCAAB
-[Michigan vs Miami Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://www.actionnetwork.com/ncaab/michigan-wolverines-vs-miami-hurricanes-prediction-pick-odds-college-basketball-thursday-november-26)
+[Oregon vs Texas Tech Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://www.actionnetwork.com/ncaab/oregon-ducks-vs-texas-tech-red-raiders-prediction-pick-odds-college-basketball-thursday-november-26)
 Sean Paul
 5 hours ago
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=7d6648ab-6fd9-4825-b3c7-a4e73616affa&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=9c18bc78-c944-48fe-9bb5-912b1613a9d7&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fgeorgetown-hoyas-vs-texas-longhorns-prediction-pick-odds-college-basketball-thursday-november-26&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=136&tw_session_id=1795708995698-767581053&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=7d6648ab-6fd9-4825-b3c7-a4e73616affa&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=9c18bc78-c944-48fe-9bb5-912b1613a9d7&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fgeorgetown-hoyas-vs-texas-longhorns-prediction-pick-odds-college-basketball-thursday-november-26&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=136&tw_session_id=1795708995698-767581053&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=0bee242d-7589-483c-a2e4-b82a127baabe&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=9c18bc78-c944-48fe-9bb5-912b1613a9d7&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fgeorgetown-hoyas-vs-texas-longhorns-prediction-pick-odds-college-basketball-thursday-november-26&tw_engaged_ms=7721&tw_iframe_status=0&tw_pid_src=2&tw_session_count=136&tw_session_id=1795708995698-767581053&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=0bee242d-7589-483c-a2e4-b82a127baabe&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=9c18bc78-c944-48fe-9bb5-912b1613a9d7&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fgeorgetown-hoyas-vs-texas-longhorns-prediction-pick-odds-college-basketball-thursday-november-26&tw_engaged_ms=7721&tw_iframe_status=0&tw_pid_src=2&tw_session_count=136&tw_session_id=1795708995698-767581053&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
-
-
-
----
-## SOURCE: https://www.actionnetwork.com/ncaab/iowa-state-cyclones-vs-tennessee-volunteers-prediction-pick-odds-college-basketball-thursday-november-26
-
-Table of Contents
-[Home](https://www.actionnetwork.com/)Right Arrow[NCAAB](https://www.actionnetwork.com/ncaab)
-# Iowa State vs Tennessee Predictions, Start Time, Odds: NCAAB Picks for Thursday
-![Author Profile](https://images.actionnetwork.com/blog/2026/03/855290_logo-2-150x150.png)
-[Colby Marchio](https://www.actionnetwork.com/article/author/cmaricho)
-Betting Analyst
-[Download App](https://action.onelink.me/qhpb/f46fa531)
-Updated:
-Nov 26, 2026, 10:57 AM EST
-Updated:
-Nov 26, 2026, 10:57 AM EST
-Credit:
-Pictured: Iowa State Cyclones guard Jamarion Batemon. (Credit: Candice Ward-Imagn Images)
-_If you want more Action Network content, be sure to[add us as a preferred source on Google](https://www.google.com/preferences/source?q=actionnetwork.com)._
-The [Iowa State](https://www.actionnetwork.com/ncaab/odds/iowa-hawkeyes) Cyclones take on the [Tennessee](https://www.actionnetwork.com/ncaab/odds/tennessee-volunteers) Volunteers in Paradise, NV, in the Players Era 16. Tip-off is set for 3:30 p.m. ET on ESPN.
-Iowa State is favored by -3.5 points on the spread with a moneyline of -166. The total is set at 139.5 points.
-Here’s my **Iowa State vs. Tennessee prediction** and [college basketball picks](https://www.actionnetwork.com/ncaab) for November 26, 2026.
-* * *
-## Iowa State vs Tennessee Prediction
-**Pick:[Under 140.5 (Play to 139.5)](https://playbookbot.com/books/draftkings/passthrough?deeplinkId%5B0%5D=ML3247976813&context=playbook-slack-quickslip&sport=basketball)**
-My**Iowa State vs Tennessee best bet** is on the under. Be sure to find the best lines by using our live [NCAAB odds page](https://www.actionnetwork.com/ncaab/odds) and [**download the Action Network app**](https://www.actionnetwork.com/app?af_esp=true&af_xp=custom&source_caller=ui&af_dp=actionnetwork%3A%2F%2F&shortlink=z6p41qid&pid=website&deep_link_value=actionnetwork%3A%2F%2F&af_adset=Web&c=Website%20Downloads) for the latest picks and analysis.
-* * *
-## Iowa State vs Tennessee Odds, Spread
-[![Iowa State Logo](https://static.sprtactn.co/teamlogos/ncaab/100/isu.png)](https://www.actionnetwork.com/ncaab/odds/iowa-state-cyclones)
-Thursday, Nov 26
-3:30 p.m. ET
-ESPN
-[![Tennessee Logo](https://static.sprtactn.co/teamlogos/ncaab/100/ten.png)](https://www.actionnetwork.com/ncaab/odds/tennessee-volunteers)  
-| Iowa State Odds |  
-| --- |  
-| Spread  | Total  | Moneyline  |  
-|  -3.5 -115  |  139.5 -110o / -110u  | -166  |  
-| Tennessee Odds |  
-| --- |  
-| Spread  | Total  | Moneyline  |  
-|  +3.5 -105  |  139.5 -110o / -110u  | +138  |  
-Odds via [FanDuel](https://www.actionnetwork.com/online-sports-betting/reviews/fanduel). Get up-to-the-minute [NCAAB odds here](https://www.actionnetwork.com/ncaab/odds).
-[![FanDuel Logo](https://assets.actionnetwork.com/392973_FanDuel.png)](https://www.actionnetwork.com/online-sports-betting/reviews/fanduel)
-  * **Iowa State vs Tennessee spread:** Iowa State -3.5 (-115), Tennessee +3.5 (-105)
-  * **Iowa State vs Tennessee over/under:** 139.5 (-110o / -110u)
-  * **Iowa State vs Tennessee moneyline:** Iowa State -166, Tennessee +138
-
-
-* * *
-## Iowa State vs Tennessee College Basketball Preview
-![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/isu.png)
-### Iowa State Basketball
-As a die-hard strength-of-schedule fan, I crave seeing top-25 teams get away from their cupcake schedules so we can find out just how good they really are.
-Iowa State showed on Tuesday against [San Diego State](https://www.actionnetwork.com/ncaab/odds/san-diego-state-aztecs) that it is a very solid bunch. However, the Cyclones now draw an even tougher task on Thursday, facing a very similar-style team in Tennessee.
-Will the nation's No. 1-ranked defense, per Bart Torvik, have enough to come out alive?
-![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/ten.png)
-### Tennessee Basketball
-The pure domination continues early on, as Rick Barnes and his boys have been defensive juggernauts, per usual.
-The Volunteers have allowed just one opponent — [Tennessee State](https://www.actionnetwork.com/ncaab/odds/tennessee-state-tigers) — to score more than 70 points. That came four days before Tennessee's matchup against [Michigan State](https://www.actionnetwork.com/ncaab/odds/michigan-state-spartans), which the Volunteers won while holding the Spartans to just 46 points.
-Will Tennessee be able to replicate that same defensive success it showed Tuesday against [Maryland](https://www.actionnetwork.com/ncaab/odds/maryland-terrapins) when facing an Iowa State team that has looked just as good?
-![Header First Logo](https://static.sprtactn.co/teamlogos/ncaab/100/isu.png)
-![Header Second Logo](https://static.sprtactn.co/teamlogos/ncaab/100/ten.png)
-## Iowa State vs. Tennessee Pick, Betting Analysis
-Don't make me pick a side!
-Fine, I'll lean with the Cyclones, but the under 139.5 is my favorite look.
-Despite Iowa State playing at a faster tempo than in years past, this should remain at a moderate pace, with Barnes and company enjoying a casual stroll up and down the court rather than an all-out sprint.
-On top of that, these two possess two of the nation's best analytical defenses. According to Bart Torvik, both rank in the top three in adjusted defensive efficiency. The Volunteers rank No. 1 in effective field goal percentage defense, No. 1 in 2-point percentage defense and No. 2 in 3-point percentage defense.
-Meanwhile, Iowa State ranks No. 3 in turnover rate and in the top 15 in both 2-point percentage defense and block rate.
-Both sides have encountered offensive struggles early on. The Cyclones have been one of the nation's worst 3-point shooting teams. Iowa State also ranks 228th in effective field goal percentage offense. Tennessee has struggled to protect the basketball while also having its own issues from deep.
-If these defenses can attack those flaws, points should be at an all-time premium.
-**Pick:[Under 140.5 (Play to 139.5)](https://playbookbot.com/books/draftkings/passthrough?deeplinkId%5B0%5D=ML3247976813&context=playbook-slack-quickslip&sport=basketball)**
-* * *
-### How To Watch Iowa State vs Tennessee
-Location:
-Michelob ULTRA Arena in Paradise, NV
-Date:
-Thu, Nov 26
-Tipoff Time:
-3:30 PM EST
-TV/Streaming:
-ESPN
-Iowa State vs Tennessee is scheduled for 3:30 PM EST live from Michelob ULTRA Arena on Thursday. The game will be broadcast on ESPN.
-[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fiowa-state-cyclones-vs-tennessee-volunteers-prediction-pick-odds-college-basketball-thursday-november-26)[](https://twitter.com/intent/tweet?text=Iowa%20State%20vs%20Tennessee%20Predictions%2C%20Start%20Time%2C%20Odds%3A%20NCAAB%20Picks%20for%20Thursday&url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fiowa-state-cyclones-vs-tennessee-volunteers-prediction-pick-odds-college-basketball-thursday-november-26)[](https://news.google.com/publications/CAAqBwgKMKqPhgsw7eGDAw?hl=en-US&gl=US&ceid=US%3Aen)[](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fiowa-state-cyclones-vs-tennessee-volunteers-prediction-pick-odds-college-basketball-thursday-november-26)
-![Author Profile](https://images.actionnetwork.com/blog/2026/03/855290_logo-2-150x150.png)
-About the Author
-Colby Marchio • Betting Analyst
-This site [contains commercial content](https://www.actionnetwork.com/legal-online-sports-betting/affiliate-marketing-disclosure). We may be compensated for the links provided on this page. The content on this page is for informational purposes only. Action Network makes no representation or warranty as to the accuracy of the information given or the outcome of any game or event.
-### On This Page
-Right Arrow
-Iowa State vs Tennessee Prediction
-Right Arrow
-Iowa State vs Tennessee Odds, Spread
-Right Arrow
-Iowa State vs Tennessee College Basketball Preview
-Right Arrow
-Iowa State Basketball
-Right Arrow
-Tennessee Basketball
-Right Arrow
-Iowa State vs. Tennessee Pick, Betting Analysis
-Right Arrow
-How To Watch Iowa State vs Tennessee
-### Top Stories
-[![College Basketball Best Bets: 4 NCAAB Picks for Thanksgiving](https://images.actionnetwork.com/blog/2026/11/andy-.png)](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-4-ncaab-picks-thanksgiving-thursday-november-26)
-NCAAB
-[College Basketball Best Bets: 4 NCAAB Picks for Thanksgiving](https://www.actionnetwork.com/ncaab/college-basketball-best-bets-4-ncaab-picks-thanksgiving-thursday-november-26)
-Action Network Staff
-10 hours ago
-[![Georgia vs Cincinnati Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://images.actionnetwork.com/blog/2026/11/Georgia-vs-Cincinnati-11.26.26.jpg)](https://www.actionnetwork.com/ncaab/georgia-bulldogs-vs-cincinnati-bearcats-prediction-pick-odds-college-basketball-thursday-november-26)
-NCAAB
-[Georgia vs Cincinnati Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://www.actionnetwork.com/ncaab/georgia-bulldogs-vs-cincinnati-bearcats-prediction-pick-odds-college-basketball-thursday-november-26)
-Colby Marchio
-Nov 25, 2026 EST
-[![Oklahoma vs Purdue Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://images.actionnetwork.com/blog/2026/11/Oklahoma-vs-Purdue-11.26.26.jpg)](https://www.actionnetwork.com/ncaab/oklahoma-sooners-vs-purdue-boilermakers-prediction-pick-odds-college-basketball-thursday-november-26)
-NCAAB
-[Oklahoma vs Purdue Predictions, Start Time, Odds: NCAAB Picks for Thursday](https://www.actionnetwork.com/ncaab/oklahoma-sooners-vs-purdue-boilermakers-prediction-pick-odds-college-basketball-thursday-november-26)
-Jonathan Jorcin
-25 mins ago
-[![San Diego State vs Maryland Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://images.actionnetwork.com/blog/2026/11/MarylandTerrapins-11262026.jpg)](https://www.actionnetwork.com/ncaab/san-diego-state-aztecs-vs-maryland-terrapins-prediction-pick-odds-college-basketball-thursday-november-26)
-NCAAB
-[San Diego State vs Maryland Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://www.actionnetwork.com/ncaab/san-diego-state-aztecs-vs-maryland-terrapins-prediction-pick-odds-college-basketball-thursday-november-26)
-Colby Marchio
-6 hours ago
-[![Georgetown vs Texas Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://images.actionnetwork.com/blog/2026/11/georgetown-hoyas-vs-texas-longhorns-prediction-pick-odds-college-basketball-thursday-november-26.jpg)](https://www.actionnetwork.com/ncaab/georgetown-hoyas-vs-texas-longhorns-prediction-pick-odds-college-basketball-thursday-november-26)
-NCAAB
-[Georgetown vs Texas Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://www.actionnetwork.com/ncaab/georgetown-hoyas-vs-texas-longhorns-prediction-pick-odds-college-basketball-thursday-november-26)
-Sean Paul
-6 hours ago
-[![Michigan vs Miami Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://images.actionnetwork.com/blog/2026/11/Michigan-vs-Miami-11.26.26.jpg)](https://www.actionnetwork.com/ncaab/michigan-wolverines-vs-miami-hurricanes-prediction-pick-odds-college-basketball-thursday-november-26)
-NCAAB
-[Michigan vs Miami Prediction, Pick, College Basketball Odds for Thursday, Nov. 26](https://www.actionnetwork.com/ncaab/michigan-wolverines-vs-miami-hurricanes-prediction-pick-odds-college-basketball-thursday-november-26)
-Sean Paul
-5 hours ago
-### Follow Us On Social
-[](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=84fa43fd-d94c-4531-aa11-8d81e42843cb&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=12e777c3-9f28-40cf-a2da-52db9a456d48&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fiowa-state-cyclones-vs-tennessee-volunteers-prediction-pick-odds-college-basketball-thursday-november-26&tw_engaged_ms=0&tw_iframe_status=0&tw_pid_src=2&tw_session_count=136&tw_session_id=1795708995698-767581053&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=84fa43fd-d94c-4531-aa11-8d81e42843cb&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=12e777c3-9f28-40cf-a2da-52db9a456d48&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fiowa-state-cyclones-vs-tennessee-volunteers-prediction-pick-odds-college-basketball-thursday-november-26&tw_engaged_ms=0&tw_iframe_status=0&tw_pid_src=2&tw_session_count=136&tw_session_id=1795708995698-767581053&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=3198178a-a46f-4851-b729-66cd112b1b81&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=12e777c3-9f28-40cf-a2da-52db9a456d48&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fiowa-state-cyclones-vs-tennessee-volunteers-prediction-pick-odds-college-basketball-thursday-november-26&tw_engaged_ms=7707&tw_iframe_status=0&tw_pid_src=2&tw_session_count=136&tw_session_id=1795708995698-767581053&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=3198178a-a46f-4851-b729-66cd112b1b81&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=12e777c3-9f28-40cf-a2da-52db9a456d48&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fiowa-state-cyclones-vs-tennessee-volunteers-prediction-pick-odds-college-basketball-thursday-november-26&tw_engaged_ms=7707&tw_iframe_status=0&tw_pid_src=2&tw_session_count=136&tw_session_id=1795708995698-767581053&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=f83a3644-8f30-4673-8884-86432c0aa4ae&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=a17fedd3-4f98-4391-87d5-ef44151872ae&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fst-johns-red-storm-vs-louisville-cardinals-prediction-pick-odds-college-basketball-thursday-november-26&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=138&tw_session_id=1795730460481-402974131&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=f83a3644-8f30-4673-8884-86432c0aa4ae&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=a17fedd3-4f98-4391-87d5-ef44151872ae&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fst-johns-red-storm-vs-louisville-cardinals-prediction-pick-odds-college-basketball-thursday-november-26&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=138&tw_session_id=1795730460481-402974131&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=57afceee-f20f-4a95-a147-4da7a6a12db1&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=a17fedd3-4f98-4391-87d5-ef44151872ae&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fst-johns-red-storm-vs-louisville-cardinals-prediction-pick-odds-college-basketball-thursday-november-26&tw_engaged_ms=7733&tw_iframe_status=0&tw_pid_src=2&tw_session_count=138&tw_session_id=1795730460481-402974131&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=57afceee-f20f-4a95-a147-4da7a6a12db1&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=a17fedd3-4f98-4391-87d5-ef44151872ae&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fncaab%2Fst-johns-red-storm-vs-louisville-cardinals-prediction-pick-odds-college-basketball-thursday-november-26&tw_engaged_ms=7733&tw_iframe_status=0&tw_pid_src=2&tw_session_count=138&tw_session_id=1795730460481-402974131&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 

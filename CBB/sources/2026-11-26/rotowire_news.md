@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/cbasketball/news.php | fetched: 2026-11-26 11:12 ET -->
+<!-- source: https://www.rotowire.com/cbasketball/news.php | fetched: 2026-11-26 17:02 ET -->
 
 News Filters
 [Latest](https://www.rotowire.com/cbasketball/news.php) [Top](https://www.rotowire.com/cbasketball/news.php?view=top) [Injuries](https://www.rotowire.com/cbasketball/news.php?view=injuries) [AAC](https://www.rotowire.com/cbasketball/news.php?conf=201) [ACC](https://www.rotowire.com/cbasketball/news.php?conf=6) [Big Ten](https://www.rotowire.com/cbasketball/news.php?conf=3) [Big 12](https://www.rotowire.com/cbasketball/news.php?conf=103) [Big East](https://www.rotowire.com/cbasketball/news.php?conf=102) [MVC](https://www.rotowire.com/cbasketball/news.php?conf=21) [Mtn West](https://www.rotowire.com/cbasketball/news.php?conf=112) [SEC](https://www.rotowire.com/cbasketball/news.php?conf=10) [WCC](https://www.rotowire.com/cbasketball/news.php?conf=110)
@@ -6,6 +6,163 @@ Conference
 News Display Mode
 Compact 
 Expanded 
+![Boston College](https://assets.rotowire.com/images/teamlogo/cbasketball/Boston-College.png?v=16)
+[Luke Hunger](https://www.rotowire.com/cbasketball/player/luke-hunger-20437)
+Comes close to double-double
+**F** Boston College
+November 26, 2026
+Hunger racked up 14 points (2-8 FG, 1-3 3Pt, 9-12 FT), seven rebounds and one assist over 22 minutes during Thursday's 75-73 victory over UCF.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Boston College](https://assets.rotowire.com/images/teamlogo/cbasketball/Boston-College.png?v=16)
+[Money Williams](https://www.rotowire.com/cbasketball/player/money-williams-25157)
+Impressive in return
+**G** Boston College
+November 26, 2026
+Williams (undisclosed) contributed 27 points (8-19 FG, 1-6 3Pt, 10-10 FT), four rebounds, one assist, one block and one steal across 35 minutes during Thursday's 75-73 win over UCF.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Michigan State](https://assets.rotowire.com/images/teamlogo/cbasketball/Michigan-State.png?v=16)
+[Jordan Scott](https://www.rotowire.com/cbasketball/player/jordan-scott-26066)
+Starting vs. Arkansas
+**G** Michigan State
+November 26, 2026
+Scott (shoulder) is starting Thursday's game against Arkansas, [Chris Solari of the Detroit Free Press](https://x.com/chrissolari/status/2126067605480063144) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Michigan State](https://assets.rotowire.com/images/teamlogo/cbasketball/Michigan-State.png?v=16)
+[Coen Carr](https://www.rotowire.com/cbasketball/player/coen-carr-22500)
+Starting Thursday
+**F** Michigan State
+November 26, 2026
+Carr (knee) is in the starting lineup for Thursday's game against Arkansas, [Chris Solari of the Detroit Free Press](https://x.com/chrissolari/status/2126067605480063144) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![San Diego State](https://assets.rotowire.com/images/teamlogo/cbasketball/San-Diego-State.png?v=16)
+[Bear Cherry](https://www.rotowire.com/cbasketball/player/bear-cherry-23727)
+Rejects nine shots
+**F** San Diego State
+November 26, 2026
+Cherry recorded 10 points (4-6 FG, 2-3 FT), six rebounds, two assists, nine blocks and three steals across 30 minutes during Thursday's 75-71 win over Maryland.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Notre Dame](https://assets.rotowire.com/images/teamlogo/cbasketball/Notre-Dame.png?v=16)
+[Braeden Shrewsberry](https://www.rotowire.com/cbasketball/player/braeden-shrewsberry-22275)
+Another dominant showing
+**G** Notre Dame
+November 26, 2026
+Shrewsberry posted 29 points (11-18 FG, 6-11 3Pt, 1-3 FT), four rebounds, four assists and two steals in 34 minutes during Tuesday's 88-70 win over Central Michigan.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Oklahoma](https://assets.rotowire.com/images/teamlogo/cbasketball/Oklahoma.png?v=16)
+[Pop Isaacs](https://www.rotowire.com/cbasketball/player/pop-isaacs-20401)
+Scores team-high 17
+**G** Oklahoma
+November 26, 2026
+Isaacs finished with 17 points (7-9 FG, 3-5 3Pt), five rebounds and five assists across 31 minutes during Thursday's 70-63 win over Purdue.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Georgia Tech](https://assets.rotowire.com/images/teamlogo/cbasketball/Georgia-Tech.png?v=16)
+[Colby Garland](https://www.rotowire.com/cbasketball/player/colby-garland-22800)
+Solid stat line in defeat
+**G** Georgia Tech
+November 26, 2026
+Garland ended with 18 points (7-15 FG, 2-4 3Pt, 2-2 FT), six rebounds and six assists over 29 minutes during Tuesday's 92-81 loss to Samford.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Stanford](https://assets.rotowire.com/images/teamlogo/cbasketball/Stanford.png?v=16)
+[Julius Price](https://www.rotowire.com/cbasketball/player/julius-price-28271)
+Explodes for 31 points on Thanksgiving
+**G** Stanford
+November 26, 2026
+Price racked up 31 points (9-16 FG, 5-11 3Pt, 8-8 FT), five rebounds and one steal over 35 minutes during Thursday's 66-64 loss to Saint Louis.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Clemson](https://assets.rotowire.com/images/teamlogo/cbasketball/Clemson.png?v=16)
+[David Fuchs](https://www.rotowire.com/cbasketball/player/david-fuchs-22746)
+Comes close to double-double
+**F** Clemson
+November 26, 2026
+Fuchs closed Thursday's 77-75 loss to Colorado State with 19 points (5-7 FG, 1-2 3Pt, 8-9 FT), nine rebounds, one assist and one steal in 35 minutes.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Clemson](https://assets.rotowire.com/images/teamlogo/cbasketball/Clemson.png?v=16)
+[Chase Thompson](https://www.rotowire.com/cbasketball/player/chase-thompson-25957)
+Co-leads Syracuse in scoring
+**F** Clemson
+November 26, 2026
+Thompson accumulated 19 points (7-8 FG, 4-4 3Pt, 1-1 FT), three rebounds, three assists, one block and two steals over 37 minutes during Thursday's 77-75 loss to Colorado State.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Oklahoma](https://assets.rotowire.com/images/teamlogo/cbasketball/Oklahoma.png?v=16)
+[Xzayvier Brown](https://www.rotowire.com/cbasketball/player/xzayvier-brown-22765)
+Scores 11, deals five assists
+**G** Oklahoma
+November 26, 2026
+Brown (undisclosed) amassed 11 points (3-13 FG, 1-4 3Pt, 4-5 FT), four rebounds, five assists and one steal across 32 minutes during Thursday's 70-63 victory over Purdue.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Michigan](https://assets.rotowire.com/images/teamlogo/cbasketball/Michigan.png?v=16)
+[Oscar Goodman](https://www.rotowire.com/cbasketball/player/oscar-goodman-25917)
+Looks set to sit Thursday
+**F** Michigan
+Undisclosed
+November 26, 2026
+Goodman appears likely to be unavailable for Michigan's game against Miami on Thursday after he was seen in sweats during warmups, [James Hawkins of The Detroit News](https://x.com/jamesbhawkins/status/2126046305281839260) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Miami](https://assets.rotowire.com/images/teamlogo/cbasketball/Miami.png?v=16)
+[Caleb Gaskins](https://www.rotowire.com/cbasketball/player/caleb-gaskins-28100)
+Out vs. Michigan
+**F** Miami
+Lower Body
+November 26, 2026
+Gaskins (lower body) is out for Thursday's game against Michigan, [Jon Rothstein of CBS Sports](https://x.com/JonRothstein/status/2126044489592852916) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Georgia](https://assets.rotowire.com/images/teamlogo/cbasketball/Georgia.png?v=16)
+[Blue Cain](https://www.rotowire.com/cbasketball/player/blue-cain-22588)
+Provides 18 points, seven rebounds
+**G** Georgia
+November 26, 2026
+Cain ended Thursday's 83-81 loss to Cincinnati with 18 points (8-16 FG, 2-6 3Pt), seven rebounds and five assists over 33 minutes.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Georgia](https://assets.rotowire.com/images/teamlogo/cbasketball/Georgia.png?v=16)
+[Brady Dunlap](https://www.rotowire.com/cbasketball/player/brady-dunlap-22378)
+Scores season-high 15
+**F** Georgia
+November 26, 2026
+Dunlap had 15 points (3-7 FG, 3-5 3Pt, 6-6 FT) and one rebound in 19 minutes during Thursday's 83-81 loss to Cincinnati.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Texas](https://assets.rotowire.com/images/teamlogo/cbasketball/Texas.png?v=16)
+[Isaiah Johnson](https://www.rotowire.com/cbasketball/player/isaiah-johnson-26216)
+Will play Thursday
+**G** Texas
+Lower Body
+November 26, 2026
+Johnson (lower body) will be available for Thursday's game against Georgetown in San Diego, [Jon Rothstein of CBS Sports](https://x.com/JonRothstein/status/2125998137483665730) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Texas](https://assets.rotowire.com/images/teamlogo/cbasketball/Texas.png?v=16)
+[Mikey Lewis](https://www.rotowire.com/cbasketball/player/mikey-lewis-23709)
+Remains out Thursday
+**G** Texas
+Foot
+November 26, 2026
+Lewis (foot) remains out for Thursday's game against Georgetown and has yet to play this season, according to [Jon Rothstein of CBS Sports](https://x.com/JonRothstein/status/2125998137483665730).
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![Boston College](https://assets.rotowire.com/images/teamlogo/cbasketball/Boston-College.png?v=16)
+[Money Williams](https://www.rotowire.com/cbasketball/player/money-williams-25157)
+Available for Thursday's game
+**G** Boston College
+Undisclosed
+November 26, 2026
+Williams (undisclosed) is available for Thursday's game against UCF, [Jon Rothstein of CBS Sports](https://x.com/JonRothstein/status/2126005567239995674) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![Oklahoma](https://assets.rotowire.com/images/teamlogo/cbasketball/Oklahoma.png?v=16)
 [Xzayvier Brown](https://www.rotowire.com/cbasketball/player/xzayvier-brown-22765)
 Could play Thursday
@@ -55,162 +212,6 @@ Scores season-high 16
 **F** Mississippi State
 November 26, 2026
 Bassong had 16 points (7-10 FG, 0-2 3Pt, 2-3 FT), three rebounds, one block and one steal over 27 minutes during Wednesday's 78-71 loss to Wake Forest.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Colorado State](https://assets.rotowire.com/images/teamlogo/cbasketball/Colorado-State.png?v=16)
-[Pops Dunson](https://www.rotowire.com/cbasketball/player/pops-dunson-28725)
-Scores season-high 16 points
-**G** Colorado State
-November 26, 2026
-Dunson supplied 16 points (6-7 FG, 4-5 3Pt) and one rebound in 16 minutes during Thursday's 77-75 victory over Clemson.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Colorado State](https://assets.rotowire.com/images/teamlogo/cbasketball/Colorado-State.png?v=16)
-[Josh Pascarelli](https://www.rotowire.com/cbasketball/player/josh-pascarelli-22860)
-Dials up 16 points
-**G** Colorado State
-November 26, 2026
-Pascarelli notched 16 points (5-9 FG, 4-6 3Pt, 2-2 FT), one rebound and one assist in 28 minutes during Thursday's 77-75 victory over Clemson.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Wisconsin](https://assets.rotowire.com/images/teamlogo/cbasketball/Wisconsin.png?v=16)
-[Jackson Ball](https://www.rotowire.com/cbasketball/player/jackson-ball-27990)
-Suffers knee injury Wednesday
-**G** Wisconsin
-Knee
-November 25, 2026
-Ball exited Wednesday's 91-54 win over Northeastern with a knee injury before returning to the bench, per [Kedrick Stumbris](https://x.com/KedrickStumbris/status/2125750284307574925).
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Hawaii](https://assets.rotowire.com/images/teamlogo/cbasketball/Hawaii.png?v=16)
-[Manie Joses](https://www.rotowire.com/cbasketball/player/manie-joses-23669)
-Available vs. Incarnate Word
-**F** Hawaii
-November 25, 2026
-Joses (undisclosed) is available and starting in Wednesday's contest against Incarnate Word, per [Christian Shimabuku of Aloha State Daily](https://x.com/c_shimabuku/status/2125812618296426692).
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Utah State](https://assets.rotowire.com/images/teamlogo/cbasketball/Utah-State.png?v=16)
-[Connor Turnbull](https://www.rotowire.com/cbasketball/player/connor-turnbull-20514)
-Returns from injury
-**F** Utah State
-November 25, 2026
-Turnbull (foot) closed Wednesday's 93-59 win over SMU with zero points (0-1 FG) and three rebounds in seven minutes.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Penn State](https://assets.rotowire.com/images/teamlogo/cbasketball/Penn-State.png?v=16)
-[Brant Byers](https://www.rotowire.com/cbasketball/player/brant-byers-24821)
-Provides 16 points off bench
-**F** Penn State
-Illness
-November 25, 2026
-Byers (illness) amassed 16 points (3-10 FG, 3-7 3Pt, 7-8 FT), three rebounds, two blocks and two steals in 29 minutes during Wednesday's 83-70 loss to Memphis.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![George Mason](https://assets.rotowire.com/images/teamlogo/cbasketball/George-Mason.png?v=16)
-[James Nnaji](https://www.rotowire.com/cbasketball/player/james-nnaji-27750)
-Makes season debut
-**C** George Mason
-November 25, 2026
-Nnaji (not injury related) contributed four points (1-1 FG, 2-2 FT) and five rebounds across eight minutes during Wednesday's 93-58 victory over Longwood.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![George Mason](https://assets.rotowire.com/images/teamlogo/cbasketball/George-Mason.png?v=16)
-[Lilian Marville](https://www.rotowire.com/cbasketball/player/lilian-marville-27598)
-Logs 15 minutes in debut
-**G** George Mason
-November 25, 2026
-Marville (undisclosed) posted two points (1-4 FG, 0-2 3Pt), three rebounds and one steal across 15 minutes during Wednesday's 93-58 win over Longwood.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Georgetown](https://assets.rotowire.com/images/teamlogo/cbasketball/Georgetown.png?v=16)
-[Vyctorius Miller](https://www.rotowire.com/cbasketball/player/vyctorius-miller-23685)
-Inactive for Rady Children's Invitational
-**G** Georgetown
-Hand
-November 25, 2026
-Miller (hand) will not appear this weekend in San Diego, [Jon Rothstein of CBS Sports](https://x.com/JonRothstein/status/2125761974877425833) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Kansas](https://assets.rotowire.com/images/teamlogo/cbasketball/Kansas.png?v=16)
-[Melvin Council](https://www.rotowire.com/cbasketball/player/melvin-council-22939)
-Targeting return for conference play
-**G** Kansas
-Foot
-November 25, 2026
-Council (foot) is projected to return around the start of Big 12 play, [Michael Swain of 247Sports.com](https://247sports.com/college/kansas/article/melvin-council-jr-kansas-injury-interview-quotes-293299471/) reports.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![BYU](https://assets.rotowire.com/images/teamlogo/cbasketball/BYU.png?v=16)
-[Tyler Betsey](https://www.rotowire.com/cbasketball/player/tyler-betsey-23494)
-Drains six from deep
-**F** BYU
-November 25, 2026
-Betsey notched 22 points (8-15 FG, 6-13 3Pt, 0-2 FT), four rebounds and one assist across 34 minutes during Wednesday's 85-82 win over Providence.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Utah State](https://assets.rotowire.com/images/teamlogo/cbasketball/Utah-State.png?v=16)
-[Solomon Callaghan](https://www.rotowire.com/cbasketball/player/solomon-callaghan-25661)
-Nails six treys, scores 20
-**G** Utah State
-November 25, 2026
-Callaghan provided 20 points (7-14 FG, 6-11 3Pt), three rebounds, three assists and one steal over 32 minutes during Wednesday's 93-59 win over SMU.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Oklahoma State](https://assets.rotowire.com/images/teamlogo/cbasketball/Oklahoma-State.png?v=16)
-[Jacob Walker](https://www.rotowire.com/cbasketball/player/jacob-walker-27346)
-Leads Cowboys with season high 18 points
-**G** Oklahoma State
-November 25, 2026
-Walker chipped in 18 points (6-7 FG, 0-1 3Pt, 6-6 FT), one rebound, four assists and three steals across 24 minutes during Wednesday's 93-58 victory over Jackson State.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Arizona](https://assets.rotowire.com/images/teamlogo/cbasketball/Arizona.png?v=16)
-[Motiejus Krivas](https://www.rotowire.com/cbasketball/player/motiejus-krivas-22322)
-Career-best double double
-**F** Arizona
-November 25, 2026
-Krivas finished Wednesday's 84-73 victory over Ole Miss with 31 points (11-13 FG, 0-1 3Pt, 9-14 FT), 17 rebounds, two assists and one block over 35 minutes.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Arizona State](https://assets.rotowire.com/images/teamlogo/cbasketball/Arizona-State.png?v=16)
-[Joel Foxwell](https://www.rotowire.com/cbasketball/player/joel-foxwell-26174)
-Drains six from downtown
-**G** Arizona State
-November 25, 2026
-Foxwell totaled 25 points (9-17 FG, 6-9 3Pt, 1-2 FT), seven rebounds, seven assists and one steal over 46 minutes during Wednesday's 94-92 2OT loss to LSU.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![Arizona State](https://assets.rotowire.com/images/teamlogo/cbasketball/Arizona-State.png?v=16)
-[Paulius Murauskas](https://www.rotowire.com/cbasketball/player/paulius-murauskas-22372)
-Continues 20-point streak
-**F** Arizona State
-November 25, 2026
-Murauskas ended Wednesday's 94-92 2OT loss to LSU with 27 points (7-17 FG, 0-6 3Pt, 13-17 FT), six rebounds, three assists and one steal over 47 minutes.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![South Carolina](https://assets.rotowire.com/images/teamlogo/cbasketball/South-Carolina.png?v=16)
-[Aleksas Bieliauskas](https://www.rotowire.com/cbasketball/player/aleksas-bieliauskas-25876)
-Powers up double-double
-**F** South Carolina
-November 25, 2026
-Bieliauskas recorded 18 points (6-9 FG, 3-3 3Pt, 3-7 FT), a season-high 12 rebounds and one block in 30 minutes during Wednesday's 71-69 loss to USC.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![SMU](https://assets.rotowire.com/images/teamlogo/cbasketball/SMU.png?v=16)
-[Jermaine O'Neal](https://www.rotowire.com/cbasketball/player/jermaine-oneal-26296)
-Out of starting five Wednesday
-**F** SMU
-November 25, 2026
-O'Neal [is not starting](https://x.com/SMUBasketball/status/2125754236751499639) in Wednesday's contest at Utah State.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![South Carolina](https://assets.rotowire.com/images/teamlogo/cbasketball/South-Carolina.png?v=16)
-[Marcus Johnson](https://www.rotowire.com/cbasketball/player/marcus-johnson-28278)
-Scores 11 points, deals five assists
-**G** South Carolina
-November 25, 2026
-Johnson ended with 11 points (3-10 FG, 0-1 3Pt, 5-8 FT), four rebounds, five assists and two steals over 36 minutes during Wednesday's 71-69 loss to USC.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)

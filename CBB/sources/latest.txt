@@ -1,11 +1,11 @@
-# CBB sources | Thu 11/26/2026 | updated 2026-11-26 11:17 ET
+# CBB sources | Thu 11/26/2026 | updated 2026-11-26 17:02 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # STATUS  PATH  DETAIL  SOURCE-URL
-OK      CBB/sources/2026-11-26/torvik_schedule.md            no changes since 2026-11-26 11:12  https://barttorvik.com/schedule.php?date=20261126
-OK      CBB/sources/2026-11-26/covers_predictions.md         UPDATED (changed since 2026-11-26 11:12) 82,361 chars https://www.covers.com/picks/ncaab
-OK      CBB/sources/2026-11-26/rotowire_news.md              no changes since 2026-11-26 11:12  https://www.rotowire.com/cbasketball/news.php
-OK      CBB/sources/2026-11-26/cbs_injuries.md               UPDATED (changed since 2026-11-26 11:12) 60,044 chars (via Jina) https://www.cbssports.com/college-basketball/injuries/
-OK      CBB/sources/2026-11-26/actionnetwork_picks.md        UPDATED (changed since 2026-11-26 11:12) 13,634 chars https://www.actionnetwork.com/ncaab/picks
-OK      CBB/sources/2026-11-26/actionnetwork_articles.md     UPDATED (changed since 2026-11-26 11:12) 99,844 chars [6 of 6 articles combined] https://www.actionnetwork.com/ncaab
+OK      CBB/sources/2026-11-26/torvik_schedule.md            UPDATED (changed since 2026-11-26 11:12) 9,100 chars https://barttorvik.com/schedule.php?date=20261126
+OK      CBB/sources/2026-11-26/covers_predictions.md         UPDATED (changed since 2026-11-26 11:17) 53,739 chars https://www.covers.com/picks/ncaab
+OK      CBB/sources/2026-11-26/rotowire_news.md              UPDATED (changed since 2026-11-26 11:12) 14,181 chars https://www.rotowire.com/cbasketball/news.php
+OK      CBB/sources/2026-11-26/cbs_injuries.md               UPDATED (changed since 2026-11-26 11:17) 60,091 chars (via Jina) https://www.cbssports.com/college-basketball/injuries/
+OK      CBB/sources/2026-11-26/actionnetwork_picks.md        UPDATED (changed since 2026-11-26 11:17) 12,813 chars https://www.actionnetwork.com/ncaab/picks
+OK      CBB/sources/2026-11-26/actionnetwork_articles.md     UPDATED (changed since 2026-11-26 11:17) 102,879 chars [6 of 6 articles combined] https://www.actionnetwork.com/ncaab
 FAILED  CBB/sources/2026-11-26/fanduel_research.md           no article dated today yet (browser saw 193 links, Jina 446) https://fanduel.com/research/ncaab
-FAILED  CBB/sources/2026-11-26/rotoballer_betting.md         no article dated today yet (browser saw 1124 links, Jina 1599) https://www.rotoballer.com/tag/cbb-betting-picks-ncaa-college-basketball
+FAILED  CBB/sources/2026-11-26/rotoballer_betting.md         no article dated today yet (browser saw 1125 links, Jina 1600) https://www.rotoballer.com/tag/cbb-betting-picks-ncaa-college-basketball
