@@ -1,14 +1,14 @@
-# NBABets transcripts | 2026-11-25 | updated 2026-11-25 18:54 ET
+# NBABets transcripts | 2026-11-26 | updated 2026-11-26 11:09 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 1 files in NBABets/transcripts/2026-11-25:
-NBABets/transcripts/2026-11-25/qyeNwTv5v_g_ChrisBets_Nov_25th_NBA_Betting_Angles_ChrisBeCappinn_Show.txt
+# 0 files in NBABets/transcripts/2026-11-26:
+
 
 # this run:
 NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
 NONE    channel whatslaps: nothing new in the date window (or everything already saved)
-NOCAPS  JayMoney fhaUCoaZPwA NBA Cup Play Of The Day With Jay Money Free NBA Picks and Pr  (no captions; Groq: not enough Groq allowance left today (11 min left))
+NONE    channel JayMoney: nothing new in the date window (or everything already saved)
 NONE    channel ChrisBets: nothing new in the date window (or everything already saved)
-UPCOMING NBAGamblingPod uce6LaVr4J4 NBA Friday Picks - 11/27/26 | NBA Bets, Player Props and Pre  (not aired yet - scheduled for 11/26/26 9:05PM)
+NONE    channel NBAGamblingPod: nothing new in the date window (or everything already saved)
 NONE    channel BackdoorFantasy: nothing new in the date window (or everything already saved)
 FAILED  channel NBAPicksPreds: RuntimeError: channel page backup returned no videos
 NONE    channel PickemNBA: nothing new in the date window (or everything already saved)
