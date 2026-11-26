@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-26 18:34 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-26 18:49 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,22 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![SAS](https://assets.rotowire.com/images/teamlogo/basketball/100SAS.png?v=10)
+[Dylan Harper](https://www.rotowire.com/basketball/player/dylan-harper-6549)[Questionable for Friday](https://www.rotowire.com/basketball/headlines/dylan-harper-injury-questionable-for-friday-541124)
+**G** San Antonio Spurs
+Hip
+November 26, 2026
+Harper (hip) is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-26_06_30PM.pdf) for Friday's game against the Lakers.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![SAS](https://assets.rotowire.com/images/teamlogo/basketball/100SAS.png?v=10)
+[De'Aaron Fox](https://www.rotowire.com/basketball/player/deaaron-fox-4116)[Questionable for Friday](https://www.rotowire.com/basketball/headlines/deaaron-fox-injury-questionable-for-friday-541123)
+**G** San Antonio Spurs
+Lower Leg
+November 26, 2026
+Fox (shin) is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-26_06_30PM.pdf) for Friday's game against the Lakers.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![MEM](https://assets.rotowire.com/images/teamlogo/basketball/100MEM.png?v=10)
 [Isaiah Stewart](https://www.rotowire.com/basketball/player/isaiah-stewart-5137)[Dealing with hip soreness](https://www.rotowire.com/basketball/headlines/isaiah-stewart-injury-dealing-with-hip-soreness-541122)
 **C** Memphis Grizzlies
@@ -194,20 +210,6 @@ Wiggins is [probable](https://ak-static.cms.nba.com/referee/injury/Injury-Report
 Illness
 November 26, 2026
 Robinson (illness) is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-26_01_45PM.pdf) for Friday's game against the Hawks.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![HOU](https://assets.rotowire.com/images/teamlogo/basketball/100HOU.png?v=10)
-[Jabari Smith](https://www.rotowire.com/basketball/player/jabari-smith-5643)[Adds defensive production in win](https://www.rotowire.com/basketball/headlines/jabari-smith-news-adds-defensive-production-in-win-541099)
-**F** Houston Rockets
-November 26, 2026
-Smith recorded 13 points (4-9 FG, 2-4 3Pt, 3-5 FT), four rebounds, one assist, two blocks and one steal over 32 minutes during Wednesday's 116-104 win over the Suns.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![HOU](https://assets.rotowire.com/images/teamlogo/basketball/100HOU.png?v=10)
-[Alperen Sengun](https://www.rotowire.com/basketball/player/alperen-sengun-5404)[Posts third triple-double of season in win](https://www.rotowire.com/basketball/headlines/alperen-sengun-news-posts-third-triple-double-of-season-in-win-541098)
-**C** Houston Rockets
-November 26, 2026
-Sengun racked up 23 points (9-17 FG, 3-5 3Pt, 2-6 FT), 11 rebounds and 11 assists across 32 minutes during Wednesday's 116-104 win over Phoenix.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)
