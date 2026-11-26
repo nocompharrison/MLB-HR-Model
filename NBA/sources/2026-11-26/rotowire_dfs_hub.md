@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-26 16:07 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-26 18:05 ET -->
 
 # NBA DFS Picks Today
 November 25, 2026
@@ -23,37 +23,37 @@ Stay on top of the most important news impacting today's slate with our live new
 Thursday, November 26 - Latest RotoWire player news for tonight's games
 All newsTop stories
 All NBA news
-BOS
-**[Mitchell Robinson](https://www.rotowire.com/basketball/player/mitchell-robinson-4426)** _C_ Q _Top_ 2:00 PM ET
-#### Questionable for Friday
-Robinson (illness) is questionable for Friday's game against the Hawks.
+ATL
+**[Jock Landale](https://www.rotowire.com/basketball/player/jock-landale-4562)** _C_ OUT5:44 PM ET
+#### Absent once again
+Landale (hip) is out for Friday's game against the Celtics.
 Analysis
-Robinson has missed Boston's previous three games due to an illness, and it appears he's in danger of missing a fourth consecutive outing Friday. Neemias Queta will continue to start in Robinson's place if he remains sidelined, while Luka Garza and Chris Cenac get more minutes off the bench.
-HOU
-**[Jabari Smith](https://www.rotowire.com/basketball/player/jabari-smith-5643)** _F_ 1:21 PM ET
-#### Adds defensive production in win
-Smith recorded 13 points (4-9 FG, 2-4 3Pt, 3-5 FT), four rebounds, one assist, two blocks and one steal over 32 minutes during Wednesday's 116-104 win over the Suns.
+Landale won't suit up Friday and this will be his fifth consecutive absence. His next chance to play will come against the Knicks on Sunday.
+IND
+**[Larry Nance](https://www.rotowire.com/basketball/player/larry-nance-3723)** _C_ Q5:43 PM ET
+#### Questionable to play Friday
+Nance (ankle) is questionable for Friday's game against the 76ers.
 Analysis
-Smith has averaged 15.2 points and 5.6 rebounds over his last five appearances while shooting 52.0 percent from the field. His steady minutes and ability to contribute three-pointers and defensive stats support his value in standard fantasy formats.
-HOU
-**[Alperen Sengun](https://www.rotowire.com/basketball/player/alperen-sengun-5404)** _C_ 1:20 PM ET
-#### Posts third triple-double of season in win
-Sengun racked up 23 points (9-17 FG, 3-5 3Pt, 2-6 FT), 11 rebounds and 11 assists across 32 minutes during Wednesday's 116-104 win over Phoenix.
+Nance didn't return to Monday's game against the Thunder due to a sore right ankle, and it remains to be seen whether the big man will be able to suit up Friday. He shouldn't cause a massive impact in most fantasy lineups with his absence, as Nance is averaging just 4.2 points and 2.2 rebounds per game in 17 appearances off the bench this season.
+IND
+**[Aaron Nesmith](https://www.rotowire.com/basketball/player/aaron-nesmith-5120)** _F_ Q _Top_ 5:31 PM ET
+#### Could return Friday
+Nesmith (foot) is questionable for Friday's game against the 76ers.
 Analysis
-Sengun has recorded two triple-doubles in his last three appearances, reinforcing his elite fantasy upside as Houston's offensive hub. His playmaking responsibilities and consistent involvement in the paint provide multiple avenues to production, even alongside Kevin Durant.
-HOU
-**[Amen Thompson](https://www.rotowire.com/basketball/player/amen-thompson-5931)** _G_ 1:19 PM ET
-#### Doubles-doubles in win over Suns
-Thompson posted 18 points (7-14 FG, 4-9 FT), 10 rebounds, four assists and two blocks across 36 minutes during Wednesday's 116-104 win over Phoenix.
+Nesmith didn't play Monday against the Thunder, but the questionable tag means he could be back in the rotation Friday. Nesmith has been the team's regular starter at the three when healthy, averaging 9.8 points, 3.8 rebounds and 2.7 assists per game across 10 appearances since the beginning of November.
+IND
+**[T.J. McConnell](https://www.rotowire.com/basketball/player/tj-mcconnell-3760)** _G_ Q5:29 PM ET
+#### Listed as questionable
+McConnell (hamstring) is questionable for Friday's game against the 76ers.
 Analysis
-Thompson's activity on the offensive glass and defensive versatility continue to bolster his fantasy value. His lack of perimeter shooting and inconsistent free-throw accuracy remain limitations, but his substantial workload supports a strong all-around ceiling.
-PHX
-**[Khaman Maluach](https://www.rotowire.com/basketball/player/khaman-maluach-6542)** _C_ 1:14 PM ET
-#### Perfect from field in loss
-Maluach contributed 12 points (4-4 FG, 4-6 FT), six rebounds, one block and one steal in 25 minutes during Wednesday's 116-104 loss to the Rockets.
+McConnell has missed the Pacers' last two games due to left hamstring soreness, and the questionable tag suggests the veteran floor general could be an option Friday. He's not expected to have a big role in most fantasy lineups, though, as he's averaging just 7.0 points, 4.3 assists, and 2.3 rebounds per game in his seven outings off the bench this season.
+DET
+**[Duncan Robinson](https://www.rotowire.com/basketball/player/duncan-robinson-4470)** _F_ OUT _Top_ 5:26 PM ET
+#### Not playing Friday
+Robinson (quadriceps) is out for Friday's game against the Bucks.
 Analysis
-With Mark Williams sidelined, Maluach continues to see opportunities in Phoenix's center rotation. He's averaged 9.8 points, 5.0 rebounds and 20.0 minutes over his last four games, offering short-term value through efficient finishing and defensive upside.
-Show 5 more (42 remaining)
+Robinson is carrying a day-to-day tag due to a left quadriceps strain, but the veteran sharpshooter is not ready to play yet and will miss a sixth consecutive game Friday. This means Kevin Huerter will likely continue seeing increased playing time for as long as Robinson is sidelined.
+Show 5 more (60 remaining)
 Top = RotoWire's highest-priority updates. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details). Updates every 5 minutes.News: RotoWire
 ## **NBA Starting Lineups**
 Know who is expected to start, with salaries and projected points for Draftkings and Fanduel. Bookmark our [NBA starting lineups](https://www.rotowire.com/basketball/nba-lineups.php) page to turn on alerts and view the next day's lineups.
