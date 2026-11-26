@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nfl/player-news.php | fetched: 2026-11-26 10:03 ET -->
+<!-- source: https://www.fantasypros.com/nfl/player-news.php | fetched: 2026-11-26 11:31 ET -->
 
 # Fantasy Football News
 ##  Latest Player Updates 
@@ -7,6 +7,118 @@
 All News Breaking News Rumors NFL Draft Game Recaps Injuries Transactions
 Teams Arizona Cardinals Atlanta Falcons Baltimore Ravens Buffalo Bills Carolina Panthers Chicago Bears Cincinnati Bengals Cleveland Browns Dallas Cowboys Denver Broncos Detroit Lions Green Bay Packers Houston Texans Indianapolis Colts Jacksonville Jaguars Kansas City Chiefs Las Vegas Raiders Los Angeles Chargers Los Angeles Rams Miami Dolphins Minnesota Vikings New England Patriots New Orleans Saints New York Giants New York Jets Philadelphia Eagles Pittsburgh Steelers San Francisco 49ers Seattle Seahawks Tampa Bay Buccaneers Tennessee Titans Washington Commanders
 Positions Quarterbacks Running Backs Wide Receivers Tight Ends Kickers Defensive Linemen Linebackers Defensive Backs
+[![Matthew Stafford](https://images.fantasypros.com/images/players/nfl/9451/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/matthew-stafford.php)
+QB - LAR
+[» Rankings](https://www.fantasypros.com/nfl/players/matthew-stafford.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/matthew-stafford.php)  
+[» More News](https://www.fantasypros.com/nfl/news/matthew-stafford.php)
+[Matthew Stafford held in check in Week 12 win over Packers](https://www.fantasypros.com/nfl/news/622698/matthew-stafford-held-check-week-12-win-over-packers.php)  
+
+Thu, Nov 26th 10:30am EST  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Matthew Stafford completed 16-of-23 pass attempts for 140 yards and one interception in the Rams' 26-13 Week 12 win over the Packers. 
+**_Fantasy Impact:_** Stafford relied on a dominant Rams rushing attack Wednesday night, passing for under 200 yards for the third time in his last five games. The quarterback will hope to get the Los Angeles passing attack back on track with the potential return of wideout Davante Adams for a Week 13 matchup against the Kansas City Chiefs.
+Category: [Game Recaps](https://www.fantasypros.com/nfl/game-recaps.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Blake Corum](https://images.fantasypros.com/images/players/nfl/23013/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/blake-corum.php)
+RB - LAR
+[» Rankings](https://www.fantasypros.com/nfl/players/blake-corum.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/blake-corum.php)  
+[» More News](https://www.fantasypros.com/nfl/news/blake-corum.php)
+[Blake Corum dominates on ground in Week 12 win over Packers](https://www.fantasypros.com/nfl/news/622697/blake-corum-dominates-on-ground-week-12-win-over-packers.php)  
+
+Thu, Nov 26th 10:27am EST  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Blake Corum carried the ball 32 times for 184 yards and one touchdown while also hauling in two of his three targets for 21 yards in the Rams' 26-13 Week 12 win over the Packers.
+**_Fantasy Impact:_** Corum has taken advantage of increased touches out of the Los Angeles backfield of late, finishing with over 50 offensive yards and rushing for one touchdown in each of his last five games. The running back has offered fantasy managers an impactful backfield option while wrestling touches away from Kyren Williams, with a Week 13 matchup against the Kansas City Chiefs up next.
+Category: [Game Recaps](https://www.fantasypros.com/nfl/game-recaps.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Kyren Williams](https://images.fantasypros.com/images/players/nfl/23059/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/kyren-williams.php)
+RB - LAR
+[» Rankings](https://www.fantasypros.com/nfl/players/kyren-williams.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/kyren-williams.php)  
+[» More News](https://www.fantasypros.com/nfl/news/kyren-williams.php)
+[Kyren Williams reaches end zone in Week 12 win over Packers](https://www.fantasypros.com/nfl/news/622696/kyren-williams-reaches-end-zone-week-12-win-over-packers.php)  
+
+Thu, Nov 26th 10:23am EST  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Kyren Williams rushed 12 times for 46 yards and one touchdown while also catching four of his five targets for 19 yards in the Rams' 26-13 Week 12 win over the Packers.
+**_Fantasy Impact:_** Williams maximized his role while being out-touched 34-16 by Blake Corum Wednesday night, reaching the end zone for at least once for the fifth time in his last eight games. The running back faces a stiff test in Week 13 against the Kansas City Chiefs.
+Category: [Game Recaps](https://www.fantasypros.com/nfl/game-recaps.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Konata Mumpfield](https://images.fantasypros.com/images/players/nfl/27449/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/konata-mumpfield.php)
+WR - LAR
+[» Rankings](https://www.fantasypros.com/nfl/players/konata-mumpfield.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/konata-mumpfield.php)  
+[» More News](https://www.fantasypros.com/nfl/news/konata-mumpfield.php)
+[Konata Mumpfield leads pass-catchers in Week 12 win over Packers](https://www.fantasypros.com/nfl/news/622695/konata-mumpfield-leads-pass-catchers-week-12-win-over-packers.php)  
+
+Thu, Nov 26th 10:19am EST  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Konata Mumpfield hauled in four of his team-leading five targets for 69 yards in the Rams' 26-13 Week 12 win over the Packers.
+**_Fantasy Impact:_** Mumpfield has taken advantage of a larger pass-catching role of late, logging over 60 receiving yards in each of his last two games. The wideout could be pushed back to a WR2 role with the potential return of Davante Adams entering a Week 13 matchup against the Kansas City Chiefs.
+Category: [Game Recaps](https://www.fantasypros.com/nfl/game-recaps.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Tyler Higbee](https://images.fantasypros.com/images/players/nfl/15623/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/tyler-higbee.php)
+TE - LAR
+[» Rankings](https://www.fantasypros.com/nfl/players/tyler-higbee.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/tyler-higbee.php)  
+[» More News](https://www.fantasypros.com/nfl/news/tyler-higbee.php)
+[Tyler Higbee (chest) quiet before exiting in Week 12](https://www.fantasypros.com/nfl/news/622694/tyler-higbee-chest-quiet-before-exiting-week-12.php)  
+
+Thu, Nov 26th 10:15am EST  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Tyler Higbee caught one of his three targets for 14 yards in the Rams' 26-13 Week 12 win over the Packers.
+**_Fantasy Impact:_** Higbee has made minimal impact on offense of late, recording under 60 receiving yards in each of his last seven games. The tight end's status will need to be monitored after exiting the win with a chest injury, with a Week 13 matchup against the Kansas City Chiefs up next.
+Category: [Game Recaps](https://www.fantasypros.com/nfl/game-recaps.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Colby Parkinson](https://images.fantasypros.com/images/players/nfl/19372/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/colby-parkinson.php)
+TE - LAR
+[» Rankings](https://www.fantasypros.com/nfl/players/colby-parkinson.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/colby-parkinson.php)  
+[» More News](https://www.fantasypros.com/nfl/news/colby-parkinson.php)
+[Colby Parkinson quiet in Week 12](https://www.fantasypros.com/nfl/news/622693/colby-parkinson-quiet-week-12.php)  
+
+Thu, Nov 26th 10:08am EST  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Colby Parkinson caught both of his targets for a loss of one yard in the Rams' 26-13 win over the Packers in Week 12.
+**_Fantasy Impact:_** Parkinson has underwhelmed in the Los Angeles offense of late, finishing with under 40 receiving yards in eight of nine contests. The tight end could be in line for increased snaps heading into a Week 13 contest against the Kansas City Chiefs after both Tyler Higbee and Davis Allen suffered injuries in the Week 12 win.
+Category: [Game Recaps](https://www.fantasypros.com/nfl/game-recaps.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Davis Allen](https://images.fantasypros.com/images/players/nfl/23761/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/davis-allen.php)
+TE - LAR
+[» Rankings](https://www.fantasypros.com/nfl/players/davis-allen.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/davis-allen.php)  
+[» More News](https://www.fantasypros.com/nfl/news/davis-allen.php)
+[Davis Allen catches two passes in Week 12](https://www.fantasypros.com/nfl/news/622692/davis-allen-catches-two-passes-week-12.php)  
+
+Thu, Nov 26th 10:02am EST  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Davis Allen caught both of his targets for 14 yards in the Rams' 26-13 win over the Packers in Week 12.
+**_Fantasy Impact:_** Allen has underwhelmed on offense of late, finishing with under 25 receiving yards in each of his 11 games. The tight end can remain off rosters in all formats ahead of a Week 13 contest against the Kansas City Chiefs.
+Category: [Game Recaps](https://www.fantasypros.com/nfl/game-recaps.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Xavier Smith](https://images.fantasypros.com/images/players/nfl/25627/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/xavier-smith.php)
+WR - LAR
+[» Rankings](https://www.fantasypros.com/nfl/players/xavier-smith.php)  
+[» Stats](https://www.fantasypros.com/nfl/stats/xavier-smith.php)  
+[» More News](https://www.fantasypros.com/nfl/news/xavier-smith.php)
+[Xavier Smith sees three touches in Week 12](https://www.fantasypros.com/nfl/news/622691/xavier-smith-sees-three-touches-week-12.php)  
+
+Thu, Nov 26th 9:57am EST  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Xavier Smith caught his only target for four yards while also rushing twice for 11 yards in the Rams' 26-13 win over the Packers in Week 12.
+**_Fantasy Impact:_** Smith has struggled to make an impact in limited action of late, logging one reception or less in three of his last four contests. The wideout can remain off rosters in all formats ahead of a Week 13 contest against the Kansas City Chiefs.
+Category: [Game Recaps](https://www.fantasypros.com/nfl/game-recaps.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
 [LAR](https://www.fantasypros.com/nfl/players/los-angeles-rams-defense.php)
 DST - LAR
 [» Rankings](https://www.fantasypros.com/nfl/players/los-angeles-rams-defense.php)  
@@ -175,123 +287,11 @@ J. Michael Sturdivant failed to catch his only target in the Packers' 26-13 loss
 Category: [Game Recaps](https://www.fantasypros.com/nfl/game-recaps.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *
-[GB](https://www.fantasypros.com/nfl/players/green-bay-defense.php)
-DST - GB
-[» Rankings](https://www.fantasypros.com/nfl/players/green-bay-defense.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/green-bay-defense.php)  
-[» More News](https://www.fantasypros.com/nfl/news/green-bay-defense.php)
-[Packers D/ST disappoints in Week 12](https://www.fantasypros.com/nfl/news/622678/packers-dst-disappoints-week-12.php)  
-
-Thu, Nov 26th 8:49am EST  
-By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
-The Packers D/ST recorded one turnover (one interception) while also registering one sack in a 26-13 loss to the Rams in Week 12.
-**_Fantasy Impact:_** The defense was victimized by a physical Rams ground attack, allowing 241 rushing yards in the loss. The unit will look to get back on track against an inconsistent New Orleans Saints offense in Week 13.
-Category: [Game Recaps](https://www.fantasypros.com/nfl/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Trey Smack](https://images.fantasypros.com/images/players/nfl/28507/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/trey-smack.php)
-K - GB
-[» Rankings](https://www.fantasypros.com/nfl/players/trey-smack.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/trey-smack.php)  
-[» More News](https://www.fantasypros.com/nfl/news/trey-smack.php)
-[Trey Smack racks up seven points in Week 12](https://www.fantasypros.com/nfl/news/622677/trey-smack-racks-up-seven-points-week-12.php)  
-
-Thu, Nov 26th 8:45am EST  
-By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
-Trey Smack converted both of his field goal attempts as well as his only extra point attempt in the Packers' 26-13 loss to the Rams in Week 12.
-**_Fantasy Impact:_** Smack has fallen victim to inconsistent offensive play of late, recording five points or less in three of his last six contests. The kicker will hope for a more prolific performance in Week 13 against the New Orleans Saints.
-Category: [Game Recaps](https://www.fantasypros.com/nfl/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Leonard Williams](https://images.fantasypros.com/images/players/nfl/13892/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/leonard-williams.php)
-DT - SEA
-[» Rankings](https://www.fantasypros.com/nfl/players/leonard-williams.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/leonard-williams.php)  
-[» More News](https://www.fantasypros.com/nfl/news/leonard-williams.php)
-[Leonard Williams (stinger) limited in practice Wednesday ](https://www.fantasypros.com/nfl/news/622654/leonard-williams-stinger-limited-practice-wednesday.php)  
-
-Wed, Nov 25th 11:58pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Leonard Williams was limited in practice on Wednesday. (Source: [Brian Nemhauser on Twitter](https://x.com/hawkblogger/status/2125734381352595480))
-**_Fantasy Impact:_** Williams is on track to have a chance to return for Sunday's game against the 49ers. 
-Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Jaxon Smith-Njigba](https://images.fantasypros.com/images/players/nfl/23070/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/jaxon-smith-njigba.php)
-WR - SEA
-[» Rankings](https://www.fantasypros.com/nfl/players/jaxon-smith-njigba.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/jaxon-smith-njigba.php)  
-[» More News](https://www.fantasypros.com/nfl/news/jaxon-smith-njigba.php)
-[Jaxon Smith-Njigba (ankle) limited in practice Wednesday ](https://www.fantasypros.com/nfl/news/622653/jaxon-smith-njigba-ankle-limited-practice-wednesday.php)  
-
-Wed, Nov 25th 11:57pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Jaxon Smith-Njigba was limited in practice on Wednesday. (Source: [Brian Nemhauser on Twitter](https://x.com/hawkblogger/status/2125734381352595480))
-**_Fantasy Impact:_** Smith-Njigba is managing an ankle issue. He'll need to be monitored in practice the rest of the week. 
-Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Sam Darnold](https://images.fantasypros.com/images/players/nfl/17236/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/sam-darnold.php)
-QB - SEA
-[» Rankings](https://www.fantasypros.com/nfl/players/sam-darnold.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/sam-darnold.php)  
-[» More News](https://www.fantasypros.com/nfl/news/sam-darnold.php)
-[Sam Darnold (quad) logs full practice Wednesday ](https://www.fantasypros.com/nfl/news/622652/sam-darnold-quad-logs-full-practice-wednesday.php)  
-
-Wed, Nov 25th 11:56pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Sam Darnold was a full participant in practice on Wednesday. (Source: [Brian Nemhauser on Twitter](https://x.com/hawkblogger/status/2125734381352595480))
-**_Fantasy Impact:_** Darnold remains on track to return behind center for Sunday's game against the 49ers. 
-Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Charles Cross](https://images.fantasypros.com/images/players/nfl/23482/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/charles-cross.php)
-OT - SEA
-[» Rankings](https://www.fantasypros.com/nfl/players/charles-cross.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/charles-cross.php)  
-[» More News](https://www.fantasypros.com/nfl/news/charles-cross.php)
-[Charles Cross (ankle) limited in practice Wednesday ](https://www.fantasypros.com/nfl/news/622651/charles-cross-ankle-limited-practice-wednesday.php)  
-
-Wed, Nov 25th 11:55pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Charles Cross was limited in practice on Wednesday. (Source: [Brian Nemhauser on Twitter](https://x.com/hawkblogger/status/2125734381352595480))
-**_Fantasy Impact:_** Cross remains on track to have a chance to return for Sunday's game against the 49ers. 
-Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Anthony Bradford](https://images.fantasypros.com/images/players/nfl/25574/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/anthony-bradford.php)
-IOL - SEA
-[» Rankings](https://www.fantasypros.com/nfl/players/anthony-bradford.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/anthony-bradford.php)  
-[» More News](https://www.fantasypros.com/nfl/news/anthony-bradford.php)
-[Anthony Bradford (knee/illness) limited in practice Wednesday ](https://www.fantasypros.com/nfl/news/622650/anthony-bradford-kneeillness-limited-practice-wednesday.php)  
-
-Wed, Nov 25th 11:54pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Anthony Bradford was limited in practice on Wednesday. (Source: [Brian Nemhauser on Twitter](https://x.com/hawkblogger/status/2125734381352595480))
-**_Fantasy Impact:_** Bradford is managing a knee injury and illness. He'll need to be monitored in practice the rest of the week. 
-Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Tyler Higbee](https://images.fantasypros.com/images/players/nfl/15623/headshot/100x100.png)](https://www.fantasypros.com/nfl/players/tyler-higbee.php)
-TE - LAR
-[» Rankings](https://www.fantasypros.com/nfl/players/tyler-higbee.php)  
-[» Stats](https://www.fantasypros.com/nfl/stats/tyler-higbee.php)  
-[» More News](https://www.fantasypros.com/nfl/news/tyler-higbee.php)
-[Tyler Higbee suffers chest injury](https://www.fantasypros.com/nfl/news/622649/tyler-higbee-suffers-chest-injury.php)  
-
-Wed, Nov 25th 11:52pm EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Tyler Higbee left Wednesday's game against the Packers and did not return with a chest injury. (Source: [Adam Schefter on Twitter](https://x.com/adamschefter/status/2125798292478886201?a=ds1jF10JT16CJvpHGts&s=46))
-**_Fantasy Impact:_** Higbee will have a mini bye week to get fully healthy heading into Week 13. 
-Category: [Injury Updates](https://www.fantasypros.com/nfl/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
   * [Next »](https://www.fantasypros.com/nfl/player-news.php?page=2)
 
 
 Start here! New to FantasyPros? Sign up to get free, custom advice for your league!
-[![google logo](https://images.fantasypros.com/images/icons/social/google.png) Continue with Google](https://secure.fantasypros.com/accounts/google/login)[![apple logo](https://images.fantasypros.com/images/icons/social/apple.png) Continue with Apple](https://secure.fantasypros.com/accounts/apple/login)[![create logo](https://cdn.fantasypros.com/images/mainsite/reg-module-account-img.png) Create account](https://www.fantasypros.com/accounts/signup/?next=https://www.fantasypros.com/nfl/player-news.php)
+[![google logo](https://images.fantasypros.com/images/icons/social/google.png) Continue with Google](https://secure.fantasypros.com/accounts/google/login)[![apple logo](https://images.fantasypros.com/images/icons/social/apple.png) Continue with Apple](https://secure.fantasypros.com/accounts/apple/login)[![create logo](https://cdn.fantasypros.com/images/mainsite/reg-module-account-img.png) Create account](https://www.fantasypros.com/accounts/signup/)
 By registering or logging in, you agree to our [Terms of Use](https://www.fantasypros.com/about/legal/) and [Privacy Policy](https://www.fantasypros.com/about/privacy/)
 [![Polymarket](https://images.fantasypros.com/images/logos/polymarket_334_86.png)](https://secure.fantasypros.com/polymarket-offer/)[![Novig](https://images.fantasypros.com/images/logos/novig_black_320x86.png)](https://secure.fantasypros.com/novig-offer/)[![FanDuel Sportsbook](https://images.fantasypros.com/images/logos/fdsportsbook_252x72.png)](https://secure.fantasypros.com/fd-offer/)[![BetMGM](https://images.fantasypros.com/images/logos/betmgm-offer-logo_250x86.png)](https://secure.fantasypros.com/plans-free/?options=betmgm)
 [ Claim Offer ](https://secure.fantasypros.com/plans-free/?code=fpros_sidebar)
