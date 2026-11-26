@@ -1,4 +1,4 @@
-# NBABets transcripts | 2026-11-26 | updated 2026-11-26 16:14 ET
+# NBABets transcripts | 2026-11-26 | updated 2026-11-26 18:09 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # 0 files in NBABets/transcripts/2026-11-26:
 
@@ -16,5 +16,5 @@ NONE    channel CemirGamble: nothing new in the date window (or everything alrea
 NONE    channel NBAPicks: nothing new in the date window (or everything already saved)
 UPCOMING ActionNetwork TDWEk3oONtQ Top NBA Sides, Totals & Player Props for Friday! | Buckets P  (not aired yet - scheduled for 11/26/26 11:00PM)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
-UPCOMING SportsLine SuRajuQJWE4 Broncos vs Steelers Picks: Black Friday NFL Bets + NBA  + Co  (not aired yet - scheduled for 11/27/26 10:00AM)
+NONE    channel SportsLine: nothing new in the date window (or everything already saved)
 NONE    channel CirclesOff: nothing new in the date window (or everything already saved)
