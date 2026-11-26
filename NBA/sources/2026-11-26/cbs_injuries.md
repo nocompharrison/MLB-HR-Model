@@ -1,6 +1,6 @@
-<!-- source: https://www.cbssports.com/nba/injuries/ | fetched: 2026-11-26 11:05 ET -->
+<!-- source: https://www.cbssports.com/nba/injuries/ | fetched: 2026-11-26 16:07 ET -->
 
-Title: NBA Injury Report and Status 2026-27
+Title: NBA Injury Report and Status 2026-27 - CBS Sports
 
 URL Source: https://www.cbssports.com/nba/injuries/
 
@@ -637,9 +637,9 @@ Shows & Podcasts
 
 [See All](https://www.cbssports.com/podcasts/)
 
-[Settings](https://www.cbssports.com/settings/)[Log Out](https://www.cbssports.com/user/logout/?redirectUrl=%5BREDIRECT%5D?tid=327609)
+[Settings](https://www.cbssports.com/settings/)[Log Out](https://www.cbssports.com/user/logout/?redirectUrl=%5BREDIRECT%5D?tid=626361)
 
-[Log In](https://www.cbssports.com/user/login/?redirectUrl=%5BREDIRECT%5D)[Sign Up](https://www.cbssports.com/registration/?end=%5BREDIRECT%5D?tid=327609&login=confirmed)
+[Log In](https://www.cbssports.com/user/login/?redirectUrl=%5BREDIRECT%5D)[Sign Up](https://www.cbssports.com/registration/?end=%5BREDIRECT%5D?tid=626361&login=confirmed)
 
 Fantasy & Games
 
@@ -785,9 +785,9 @@ If not listed, please contact your TV provider.
 
 | Player | Position | Updated | Injury | Injury Status |
 | --- | --- | --- | --- | --- |
-| [A. Nesmith](https://www.cbssports.com/nba/players/3041270/aaron-nesmith/)[Aaron Nesmith](https://www.cbssports.com/nba/players/3041270/aaron-nesmith/) | SF | Mon, Nov 23 | Foot | Game Time Decision |
 | [L. Nance Jr.](https://www.cbssports.com/nba/players/1905367/larry-nance-jr/)[Larry Nance Jr.](https://www.cbssports.com/nba/players/1905367/larry-nance-jr/) | PF | Mon, Nov 23 | Ankle | Game Time Decision |
 | [T. McConnell](https://www.cbssports.com/nba/players/2198705/tj-mcconnell/)[T.J. McConnell](https://www.cbssports.com/nba/players/2198705/tj-mcconnell/) | PG | Mon, Nov 23 | Hamstring | Game Time Decision |
+| [A. Nesmith](https://www.cbssports.com/nba/players/3041270/aaron-nesmith/)[Aaron Nesmith](https://www.cbssports.com/nba/players/3041270/aaron-nesmith/) | SF | Mon, Nov 23 | Foot | Game Time Decision |
 | [T. Haliburton](https://www.cbssports.com/nba/players/3041074/tyrese-haliburton/)[Tyrese Haliburton](https://www.cbssports.com/nba/players/3041074/tyrese-haliburton/) | PG | Fri, Nov 20 | Hamstring | Expected to be out until at least Dec 13 |
 | [B. Sheppard](https://www.cbssports.com/nba/players/3141908/ben-sheppard/)[Ben Sheppard](https://www.cbssports.com/nba/players/3141908/ben-sheppard/) | SG | Wed, Oct 28 | Knee | Expected to be out until at least Jan 2 |
 
@@ -849,9 +849,9 @@ If not listed, please contact your TV provider.
 
 | Player | Position | Updated | Injury | Injury Status |
 | --- | --- | --- | --- | --- |
+| [O. Anunoby](https://www.cbssports.com/nba/players/2844732/og-anunoby/)[OG Anunoby](https://www.cbssports.com/nba/players/2844732/og-anunoby/) | PF | Thu, Nov 26 | Calf | Game Time Decision |
 | [M. McBride](https://www.cbssports.com/nba/players/3141929/miles-mcbride/)[Miles McBride](https://www.cbssports.com/nba/players/3141929/miles-mcbride/) | SG | Thu, Nov 26 | Groin | Game Time Decision |
 | [J. Clarkson](https://www.cbssports.com/nba/players/2135523/jordan-clarkson/)[Jordan Clarkson](https://www.cbssports.com/nba/players/2135523/jordan-clarkson/) | PG | Thu, Nov 26 | Foot | Game Time Decision |
-| [O. Anunoby](https://www.cbssports.com/nba/players/2844732/og-anunoby/)[OG Anunoby](https://www.cbssports.com/nba/players/2844732/og-anunoby/) | PF | Thu, Nov 26 | Calf | Game Time Decision |
 | [A. Drummond](https://www.cbssports.com/nba/players/1992788/andre-drummond/)[Andre Drummond](https://www.cbssports.com/nba/players/1992788/andre-drummond/) | C | Wed, Nov 25 | Head | Game Time Decision |
 
 #### [![Image 216: team logo](https://sports.cbsimg.net/fly/images/team-logos/1628527.svg)](https://www.cbssports.com/nba/teams/OKC/oklahoma-city-thunder/)
@@ -874,6 +874,7 @@ If not listed, please contact your TV provider.
 
 | Player | Position | Updated | Injury | Injury Status |
 | --- | --- | --- | --- | --- |
+| [C. Castleton](https://www.cbssports.com/nba/players/3041751/colin-castleton/)[Colin Castleton](https://www.cbssports.com/nba/players/3041751/colin-castleton/) | C | Thu, Nov 26 | Calf | Game Time Decision |
 | [J. Isaac](https://www.cbssports.com/nba/players/2844715/jonathan-isaac/)[Jonathan Isaac](https://www.cbssports.com/nba/players/2844715/jonathan-isaac/) | PF | Mon, Nov 23 | Knee | Expected to be out until at least Nov 29 |
 | [N. Penda](https://www.cbssports.com/nba/players/29666168/noah-penda/)[Noah Penda](https://www.cbssports.com/nba/players/29666168/noah-penda/) | SF | Sat, Nov 21 | Hamstring | Expected to be out until at least Nov 29 |
 | [I. Nelson](https://www.cbssports.com/nba/players/28953260/izaiyah-nelson/)[Izaiyah Nelson](https://www.cbssports.com/nba/players/28953260/izaiyah-nelson/) | PF | Thu, Nov 19 | Ankle | Expected to be out until at least Nov 29 |

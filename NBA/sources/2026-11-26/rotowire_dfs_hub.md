@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-26 11:05 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-26 16:07 ET -->
 
 # NBA DFS Picks Today
 November 25, 2026
@@ -23,36 +23,37 @@ Stay on top of the most important news impacting today's slate with our live new
 Thursday, November 26 - Latest RotoWire player news for tonight's games
 All newsTop stories
 All NBA news
-BKN
-**[Ben Saraf](https://www.rotowire.com/basketball/player/ben-saraf-6563)** _G_ 10:47 AM ET
-#### Recalled to NBA
-Brooklyn recalled Saraf from the G League's Long Island Nets on Thursday.
+BOS
+**[Mitchell Robinson](https://www.rotowire.com/basketball/player/mitchell-robinson-4426)** _C_ Q _Top_ 2:00 PM ET
+#### Questionable for Friday
+Robinson (illness) is questionable for Friday's game against the Hawks.
 Analysis
-Saraf has recently served exclusively as a G League asset, leading Long Island with an average of 9.0 assists per game this season. While he could eventually return to the affiliate team, Saraf is now eligible for Brooklyn and will look to make his first NBA appearance since Oct. 25, although his opportunities might remain limited in the short term.
-NOP
-**[AJ Johnson](https://www.rotowire.com/basketball/player/aj-johnson-6294)** _G_ 10:39 AM ET
-#### Back with Pelicans
-New Orleans recalled Johnson from the G League's Laketown Squadron on Thursday.
+Robinson has missed Boston's previous three games due to an illness, and it appears he's in danger of missing a fourth consecutive outing Friday. Neemias Queta will continue to start in Robinson's place if he remains sidelined, while Luka Garza and Chris Cenac get more minutes off the bench.
+HOU
+**[Jabari Smith](https://www.rotowire.com/basketball/player/jabari-smith-5643)** _F_ 1:21 PM ET
+#### Adds defensive production in win
+Smith recorded 13 points (4-9 FG, 2-4 3Pt, 3-5 FT), four rebounds, one assist, two blocks and one steal over 32 minutes during Wednesday's 116-104 win over the Suns.
 Analysis
-Johnson could play for the NBA squad again after being active in a pair of G League games against the Osceola Magic. Over those two appearances, he averaged 18.5 points, 3.5 rebounds and 4.0 assists per contest. However, his impact is likely to be more limited at the NBA level, where he has yet to record more than two points in a game while logging fewer than 10 minutes in six of his seven outings in 2026-27.
-DET
-**[Jalen Duren](https://www.rotowire.com/basketball/player/jalen-duren-5703)** _C_ OUT10:31 AM ET
-#### Returns to NBA team
-Detroit recalled Duren (hamstring) from the G League's Motor City Cruise on Wednesday.
+Smith has averaged 15.2 points and 5.6 rebounds over his last five appearances while shooting 52.0 percent from the field. His steady minutes and ability to contribute three-pointers and defensive stats support his value in standard fantasy formats.
+HOU
+**[Alperen Sengun](https://www.rotowire.com/basketball/player/alperen-sengun-5404)** _C_ 1:20 PM ET
+#### Posts third triple-double of season in win
+Sengun racked up 23 points (9-17 FG, 3-5 3Pt, 2-6 FT), 11 rebounds and 11 assists across 32 minutes during Wednesday's 116-104 win over Phoenix.
 Analysis
-Duren has been dealing with a hamstring strain since October, and his return is not yet expected in immediate contests. The fact that he has practiced with the G League club is still a good sign as he makes progress in his recovery. Duren would be a reliable source of production once he's healthy, but until then, John Collins and Paul Reed may continue to absorb his responsibilities at center.
-DET
-**[Tolu Smith](https://www.rotowire.com/basketball/player/tolu-smith-6354)** _C_ 10:21 AM ET
-#### Recalled by Pistons
-Detroit recalled Smith from the G League's Motor City Cruise on Wednesday.
+Sengun has recorded two triple-doubles in his last three appearances, reinforcing his elite fantasy upside as Houston's offensive hub. His playmaking responsibilities and consistent involvement in the paint provide multiple avenues to production, even alongside Kevin Durant.
+HOU
+**[Amen Thompson](https://www.rotowire.com/basketball/player/amen-thompson-5931)** _G_ 1:19 PM ET
+#### Doubles-doubles in win over Suns
+Thompson posted 18 points (7-14 FG, 4-9 FT), 10 rebounds, four assists and two blocks across 36 minutes during Wednesday's 116-104 win over Phoenix.
 Analysis
-Smith was sent on assignment to the Cruise but made a quick return to the NBA side after Wednesday's practice. The center is currently a depth player behind John Collins and Paul Reed, so even if he's available for Detroit, significant playing time is not guaranteed. Over the last nine NBA contests, Smith has made just two appearances, posting six points in that period.
-DET
-**[Chaz Lanier](https://www.rotowire.com/basketball/player/chaz-lanier-6568)** _G_ 10:12 AM ET
-#### Recalled from G League
-Detroit recalled Lanier from the G League's Motor City Cruise on Wednesday.
+Thompson's activity on the offensive glass and defensive versatility continue to bolster his fantasy value. His lack of perimeter shooting and inconsistent free-throw accuracy remain limitations, but his substantial workload supports a strong all-around ceiling.
+PHX
+**[Khaman Maluach](https://www.rotowire.com/basketball/player/khaman-maluach-6542)** _C_ 1:14 PM ET
+#### Perfect from field in loss
+Maluach contributed 12 points (4-4 FG, 4-6 FT), six rebounds, one block and one steal in 25 minutes during Wednesday's 116-104 loss to the Rockets.
 Analysis
-Lanier has moved back to the parent club after practicing with the G League squad Wednesday. He has seen action for both the Pistons and the Cruise this campaign, though his modest opportunities at the NBA level have prevented him from producing consistently, leaving him with averages of 3.4 points and 0.8 rebounds over 8.3 minutes per game. He's projected to serve as a bench option in upcoming contests.
+With Mark Williams sidelined, Maluach continues to see opportunities in Phoenix's center rotation. He's averaged 9.8 points, 5.0 rebounds and 20.0 minutes over his last four games, offering short-term value through efficient finishing and defensive upside.
+Show 5 more (42 remaining)
 Top = RotoWire's highest-priority updates. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details). Updates every 5 minutes.News: RotoWire
 ## **NBA Starting Lineups**
 Know who is expected to start, with salaries and projected points for Draftkings and Fanduel. Bookmark our [NBA starting lineups](https://www.rotowire.com/basketball/nba-lineups.php) page to turn on alerts and view the next day's lineups.

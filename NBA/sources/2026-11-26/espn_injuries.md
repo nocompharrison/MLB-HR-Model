@@ -1,4 +1,4 @@
-<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-26 11:05 ET -->
+<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-26 16:07 ET -->
 
 Title: NBA Injury Status - 2026-27 Season - ESPN
 
@@ -204,7 +204,7 @@ Sat
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
-| [Mitchell Robinson](https://www.espn.com/nba/player/_/id/4351852/mitchell-robinson) | C | Nov 27 | Out | Nov 23: Robinson (illness) is out for Tuesday's game against Washington, Taylor Snow of the Celtics' official site reports. |
+| [Mitchell Robinson](https://www.espn.com/nba/player/_/id/4351852/mitchell-robinson) | C | Nov 27 | Out | Nov 26: Robinson (illness) is questionable for Friday's game against the Hawks. |
 
 ![Image 33: Brooklyn Nets](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/bkn.png&h=40&w=40)Brooklyn Nets
 
@@ -342,6 +342,7 @@ Sat
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
+| [Colin Castleton](https://www.espn.com/nba/player/_/id/4397204/colin-castleton) | C | Nov 27 | Day-To-Day | Nov 26: Castleton totaled five points (2-4 FG, 1-1 3Pt) and four rebounds in seven minutes during Tuesday's 132-116 preseason win over the Cavaliers. |
 | [Jonathan Isaac](https://www.espn.com/nba/player/_/id/4065654/jonathan-isaac) | F | Nov 29 | Out | Nov 21: Isaac (knee) is out for Sunday's game against the Wizards. |
 | [Izaiyah Nelson](https://www.espn.com/nba/player/_/id/5107251/izaiyah-nelson) | F | Nov 29 | Out | Nov 18: Head coach Sean Sweeney said Wednesday that Nelson (ankle) has been doing "some on-court stuff," though Sweeney added that the work has been "minimal," Jason Beede of the Orlando Sentinel reports. |
 | [Noah Penda](https://www.espn.com/nba/player/_/id/5214637/noah-penda) | F | Nov 29 | Out | Nov 14: Penda (hamstring) is making progress but remains without a timetable to return to game action, Jason Beede of the Orlando Sentinel reports. |
@@ -417,49 +418,25 @@ Data Provided by Rotowire
 
 Sponsored Headlines
 
+[](https://searchit4me.com/search)[Search For Central Air Conditioning Installation Searchit4me | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://searchit4me.com/search "Search For Central Air Conditioning Installation")
+
 [](https://www.nerdwallet.com/insurance/tests/money-tight-savings-roundup)[Little-Known Secrets To Living On a Tight Budget NerdWallet | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://www.nerdwallet.com/insurance/tests/money-tight-savings-roundup "Little-Known Secrets To Living On a Tight Budget")
 
-Undo
+[](https://www.ariat.com/al/brock-purdy-and-josh-hoover-get-tailgate-ready)[Brock Purdy & Josh Hoover Bring a New Look to Game Day Ariat | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Read More](https://www.ariat.com/al/brock-purdy-and-josh-hoover-get-tailgate-ready "Brock Purdy & Josh Hoover Bring a New Look to Game Day")
 
-[](https://getresparked.com/54db68e5-2217-45bd-a8d0-b1c5f5b59ea6)[The #1 Gift I Ever Gave My Best Friend (You Won't Find It in Walmart)Resparked | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://getresparked.com/54db68e5-2217-45bd-a8d0-b1c5f5b59ea6 "The #1 Gift I Ever Gave My Best Friend (You Won't Find It in Walmart)")
+[](https://related.trendingresults.net/topics/4331003/6738895)[New Small SUV for Elderly Leaves Others Behind - Take a Look!TrendingResults.net | Small SUVs | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://related.trendingresults.net/topics/4331003/6738895 "New Small SUV for Elderly Leaves Others Behind - Take a Look!")
 
-Undo
+[](https://getresparked.com/54db68e5-2217-45bd-a8d0-b1c5f5b59ea6)[Black Friday: The #1 Gift I Gave My Best Friend (She Loved it)Resparked | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://getresparked.com/54db68e5-2217-45bd-a8d0-b1c5f5b59ea6 "Black Friday: The #1 Gift I Gave My Best Friend (She Loved it)")
 
-[](https://getresparked.com/54db68e5-2217-45bd-a8d0-b1c5f5b59ea6)[Black Friday: The #1 Gift I Gave My Best Friend (She Loved it)Resparked | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://getresparked.com/54db68e5-2217-45bd-a8d0-b1c5f5b59ea6 "Black Friday: The #1 Gift I Gave My Best Friend (She Loved it)")
-
-Undo
-
-[](https://www.espn.com/nba/injuries)[Propane Mowers Are a Cut Above Propane mowers reduce fuel costs, refueling downtime, and emissions. Put propane to work on your routes with a complimentary 10-day equipment trial.Propane Edu & Research Council | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://www.espn.com/nba/injuries "Propane Mowers Are a Cut Above")
-
-Undo
-
-[](https://www.goodrx.com/awiqli)[Insulin for Type 2 Diabetes GoodRx is NOT insurance GoodRx | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://www.goodrx.com/awiqli "Insulin for Type 2 Diabetes")
-
-Undo
-
-[](https://healthylife-mag.com/nv-pv-tb-letter-v3)[Up 3 Times a Night for the Bathroom? Read This Two things keep calling you back before morning. Most men only work on one.WithinMag | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://healthylife-mag.com/nv-pv-tb-letter-v3 "Up 3 Times a Night for the Bathroom? Read This")
-
-Undo
-
-[](https://www.ethos.com/life/easy-term-life)[Over 50? You May Be Surprised How Low Life Insurance Rates Are A newer online application process has lowered costs for many people in their 50s and 60s. Takes about 10 minutes to check your rate.Ethos Life Insurance | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)](https://www.ethos.com/life/easy-term-life "Over 50? You May Be Surprised How Low Life Insurance Rates Are")
-
-Undo
-
-[](https://toploanstoday.com/go/6acf79a3717188b8660cd4c0)[Don't Get a Heloc, Do This Instead Tap Into Your Equity (Won't Affect Your Mortgage Rate)Top Loans Today | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://toploanstoday.com/go/6acf79a3717188b8660cd4c0 "Don't Get a Heloc, Do This Instead")
-
-Undo
-
-[](https://www.espn.com/nba/injuries)[Get Paid to Build with Better Energy Building homes with efficient propane systems helps buyers save on energy costs. Qualified builders can earn up to $1,000 per home by sharing data.Propane Edu & Research Council | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://www.espn.com/nba/injuries "Get Paid to Build with Better Energy")
-
-Undo
+[](https://getresparked.com/54db68e5-2217-45bd-a8d0-b1c5f5b59ea6)[Walmart Shoppers Are Getting This Gift Before Black Friday Resparked | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://getresparked.com/54db68e5-2217-45bd-a8d0-b1c5f5b59ea6 "Walmart Shoppers Are Getting This Gift Before Black Friday")
 
 ### NBA News
 
-[![Image 57: Clippers host Pelicans Friday for NBA Cup group stage game](https://s.espncdn.com/stitcher/sports/basketball/nba/events/401909335.png?templateId=espn.all.awayhome.1x1.1) ## Clippers host Pelicans Friday for NBA Cup group stage game New Orleans Pelicans (5-14, 12th in the Western Conference) vs. Los Angeles Clippers (4-13, 13th in the Western Conference) * 9h](https://www.espn.com/nba/preview/_/gameId/401909335)
+[![Image 57: Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows](https://a.espncdn.com/combiner/i?img=/photo/2026/1124/espn_tv_5x2.jpg&w=220) ## Friday Night Lights,' 'Ted Lasso' top poll ranking 21st-century sports shows A Seton Hall poll crowns America's favorite modern fictional sports TV series. * 5h * Brianna Williams](https://www.espn.com/espn/story/_/id/50576889/top-fictional-sports-series-21st-century)
 
-[![Image 58: Nuggets visit Jazz Friday in NBA Cup group stage](https://s.espncdn.com/stitcher/sports/basketball/nba/events/401909334.png?templateId=espn.all.awayhome.1x1.1) ## Nuggets visit Jazz Friday in NBA Cup group stage Denver Nuggets (10-6, seventh in the Western Conference) vs. Utah Jazz (3-16, 14th in the Western Conference) * 9h](https://www.espn.com/nba/preview/_/gameId/401909334)
+[![Image 58: Clippers host Pelicans Friday for NBA Cup group stage game](https://s.espncdn.com/stitcher/sports/basketball/nba/events/401909335.png?templateId=espn.all.awayhome.1x1.1) ## Clippers host Pelicans Friday for NBA Cup group stage game New Orleans Pelicans (5-14, 12th in the Western Conference) vs. Los Angeles Clippers (4-13, 13th in the Western Conference) * 14h](https://www.espn.com/nba/preview/_/gameId/401909335)
 
-[![Image 59: 76ers visit Pacers Friday in NBA Cup group stage](https://s.espncdn.com/stitcher/sports/basketball/nba/events/401909328.png?templateId=espn.all.awayhome.1x1.1) ## 76ers visit Pacers Friday in NBA Cup group stage Philadelphia 76ers (15-4, first in the Eastern Conference) vs. Indiana Pacers (6-12, 12th in the Eastern Conference) * 9h](https://www.espn.com/nba/preview/_/gameId/401909328)
+[![Image 59: Nuggets visit Jazz Friday in NBA Cup group stage](https://s.espncdn.com/stitcher/sports/basketball/nba/events/401909334.png?templateId=espn.all.awayhome.1x1.1) ## Nuggets visit Jazz Friday in NBA Cup group stage Denver Nuggets (10-6, seventh in the Western Conference) vs. Utah Jazz (3-16, 14th in the Western Conference) * 14h](https://www.espn.com/nba/preview/_/gameId/401909334)
 
 [All NBA News](https://www.espn.com/nba/)
 
@@ -467,37 +444,7 @@ Sponsored Headlines
 
 [](https://www.espn.com/nba/injuries)[Get the 2026 NFL Schedule Your game plan. See the schedule, and lock in.Paramount+ | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn more](https://www.espn.com/nba/injuries "Get the 2026 NFL Schedule")
 
-Undo
-
-[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)
-
-Get Tailgate Ready With Brock Purdy & Josh Hoover[](https://www.ariat.com/al/brock-purdy-and-josh-hoover-get-tailgate-ready)
-
-Read More
-
-Undo
-
-Brock Purdy’s Game Day Guide Starts at the Tailgate[](https://www.ariat.com/al/brock-purdy-and-josh-hoover-get-tailgate-ready)
-
-Read More
-
-Undo
-
-How Two QBs Are Redefining Tailgate Season[](https://www.ariat.com/al/brock-purdy-and-josh-hoover-get-tailgate-ready)
-
-Read More
-
-Undo
-
-The Ultimate Game Day Look, According to Two QBs[](https://www.ariat.com/al/brock-purdy-and-josh-hoover-get-tailgate-ready)
-
-Read More
-
-Undo
-
-[](https://rhs.search.yahoo.com/rhs)[Search for brand protecion demo request Research brand protecion demo request on Yahoo. View top results now.Yahoo Search | Brand protection | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://rhs.search.yahoo.com/rhs "Search for brand protecion demo request")
-
-Undo
+[](https://www.homes.com/homes-for-sale/acreage)[View Homes for Sale with Acreage Homes.com | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://www.homes.com/homes-for-sale/acreage "View Homes for Sale with Acreage")
 
 ![Image 60: ESPN](https://a.espncdn.com/redesign/assets/img/logos/espn-404@2x.png)
 
