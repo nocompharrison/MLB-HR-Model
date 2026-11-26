@@ -1,15 +1,15 @@
-# NFL sources | season 2026 | week 11 | updated 2026-11-22 11:48 ET
+# NFL sources | season 2026 | week 12 | updated 2026-11-26 10:03 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # STATUS  PATH  DETAIL  SOURCE-URL
-OK      NFL/sources/week-11/primer_p1.md                     UPDATED (changed since 2026-11-22 09:34) 50,171 chars https://www.fantasypros.com/2026/11/the-primer-week-11-edition-2026-fantasy-football/
-OK      NFL/sources/week-11/primer_p2.md                     UPDATED (changed since 2026-11-22 09:34) 48,285 chars https://www.fantasypros.com/2026/11/the-primer-week-11-edition-2026-fantasy-football/2/
-OK      NFL/sources/week-11/primer_p3.md                     UPDATED (changed since 2026-11-22 09:34) 51,995 chars https://www.fantasypros.com/2026/11/the-primer-week-11-edition-2026-fantasy-football/3/
-OK      NFL/sources/week-11/primer_p4.md                     UPDATED (changed since 2026-11-22 09:34) 15,468 chars https://www.fantasypros.com/2026/11/the-primer-week-11-edition-2026-fantasy-football/4/
-SHORT   NFL/sources/week-11/fantasypros_grades.md            UPDATED (changed since 2026-11-22 09:34) 295 words of article text - not published, paywalled or blocked? https://www.fantasypros.com/2026/11/fantasy-football-week-11-player-grades-start-sit-advice-2026/
-OK      NFL/sources/week-11/fantasypoints_startsit.md        no changes since 2026-11-22 09:34  https://www.fantasypoints.com/nfl/articles/2026/week-11-fantasy-football-start-em-sit-em-advice
-OK      NFL/sources/week-11/rotoballer_startsit.md           UPDATED (changed since 2026-11-22 09:34) 141,120 chars https://www.rotoballer.com/fantasy-football-start-em-sit-em-for-week-11-2026
-FAILED  NFL/sources/week-11/fftoday.md                       HTTP 307                           https://www.fftoday.com/articles/ff/26-ff-wk11.html
-OK      NFL/sources/week-11/4for4_startsit.md                UPDATED (changed since 2026-11-22 09:34) 60,938 chars https://www.4for4.com/2026/w11/fantasy-football-week-11-start-em-sit-em-every-game-previewed-hoopes-there-it
-OK      NFL/sources/week-11/fantasypros_news.md              UPDATED (changed since 2026-11-22 09:34) 28,175 chars https://www.fantasypros.com/nfl/player-news.php
-OK      NFL/sources/week-11/4for4_oline.md                   UPDATED (changed since 2026-11-22 09:34) 30,257 chars https://www.4for4.com/2026/w11/nfl-offensive-line-rankings-week-11-matchups-exploit
-OK      NFL/sources/week-11/rotoballer_betting.md            UPDATED (changed since 2026-11-22 09:34) 333,039 chars [4 of 4 articles combined] https://www.rotoballer.com/category/sports-betting-picks
+OK      NFL/sources/week-12/primer_p1.md                     54,338 chars                       https://www.fantasypros.com/2026/11/the-primer-week-12-edition-2026-fantasy-football/
+OK      NFL/sources/week-12/primer_p2.md                     49,086 chars                       https://www.fantasypros.com/2026/11/the-primer-week-12-edition-2026-fantasy-football/2/
+OK      NFL/sources/week-12/primer_p3.md                     38,350 chars                       https://www.fantasypros.com/2026/11/the-primer-week-12-edition-2026-fantasy-football/3/
+OK      NFL/sources/week-12/primer_p4.md                     55,094 chars                       https://www.fantasypros.com/2026/11/the-primer-week-12-edition-2026-fantasy-football/4/
+FAILED  NFL/sources/week-12/fantasypros_grades.md            HTTP 404                           https://www.fantasypros.com/2026/11/fantasy-football-week-12-player-grades-start-sit-advice-2026/
+OK      NFL/sources/week-12/fantasypoints_startsit.md        67,104 chars                       https://www.fantasypoints.com/nfl/articles/2026/week-12-fantasy-football-start-em-sit-em-advice
+FAILED  NFL/sources/week-12/rotoballer_startsit.md           HTTP 404                           https://www.rotoballer.com/fantasy-football-start-em-sit-em-for-week-12-2026
+FAILED  NFL/sources/week-12/fftoday.md                       HTTP 307                           https://www.fftoday.com/articles/ff/26-ff-wk12.html
+OK      NFL/sources/week-12/4for4_startsit.md                72,653 chars                       https://www.4for4.com/2026/w12/fantasy-football-week-12-start-em-sit-em-every-game-previewed-hoopes-there-it
+OK      NFL/sources/week-12/fantasypros_news.md              29,093 chars                       https://www.fantasypros.com/nfl/player-news.php
+OK      NFL/sources/week-12/4for4_oline.md                   32,454 chars                       https://www.4for4.com/2026/w12/nfl-offensive-line-rankings-week-12-matchups-exploit
+OK      NFL/sources/week-12/rotoballer_betting.md            331,011 chars [4 of 4 articles combined] https://www.rotoballer.com/category/sports-betting-picks
