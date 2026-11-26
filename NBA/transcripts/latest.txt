@@ -1,4 +1,4 @@
-# NBA transcripts | 2026-11-26 | updated 2026-11-26 18:05 ET
+# NBA transcripts | 2026-11-26 | updated 2026-11-26 18:35 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # 5 files in NBA/transcripts/2026-11-26:
 NBA/transcripts/2026-11-26/42_tSvMSv-k_PickDawgz_Best_NBA_Prop_Bets_today_11_26_26_Millz_Shop_the_Props_PickDawgz_Prop.txt
