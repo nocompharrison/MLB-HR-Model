@@ -1,45 +1,41 @@
-# CBB transcripts | 2026-11-25 | updated 2026-11-25 17:04 ET
+# CBB transcripts | 2026-11-26 | updated 2026-11-26 11:12 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 22 files in CBB/transcripts/2026-11-25:
-CBB/transcripts/2026-11-25/-421oY6tE_M_FieldOf68_EXCLUSIVE_Wes_Enis_on_Creighton_s_BIG_win_over_Michigan_All_aboard_the.txt
-CBB/transcripts/2026-11-25/-l4ARJ67Ml8_TCE_College_Basketball_PICKS_ONLY_Wednesday_November_25th_TCE_Trims.txt
-CBB/transcripts/2026-11-25/2ISkqx2i_rQ_PickDawgz_College_Basketball_Picks_for_Today_11_25_26_Wednesday_Best_College_Bas.txt
-CBB/transcripts/2026-11-25/4P2JX1N0sVw_CBSCollegeBB_Grand_Canyon_vs_Saint_Louis_College_Basketball_Highlights_Condensed_Ga.txt
-CBB/transcripts/2026-11-25/CAq28MX76B4_PickDawgz_College_Basketball_Picks_Predictions_Today_11_25_26_Ron_s_Bank_Shot_Br.txt
-CBB/transcripts/2026-11-25/Dag5ISLfjSY_FieldOf68_FEAST_WEEK_REACTION_Louisville_responds_BIG_upsets_Maui_title_preview.txt
-CBB/transcripts/2026-11-25/HDRaWJXiek8_FieldOf68_WCC_INSIDER_Pacific_s_Damarion_Vann_Kelly_and_Adriel_Nyorha_on_the_Tig.txt
-CBB/transcripts/2026-11-25/Izh-kzghYNM_FieldOf68_Here_s_why_Texas_Tech_will_be_JUST_FINE_Awaiting_JT_Toppin_s_return_A.txt
-CBB/transcripts/2026-11-25/Jna7cLPXXTk_CBSCollegeBB_Colorado_vs_Stanford_College_Basketball_Highlights_Condensed_Game.txt
-CBB/transcripts/2026-11-25/KDaR0lRojn0_FieldOf68_Creighton_and_TCU_get_HUGE_wins_at_Players_Era_These_are_two_TOURNEY_t.txt
-CBB/transcripts/2026-11-25/MRKa5eH8dJA_FieldOf68_REACTION_to_Baylor_s_BIG_win_over_Alabama_This_is_a_CLASSIC_Scott_Drew.txt
-CBB/transcripts/2026-11-25/PWWsLssdr4E_WagerTalk_College_Basketball_Picks_Today_Thanksgiving_Eve_Best_Bets_Feast_Week_F.txt
-CBB/transcripts/2026-11-25/U0knX7w-zXc_ActionNetwork_Midweek_MACtion_College_Basketball_BEST_BETS_Big_Bets_On_Campus_LIVE.txt
-CBB/transcripts/2026-11-25/XeTJtdCAiHs_FieldOf68_Michigan_s_tape_against_Creighton_was_UNACCEPTABLE_How_good_is_this_t.txt
-CBB/transcripts/2026-11-25/_umDjs3OgaM_TCE_College_Basketball_Best_Bets_For_November_25th_Spread_Moneyline_Bettin.txt
-CBB/transcripts/2026-11-25/dzAReJdXrjM_FieldOf68_EXCLUSIVE_Pat_Kelsey_on_Louisville_s_STATEMENT_win_over_Texas_Tech_AFT.txt
-CBB/transcripts/2026-11-25/ggZnkUnY_u4_FieldOf68_Louisville_RESPONDS_in_a_BIG_way_over_Texas_Tech_They_out_TOUGHED_Tech.txt
-CBB/transcripts/2026-11-25/jqlfxxOzJ4w_FieldOf68_PREVIEW_How_Ole_Miss_can_SHOCK_Arizona_in_the_Maui_title_game_AFTER_DA.txt
-CBB/transcripts/2026-11-25/sTxcpnlrG7s_CBSCollegeBB_Louisville_vs_St_John_s_on_Thanksgiving_Underdogs_go_WILD_Duke_UConn_A.txt
-CBB/transcripts/2026-11-25/tbDrkpZOrqA_TCE_College_Basketball_Picks_For_November_25th_NCAA_Basketball_Banter_Best.txt
-CBB/transcripts/2026-11-25/vzeHCsxb4ik_WagerTalk_WEDNESDAY_CBB_Picks_TODAY_UConn_vs_Duke_Wake_Forest_vs_Mississippi_Sta.txt
-CBB/transcripts/2026-11-25/z1DcdL5SGOA_FieldOf68_Is_DEPAUL_for_real_Is_PURDUE_cooked_Feast_Week_CHAOS_rolls_on_AFTER_DA.txt
-# also filed this run under the slate their titles name: CBB/transcripts/2026-11-24, CBB/transcripts/2026-11-26
+# 1 files in CBB/transcripts/2026-11-26:
+CBB/transcripts/2026-11-26/RTeV5880zZU_PickDawgz_NCAAB_Alternate_Line_Prediction_11_26_26_The_Extendo_Clip.txt
 
 # this run:
-NOCAPS  LockedOnCBB BQKm7bKtUSo WHAT HAPPENED?! Michigan Goes From Players Era DOMINANCE to   (no captions; Groq: live stream still processing - audio not final yet)
-DEFER   CBSCollegeBB VWebwqar0UE WATCH: 4-star CG Jalen Davis commits to Gonzaga | No. 13 Ove  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
-NEW     CBB/transcripts/2026-11-24/kDmIcKc9Z0U_CBSCollegeBB_Nevada_vs_Santa_Clara_College_Basketball_Highlights_Condensed_Game.txt  (1,873 words)
-NEW     CBB/transcripts/2026-11-24/npJrNUrj60I_CBSCollegeBB_Tulsa_vs_Illinois_State_College_Basketball_Highlights_Condensed_Game.txt  (1,355 words)
-NEW     CBB/transcripts/2026-11-24/qcmG2anI-C0_CBSCollegeBB_Oregon_State_vs_San_Francisco_College_Basketball_Highlights_Condensed.txt  (1,726 words)
-UPCOMING FieldOf68 x0oUUVUDA_A INSTANT REACTION TO UCONN-DUKE! Plus, the Maui Invitational   (not aired yet - scheduled for 11/25/26 9:15PM)
+DEFER   LockedOnCBB BA8lCX9h33Y DUKE REVENGE: Blue Devils Take Down UConn | Ole Miss Is LEGI  (YouTube rate limit - stopping transcript pulls this run)
+DEFER   LockedOnCBB BQKm7bKtUSo WHAT HAPPENED?! Michigan Goes From Players Era DOMINANCE to   (YouTube rate limit hit earlier this run)
+DEFER   CBSCollegeBB B1rwdQbMdkY No. 20 LSU vs. Arizona State College Basketball Highlights |  (per-channel cap of 3 reached - raise it in the channel list or it comes next run)
+DEFER   CBSCollegeBB Oje7UDQZ5EU Colorado vs. Grand Canyon College Basketball Highlights | Co  (YouTube rate limit hit earlier this run)
+DEFER   CBSCollegeBB sN1iIJg0Pv4 Utah State vs. SMU College Basketball Highlights | Condensed  (YouTube rate limit hit earlier this run)
+DEFER   CBSCollegeBB AOqj1IK5vp4 No. 18 USC vs. South Carolina College Basketball Highlights   (YouTube rate limit hit earlier this run)
+DEFER   FieldOf68 QZO99NzaWHM TOP DOGS: Losing Streak | What went wrong for UConn against   (YouTube rate limit hit earlier this run)
+DEFER   FieldOf68 x0oUUVUDA_A DUKE GETS A MUCH NEEDED WIN! Plus, concerns for UConn and Ar  (YouTube rate limit hit earlier this run)
+DEFER   FieldOf68 kn0VnGFN4co PREVIEW: Louisville and St. John's will be an EPIC battle be  (YouTube rate limit hit earlier this run)
+DEFER   FieldOf68 qJmOMVz-YTo EXCLUSIVE: Jon Scheyer breaks down Duke's HUGE win over UCon  (YouTube rate limit hit earlier this run)
+DEFER   FieldOf68 jRWP2U7Cwn8 'USC can be as scary as ANY team in the COUNTRY!' | Trojans   (YouTube rate limit hit earlier this run)
+DEFER   FieldOf68 ipESQ7pLUvk LSU REMAINS unbeaten! | 'Love him or hate him, Will Wade is   (YouTube rate limit hit earlier this run)
+DEFER   FieldOf68 fakDECbwRUM Virginia SURVIVES Marquette... and a leaky roof! | 'They can  (YouTube rate limit hit earlier this run)
+DEFER   FieldOf68 jlFL0Nqu0SU Arizona WINS the Maui Invitational! | 'This is a VERY legit   (YouTube rate limit hit earlier this run)
+DEFER   FieldOf68 XMESZn3XQoo 'Here's why Duke is BACK to being a title contender!' | Blue  (YouTube rate limit hit earlier this run)
+DEFER   FieldOf68 YZCgeS23t9k REACTION to UConn's loss against Duke | 'Their role players   (YouTube rate limit hit earlier this run)
+DEFER   FieldOf68 eq0uQRCg5SI Duke FINALLY gets the win they NEEDED over UConn! | 'THIS is  (YouTube rate limit hit earlier this run)
+DEFER   FieldOf68 FBIt_4vOqhQ EXCLUSIVE: Ivan Kharchenkov on Arizona's Maui title win over  (YouTube rate limit hit earlier this run)
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
-NONE    channel TCE: nothing new in the date window (or everything already saved)
+DEFER   TCE -jIRbIrlssA College Basketball Best Bets For November 26th - Spread & Mo  (YouTube rate limit hit earlier this run)
+DEFER   TCE Gt4NStb5ka8 College Basketball PICKS ONLY - Thursday, November 26th | TC  (YouTube rate limit hit earlier this run)
+DEFER   TCE VpS2nWND5Ro College Basketball Picks For November 26th - NCAA Basketball  (YouTube rate limit hit earlier this run)
 NONE    channel BBOC: nothing new in the date window (or everything already saved)
 NONE    channel SGPN: nothing new in the date window (or everything already saved)
 NONE    channel ActionNetwork: nothing new in the date window (or everything already saved)
-NONE    channel WagerTalk: nothing new in the date window (or everything already saved)
+DEFER   WagerTalk i5ax5tatSXQ College Basketball Picks Today: Thanksgiving Day Best Bets &  (YouTube rate limit hit earlier this run)
+DEFER   WagerTalk aBKxEa59CCQ College Basketball Picks Today: Thanksgiving Day Best Bets &  (YouTube rate limit hit earlier this run)
+DEFER   WagerTalk H2TB_ZeknPM College Basketball Picks Today: Thanksgiving Eve Best Bets &  (YouTube rate limit hit earlier this run)
 NONE    channel SportsLine: nothing new in the date window (or everything already saved)
-NEW     CBB/transcripts/2026-11-26/RTeV5880zZU_PickDawgz_NCAAB_Alternate_Line_Prediction_11_26_26_The_Extendo_Clip.txt  (1,191 words)
+DEFER   PickDawgz nlYUTM4h6WY College Basketball Picks for Today 11/26/26 - Thursday Best   (YouTube rate limit hit earlier this run)
+DEFER   PickDawgz b2VJnELwzug College Basketball Picks & Predictions Today 11/26/26 | Ron'  (YouTube rate limit hit earlier this run)
+DEFER   PickDawgz w8e9e5SGf5s CBB Picks and Predictions for Today 11/26/2026 | Dawg of the  (YouTube rate limit hit earlier this run)
 NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
 NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
