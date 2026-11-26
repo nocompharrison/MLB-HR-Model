@@ -1,4 +1,4 @@
-# NBA betting sources | Thu 11/26/2026 | updated 2026-11-26 18:37 ET
+# NBA betting sources | Thu 11/26/2026 | updated 2026-11-26 18:51 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # STATUS  PATH  DETAIL  SOURCE-URL
 FAILED  NBABets/sources/2026-11-26/covers_top_picks.md       HTTP 404                           https://www.covers.com/nba/top-picks-nov-26-2026
