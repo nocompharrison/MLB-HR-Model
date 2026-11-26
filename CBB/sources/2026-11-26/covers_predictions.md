@@ -1,4 +1,4 @@
-<!-- source: https://www.covers.com/picks/ncaab | fetched: 2026-11-26 11:12 ET -->
+<!-- source: https://www.covers.com/picks/ncaab | fetched: 2026-11-26 11:17 ET -->
 
 Filters 
 Reset
@@ -552,7 +552,7 @@ Analysis
 ![FanDuel logo](https://img.covers.com/betting/sportsbooks/818/fanduel_2.svg) **-4.5** -110 
 ![Fanatics Sportsbook logo](https://img.covers.com/betting/sportsbooks/142/fanatics.svg) **-4.5** -115 
 ![BetRivers logo](https://img.covers.com/betting/sportsbooks/836/betrivers.svg) **-4.5** -110 
-![Caesars Odds logo](https://img.covers.com/betting/sportsbooks/20/caesars.svg) **-4.5** -110 
+![Caesars Odds logo](https://img.covers.com/betting/sportsbooks/20/caesars.svg) **-3.5** -140 
 ![theScore Bet logo](https://img.covers.com/betting/sportsbooks/44/thescorebet.svg) **-4.5** -110 
 ![Hard Rock Bet logo](https://img.covers.com/betting/sportsbooks/696/hardrockbet.svg) **-4.5** -110 
 While, quite frankly, both of these teams have been underwhelming, the Purdue Boilermakers have the better offense and the better matchup. Purdue ranks 44th in adjusted offensive efficiency, while the Oklahoma Sooners' defense sits 194th.
@@ -613,12 +613,12 @@ Total
 ![Arkansas Razorbacks image thumbnail](https://img.covers.com/covers/data/svg_logos/ncaab/ark.svg) ![Michigan State Spartans image thumbnail](https://img.covers.com/covers/data/svg_logos/ncaab/msu.svg) o148.5 (-121) 
 Best Odds
 **o148.5** -115  ![DraftKings](https://img.covers.com/betting/sportsbooks/811/draft_kings_bg.svg)
-Pick made: 42 minutes ago 
+Pick made: an hour ago 
 ![Geoff Clark logo](https://img.covers.com/editorial/2026/geoff_clark.jpeg?auto=compress&auto=format&w=80&h=80)
 [Geoff Clark](https://www.covers.com/writers/geoff-clark)
 Betting Analyst
 Analysis 
-![BetMGM logo](https://img.covers.com/betting/sportsbooks/833/betmgm.svg) **o148.5** -118 
+![BetMGM logo](https://img.covers.com/betting/sportsbooks/833/betmgm.svg) **o149.5** -105 
 ![bet365 logo](https://img.covers.com/betting/sportsbooks/2/bet365.svg) **o149.5** -111 
 ![DraftKings logo](https://img.covers.com/betting/sportsbooks/811/draft_kings.png) **o148.5** -115 
 ![FanDuel logo](https://img.covers.com/betting/sportsbooks/818/fanduel_2.svg) **o149.5** -110 
