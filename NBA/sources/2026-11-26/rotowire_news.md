@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-26 18:05 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-26 18:34 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,38 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![MEM](https://assets.rotowire.com/images/teamlogo/basketball/100MEM.png?v=10)
+[Isaiah Stewart](https://www.rotowire.com/basketball/player/isaiah-stewart-5137)[Dealing with hip soreness](https://www.rotowire.com/basketball/headlines/isaiah-stewart-injury-dealing-with-hip-soreness-541122)
+**C** Memphis Grizzlies
+Hip
+November 26, 2026
+Stewart is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-26_06_15PM.pdf) for Friday's game against the Timberwolves due to right hip soreness.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![MEM](https://assets.rotowire.com/images/teamlogo/basketball/100MEM.png?v=10)
+[Zach Edey](https://www.rotowire.com/basketball/player/zach-edey-6263)[Uncertain status for Friday](https://www.rotowire.com/basketball/headlines/zach-edey-injury-uncertain-status-for-friday-541121)
+**C** Memphis Grizzlies
+Ankle
+November 26, 2026
+Edey (ankle) is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-26_06_15PM.pdf) for Friday's game against the Timberwolves.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![LAL](https://assets.rotowire.com/images/teamlogo/basketball/100LAL.png?v=10)
+[Austin Reaves](https://www.rotowire.com/basketball/player/austin-reaves-5334)[Officially listed as questionable](https://www.rotowire.com/basketball/headlines/austin-reaves-injury-officially-listed-as-questionable-541120)
+**G** Los Angeles Lakers
+Heel
+November 26, 2026
+Reaves (heel) is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-26_06_15PM.pdf) for Friday's game against the Spurs.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
+![MIN](https://assets.rotowire.com/images/teamlogo/basketball/100MIN.png?v=10)
+[LaMelo Ball](https://www.rotowire.com/basketball/player/lamelo-ball-5151)[Listed questionable vs. Memphis](https://www.rotowire.com/basketball/headlines/lamelo-ball-injury-listed-questionable-vs-memphis-541119)
+**G** Minnesota Timberwolves
+Ankle
+November 26, 2026
+Ball (ankle) is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-26_06_15PM.pdf) for Friday's game against the Grizzlies.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![ATL](https://assets.rotowire.com/images/teamlogo/basketball/100ATL.png?v=10)
 [Jock Landale](https://www.rotowire.com/basketball/player/jock-landale-4562)[Absent once again](https://www.rotowire.com/basketball/headlines/jock-landale-injury-absent-once-again-541118)
 **C** Atlanta Hawks
@@ -176,34 +208,6 @@ Smith recorded 13 points (4-9 FG, 2-4 3Pt, 3-5 FT), four rebounds, one assist, t
 **C** Houston Rockets
 November 26, 2026
 Sengun racked up 23 points (9-17 FG, 3-5 3Pt, 2-6 FT), 11 rebounds and 11 assists across 32 minutes during Wednesday's 116-104 win over Phoenix.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![HOU](https://assets.rotowire.com/images/teamlogo/basketball/100HOU.png?v=10)
-[Amen Thompson](https://www.rotowire.com/basketball/player/amen-thompson-5931)[Doubles-doubles in win over Suns](https://www.rotowire.com/basketball/headlines/amen-thompson-news-doubles-doubles-in-win-over-suns-541097)
-**G** Houston Rockets
-November 26, 2026
-Thompson posted 18 points (7-14 FG, 4-9 FT), 10 rebounds, four assists and two blocks across 36 minutes during Wednesday's 116-104 win over Phoenix.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![PHO](https://assets.rotowire.com/images/teamlogo/basketball/100PHO.png?v=10)
-[Khaman Maluach](https://www.rotowire.com/basketball/player/khaman-maluach-6542)[Perfect from field in loss](https://www.rotowire.com/basketball/headlines/khaman-maluach-news-perfect-from-field-in-loss-541096)
-**C** Phoenix Suns
-November 26, 2026
-Maluach contributed 12 points (4-4 FG, 4-6 FT), six rebounds, one block and one steal in 25 minutes during Wednesday's 116-104 loss to the Rockets.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![PHO](https://assets.rotowire.com/images/teamlogo/basketball/100PHO.png?v=10)
-[Oso Ighodaro](https://www.rotowire.com/basketball/player/oso-ighodaro-6293)[Efficient scoring in limited minutes](https://www.rotowire.com/basketball/headlines/oso-ighodaro-news-efficient-scoring-in-limited-minutes-541095)
-**C** Phoenix Suns
-November 26, 2026
-Ighodaro racked up 13 points (6-8 FG, 1-3 FT), two rebounds, two assists, one block and one steal across 20 minutes before fouling out of Wednesday's 116-104 loss to Houston.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![PHO](https://assets.rotowire.com/images/teamlogo/basketball/100PHO.png?v=10)
-[Dillon Brooks](https://www.rotowire.com/basketball/player/dillon-brooks-4125)[Goes cold against former team](https://www.rotowire.com/basketball/headlines/dillon-brooks-news-goes-cold-against-former-team-541094)
-**F** Phoenix Suns
-November 26, 2026
-Brooks closed with 12 points (5-13 FG, 0-3 3Pt, 2-2 FT), six rebounds, four assists and one steal across 31 minutes before getting ejected from Wednesday's 116-104 loss to the Rockets.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)

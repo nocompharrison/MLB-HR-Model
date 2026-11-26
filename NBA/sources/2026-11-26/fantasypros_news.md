@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-26 18:05 ET -->
+<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-26 18:34 ET -->
 
 # Fantasy Basketball News
 ##  Latest Player Updates 
@@ -7,6 +7,132 @@
 All News Breaking News Rumors NBA Draft Game Recaps Injuries Transactions
 Teams Atlanta Hawks Boston Celtics Brooklyn Nets Charlotte Hornets Chicago Bulls Cleveland Cavaliers Dallas Mavericks Denver Nuggets Detroit Pistons Golden State Warriors Houston Rockets Indiana Pacers Los Angeles Clippers Los Angeles Lakers Memphis Grizzlies Miami Heat Milwaukee Bucks Minnesota Timberwolves New Orleans Pelicans New York Knicks Oklahoma City Thunder Orlando Magic Philadelphia 76ers Phoenix Suns Portland Trail Blazers Sacramento Kings San Antonio Spurs Toronto Raptors Utah Jazz Washington Wizards
 Positions Guards Forwards Centers
+[![Trendon Watford](https://images.fantasypros.com/images/players/nba/5216/headshot/100x100.png)](https://www.fantasypros.com/nba/players/trendon-watford.php)
+F - NOR
+[» Rankings](https://www.fantasypros.com/nba/players/trendon-watford.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/trendon-watford.php)  
+[» More News](https://www.fantasypros.com/nba/news/trendon-watford.php)
+[Trendon Watford (ankle) listed probable Friday ](https://www.fantasypros.com/nba/news/622736/trendon-watford-ankle-listed-probable-friday.php)  
+
+Thu, Nov 26th 5:59pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Trendon Watford is listed as probable for Friday’s game against the Clippers. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-26_05_15PM.pdf))
+**_Fantasy Impact:_** Watford is on track to make his return for the Pelicans. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Bennedict Mathurin](https://images.fantasypros.com/images/players/nba/5458/headshot/100x100.png)](https://www.fantasypros.com/nba/players/bennedict-mathurin.php)
+F - NOR
+[» Rankings](https://www.fantasypros.com/nba/players/bennedict-mathurin.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/bennedict-mathurin.php)  
+[» More News](https://www.fantasypros.com/nba/news/bennedict-mathurin.php)
+[Bennedict Mathurin (foot) listed doubtful Friday ](https://www.fantasypros.com/nba/news/622735/bennedict-mathurin-foot-listed-doubtful-friday.php)  
+
+Thu, Nov 26th 5:58pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Bennedict Mathurin is listed as doubtful for Friday’s game against the Clippers. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-26_05_15PM.pdf))
+**_Fantasy Impact:_** Mathurin is on track to miss an eighth straight game for the Pelicans. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Mitchell Robinson](https://images.fantasypros.com/images/players/nba/3524/headshot/100x100.png)](https://www.fantasypros.com/nba/players/mitchell-robinson.php)
+C - BOS
+[» Rankings](https://www.fantasypros.com/nba/players/mitchell-robinson.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/mitchell-robinson.php)  
+[» More News](https://www.fantasypros.com/nba/news/mitchell-robinson.php)
+[Mitchell Robinson (illness) listed questionable Friday ](https://www.fantasypros.com/nba/news/622734/mitchell-robinson-illness-listed-questionable-friday.php)  
+
+Thu, Nov 26th 5:57pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Mitchell Robinson is listed as questionable for Friday’s game against the Hawks. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-26_05_15PM.pdf))
+**_Fantasy Impact:_** Robinson has missed Boston’s last three games with an illness. He is looking to avoid missing a fourth straight game. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Giannis Antetokounmpo](https://images.fantasypros.com/images/players/nba/2803/headshot/100x100.png)](https://www.fantasypros.com/nba/players/giannis-antetokounmpo.php)
+F - MIA
+[» Rankings](https://www.fantasypros.com/nba/players/giannis-antetokounmpo.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/giannis-antetokounmpo.php)  
+[» More News](https://www.fantasypros.com/nba/news/giannis-antetokounmpo.php)
+[Giannis Antetokounmpo (groin) listed probable Friday ](https://www.fantasypros.com/nba/news/622733/giannis-antetokounmpo-groin-listed-probable-friday.php)  
+
+Thu, Nov 26th 5:56pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Giannis Antetokounmpo is listed as probable for Friday's game against the Knicks. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-26_05_15PM.pdf))
+**_Fantasy Impact:_** Antetokounmpo is on track to be good to go despite dealing with right groin tendinitis. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Andrew Wiggins](https://images.fantasypros.com/images/players/nba/2945/headshot/100x100.png)](https://www.fantasypros.com/nba/players/andrew-wiggins.php)
+F - MIA
+[» Rankings](https://www.fantasypros.com/nba/players/andrew-wiggins.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/andrew-wiggins.php)  
+[» More News](https://www.fantasypros.com/nba/news/andrew-wiggins.php)
+[Andrew Wiggins (ankle) listed probable Friday ](https://www.fantasypros.com/nba/news/622732/andrew-wiggins-ankle-listed-probable-friday.php)  
+
+Thu, Nov 26th 5:55pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Andrew Wiggins is listed as probable for Friday's game against the Knicks. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-26_05_15PM.pdf))
+**_Fantasy Impact:_** Wiggins is on track to be good to go. He should remain in his usual role for Miami. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Alijah Martin](https://images.fantasypros.com/images/players/nba/6378/headshot/100x100.png)](https://www.fantasypros.com/nba/players/alijah-martin.php)
+G - TOR
+[» Rankings](https://www.fantasypros.com/nba/players/alijah-martin.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/alijah-martin.php)  
+[» More News](https://www.fantasypros.com/nba/news/alijah-martin.php)
+[Alijah Martin (knee) listed questionable Friday ](https://www.fantasypros.com/nba/news/622731/alijah-martin-knee-listed-questionable-friday.php)  
+
+Thu, Nov 26th 5:54pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Alijah Martin is listed as questionable for Friday's game against the Nets. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-26_05_15PM.pdf))
+**_Fantasy Impact:_** Martin remains off the fantasy radar when he is healthy. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Moritz Wagner](https://images.fantasypros.com/images/players/nba/3550/headshot/100x100.png)](https://www.fantasypros.com/nba/players/moritz-wagner.php)
+F - BKN
+[» Rankings](https://www.fantasypros.com/nba/players/moritz-wagner.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/moritz-wagner.php)  
+[» More News](https://www.fantasypros.com/nba/news/moritz-wagner.php)
+[Moritz Wagner (knee) ruled out Friday ](https://www.fantasypros.com/nba/news/622730/moritz-wagner-knee-ruled-out-friday.php)  
+
+Thu, Nov 26th 5:53pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Moritz Wagner has been ruled out for Friday's game against the Raptors. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-26_05_15PM.pdf))
+**_Fantasy Impact:_** The absence of Wagner will not impact the Nets rotation for fantasy managers. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![OG Anunoby](https://images.fantasypros.com/images/players/nba/3325/headshot/100x100.png)](https://www.fantasypros.com/nba/players/og-anunoby.php)
+F - NYK
+[» Rankings](https://www.fantasypros.com/nba/players/og-anunoby.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/og-anunoby.php)  
+[» More News](https://www.fantasypros.com/nba/news/og-anunoby.php)
+[OG Anunoby (calf) listed doubtful Friday ](https://www.fantasypros.com/nba/news/622729/og-anunoby-calf-listed-doubtful-friday.php)  
+
+Thu, Nov 26th 5:52pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+OG Anunoby is listed as doubtful for Friday’s game against the Heat. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-26_05_15PM.pdf))
+**_Fantasy Impact:_** Anunoby is on track to miss a fourth straight game. Landry Shamet should continue to start in his place. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Jordan Clarkson](https://images.fantasypros.com/images/players/nba/2837/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jordan-clarkson.php)
+G - NYK
+[» Rankings](https://www.fantasypros.com/nba/players/jordan-clarkson.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/jordan-clarkson.php)  
+[» More News](https://www.fantasypros.com/nba/news/jordan-clarkson.php)
+[Jordan Clarkson (foot) listed questionable Friday ](https://www.fantasypros.com/nba/news/622728/jordan-clarkson-foot-listed-questionable-friday.php)  
+
+Thu, Nov 26th 5:51pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Jordan Clarkson is listed as questionable for Friday’s game against the Heat. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-26_05_15PM.pdf))
+**_Fantasy Impact:_** Clarkson remains off the fantasy radar in his current role in the Knicks rotation. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
 [![Andre Drummond](https://images.fantasypros.com/images/players/nba/2718/headshot/100x100.png)](https://www.fantasypros.com/nba/players/andre-drummond.php)
 C - NYK
 [» Rankings](https://www.fantasypros.com/nba/players/andre-drummond.php)  
@@ -158,132 +284,6 @@ Thu, Nov 26th 12:23pm EST
 By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
 Tyrese Maxey led the 76ers offense Wednesday night, scoring 30 points (12-21 FG, 3-5 3PT, 3-4 FT) while also dishing out six assists, recording one steal, and grabbing four rebounds in a 111-104 win over the Heat.
 **_Fantasy Impact:_** Maxey continues an impactful stretch on the offensive end of the floor, dishing out four or more assists and scoring 17 or more points in each of his last five games. The guard remains another explosive option as part of a high-octane Philadelphia starting five for head coach Nick Nurse, averaging 25.9 points and 5.7 assists per game while carrying a usage rate of 26.2% so far this season.
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![LeBron James](https://images.fantasypros.com/images/players/nba/2239/headshot/100x100.png)](https://www.fantasypros.com/nba/players/lebron-james.php)
-F - PHI
-[» Rankings](https://www.fantasypros.com/nba/players/lebron-james.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/lebron-james.php)  
-[» More News](https://www.fantasypros.com/nba/news/lebron-james.php)
-[LeBron James posts triple-double in Wednesday's win over Heat](https://www.fantasypros.com/nba/news/622702/lebron-james-posts-triple-double-wednesdays-win-over-heat.php)  
-
-Thu, Nov 26th 12:19pm EST  
-By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
-LeBron James posted a triple-double for the 76ers Wednesday night, dishing out 12 assists, grabbing 10 rebounds, and scoring 25 points (9-15 FG, 4-6 3PT, 3-3 FT) while also recording one steal in a 111-104 win over the Heat.
-**_Fantasy Impact:_** James continues an impactful stretch on both ends of the floor, dishing out three or more assists, grabbing three or more rebounds, and scoring 15 or more points in each of his last five games. The superstar forward has offered head coach Nick Nurse another high-impact option in a star-studded Philadelphia starting five, averaging 17.1 points, 6.9 assists, and 6.9 rebounds per game while posting a usage rate of 23.0% so far this season.
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Giannis Antetokounmpo](https://images.fantasypros.com/images/players/nba/2803/headshot/100x100.png)](https://www.fantasypros.com/nba/players/giannis-antetokounmpo.php)
-F - MIA
-[» Rankings](https://www.fantasypros.com/nba/players/giannis-antetokounmpo.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/giannis-antetokounmpo.php)  
-[» More News](https://www.fantasypros.com/nba/news/giannis-antetokounmpo.php)
-[Giannis Antetokounmpo posts double-double in Wednesday's loss to 76ers](https://www.fantasypros.com/nba/news/622701/giannis-antetokounmpo-posts-double-double-wednesdays-loss-to-76ers.php)  
-
-Thu, Nov 26th 12:15pm EST  
-By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
-Giannis Antetokounmpo posted a double-double for the Heat Wednesday night, grabbing 14 rebounds and scoring 32 points (11-18 FG, 0-1 3PT, 10-13 FT) while also dishing out four assists, recording two steals, and blocking one shot in a 111-104 loss to the 76ers.
-**_Fantasy Impact:_** Antetokounmpo continues a dynamic stretch on both ends of the floor, grabbing nine or more rebounds and scoring 20 or more points in each of his last five games. The superstar forward has rewarded head coach Erik Spoelstra with an explosive option while leading a revamped Miami starting five to this point, averaging 28.4 points, 5.4 assists, and 12.7 rebounds per game while carrying a 30.7% usage rate so far this season.
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Bam Adebayo](https://images.fantasypros.com/images/players/nba/3332/headshot/100x100.png)](https://www.fantasypros.com/nba/players/bam-adebayo.php)
-C - MIA
-[» Rankings](https://www.fantasypros.com/nba/players/bam-adebayo.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/bam-adebayo.php)  
-[» More News](https://www.fantasypros.com/nba/news/bam-adebayo.php)
-[Bam Adebayo picks up double-double in Wednesday's loss to 76ers](https://www.fantasypros.com/nba/news/622700/bam-adebayo-picks-up-double-double-wednesdays-loss-to-76ers.php)  
-
-Thu, Nov 26th 12:11pm EST  
-By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
-Bam Adebayo picked up a double-double for the Heat Wednesday night, grabbing 11 rebounds and chipping in 17 points (6-16 FG, 1-3 3PT, 4-5 FT) while also recording one steal and dishing out three assists in a 111-104 loss to the 76ers.
-**_Fantasy Impact:_** Adebayo has been solid on both ends of the floor of late, grabbing four or more rebounds and scoring 17 or more points in four of his last five games. The center remains another impactful option as part of a Miami starting five led by superstar Giannis Antetokounmpo for head coach Erik Spoelstra, averaging 19.1 points and 8.4 rebounds per game to go along with a usage rate of 21.1% so far this season.
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Davion Mitchell](https://images.fantasypros.com/images/players/nba/5332/headshot/100x100.png)](https://www.fantasypros.com/nba/players/davion-mitchell.php)
-G - MIA
-[» Rankings](https://www.fantasypros.com/nba/players/davion-mitchell.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/davion-mitchell.php)  
-[» More News](https://www.fantasypros.com/nba/news/davion-mitchell.php)
-[Davion Mitchell records double-double Wednesday against 76ers](https://www.fantasypros.com/nba/news/622699/davion-mitchell-records-double-double-wednesday-against-76ers.php)  
-
-Thu, Nov 26th 12:08pm EST  
-By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
-Davion Mitchell recorded a double-double for the Heat Wednesday night, dishing out 10 assists and scoring 20 points (7-14 FG, 3-5 3PT, 3-6 FT) while also grabbing four rebounds in a 111-104 loss to the 76ers.
-**_Fantasy Impact:_** Mitchell continues a solid stretch on the offensive end of the floor, finishing with three or more assists and 14 or more points in each of his last five contests. The guard has led a revamped Miami backcourt for much of the season for head coach Erik Spoelstra, averaging 17.2 points and 8.7 assists per game while posting a usage rate of 18.4% so far this season.
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Amen Thompson](https://images.fantasypros.com/images/players/nba/5980/headshot/100x100.png)](https://www.fantasypros.com/nba/players/amen-thompson.php)
-G - HOU
-[» Rankings](https://www.fantasypros.com/nba/players/amen-thompson.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/amen-thompson.php)  
-[» More News](https://www.fantasypros.com/nba/news/amen-thompson.php)
-[Amen Thompson logs double-double Wednesday ](https://www.fantasypros.com/nba/news/622669/amen-thompson-logs-double-double-wednesday.php)  
-
-Thu, Nov 26th 2:13am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Amen Thompson scored 18 points (7-14 FG, 4-9 FT) to go along with 10 rebounds, four assists and two blocks in the Rockets 116-104 win over the Suns. 
-**_Fantasy Impact:_** Thompson recorded his fifth double-double of the season. He has continued to show flashes of taking a step forward as a scorer, though he still hasn't been a threat to shoot from deep. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Alperen Sengun](https://images.fantasypros.com/images/players/nba/5384/headshot/100x100.png)](https://www.fantasypros.com/nba/players/alperen-sengun-c.php)
-C - HOU
-[» Rankings](https://www.fantasypros.com/nba/players/alperen-sengun-c.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/alperen-sengun-c.php)  
-[» More News](https://www.fantasypros.com/nba/news/alperen-sengun-c.php)
-[Alperen Sengun records triple-double Wednesday ](https://www.fantasypros.com/nba/news/622668/alperen-sengun-records-triple-double-wednesday.php)  
-
-Thu, Nov 26th 2:12am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Alperen Sengun scored 23 points (9-17 FG, 3-5 3PT, 2-6 FT) to go along with 11 rebounds and 11 assists in the Rockets 116-104 win over the Suns. 
-**_Fantasy Impact:_** Sengun recorded his third triple-double of the season. It was also another efficient shooting night for the Rockets big man as he continues his steadily elite season for fantasy managers. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Devin Booker](https://images.fantasypros.com/images/players/nba/3024/headshot/100x100.png)](https://www.fantasypros.com/nba/players/devin-booker.php)
-G - PHO
-[» Rankings](https://www.fantasypros.com/nba/players/devin-booker.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/devin-booker.php)  
-[» More News](https://www.fantasypros.com/nba/news/devin-booker.php)
-[Devin Booker drops 25 points Wednesday ](https://www.fantasypros.com/nba/news/622667/devin-booker-drops-25-points-wednesday.php)  
-
-Thu, Nov 26th 2:08am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Devin Booker scored 25 points (6-18 FG, 2-9 3PT, 11-12 FT) to go along with five assists and one steal in the Suns 116-104 loss against the Rockets. 
-**_Fantasy Impact:_** Booker did not have his most efficient shooting night from the field. He did most of his damage in the first two quarters. He has scored at least 20 points in five straight games. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Jaime Jaquez Jr.](https://images.fantasypros.com/images/players/nba/5485/headshot/100x100.png)](https://www.fantasypros.com/nba/players/jaime-jaquez-jr.php)
-F - MIL
-[» Rankings](https://www.fantasypros.com/nba/players/jaime-jaquez-jr.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/jaime-jaquez-jr.php)  
-[» More News](https://www.fantasypros.com/nba/news/jaime-jaquez-jr.php)
-[Jaime Jaquez Jr. scores 21 points Wednesday ](https://www.fantasypros.com/nba/news/622666/jaime-jaquez-jr-scores-21-points-wednesday.php)  
-
-Thu, Nov 26th 2:06am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Jaime Jaquez Jr. scored 21 points (9-15 FG, 1-5 3PT, 2-4 FT) to go along with five rebounds, four assists and two steals in the Bucks 104-97 loss against the Nets. 
-**_Fantasy Impact:_** Jaquez took advantage of his opportunity on Wednesday as his minutes hadn't been as high consistently so far this season. He'll remain a steady contributor when he sees the playing time. 
-Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Tyler Herro](https://images.fantasypros.com/images/players/nba/4496/headshot/100x100.png)](https://www.fantasypros.com/nba/players/tyler-herro.php)
-G - MIL
-[» Rankings](https://www.fantasypros.com/nba/players/tyler-herro.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/tyler-herro.php)  
-[» More News](https://www.fantasypros.com/nba/news/tyler-herro.php)
-[Tyler Herro drops 28 points Wednesday ](https://www.fantasypros.com/nba/news/622665/tyler-herro-drops-28-points-wednesday.php)  
-
-Thu, Nov 26th 2:04am EST  
-By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
-Tyler Herro scored 28 points (10-20 FG, 3-9 3PT, 5-5 FT) to go along with two rebounds, five assists and three steals in the Bucks 104-97 loss against the Nets. 
-**_Fantasy Impact:_** Herro continued his recent strong stretch as a scorer and shooter for Milwaukee. He remains the go-to for the Bucks as a scorer on a nightly basis. 
 Category: [Game Recaps](https://www.fantasypros.com/nba/game-recaps.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *

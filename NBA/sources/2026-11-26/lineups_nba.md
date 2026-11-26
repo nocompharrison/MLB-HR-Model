@@ -1,4 +1,4 @@
-<!-- source: https://www.lineups.com/nba-articles/ | fetched: 2026-11-26 18:05 ET -->
+<!-- source: https://www.lineups.com/nba-articles/ | fetched: 2026-11-26 18:34 ET -->
 
 
 ---
@@ -345,6 +345,18 @@ Let’s dive into three player props that catch our eye for Wednesday’s action
 
 ### **Tyrese Maxey (76ers vs. Heat) Over Points + Rebounds + Assists**
 
+[](https://www.lineups.com/)
+
+![Image 32](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10214.png)Tyrese Maxey
+
+[![Image 33: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661947/polymarket_sc)[O/U Points Scored (@ IND)](https://lineups.go.metabet.io/bet/nba_game_player_points/661947/polymarket_sc)[29.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661947/polymarket_sc)
+
+[![Image 34: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661947/underdog_sc)[O/U Total Rebounds (@ IND)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661947/underdog_sc)[3.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661947/underdog_sc)
+
+[![Image 35: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661947/underdog_sc)[O/U Total Assists (@ IND)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661947/underdog_sc)[5.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661947/underdog_sc)
+
+[![Image 36](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/tyrese_maxey/player_134068 "Powered by MetaBet")[](https://www.metabet.io/odds)
+
 We’ll jump on the first game of the day, a late-afternoon clash between the Heat and 76ers in Philadelphia. Maxey checks into the favorable matchup averaging exactly 34.5 points + rebounds + assists per game on the season, while also shooting 40.0% from three-point range at home. The dynamic veteran is still sporting a formidable 25.8% usage rate despite having gained a pair of highly prominent teammates in Jaylen Brown and LeBron James this past offseason, and Wednesday, he should be in line for more opportunity considering Joel Embiid is doubtful due to an illness.
 
 Maxey sports a 29.3% usage rate – the second highest on the Sixers behind Jaylen Brown – with Embiid off the floor this season, and he’s also averaging 35.4 points + rebounds + assists per 36 minutes in that scenario. Miami has also been a boon for point-guard production all season, allowing an NBA-high 33.6 offensive efficiency rating to the position, along with 48.8% shooting, including 42.9% from three-point range. The Heat is also conceding the fourth-most points + rebounds + assists per game (201.3), furthering Maxey’s prospects in a game where Philly has a robust 120.25-point implied team total.
@@ -353,6 +365,16 @@ Maxey sports a 29.3% usage rate – the second highest on the Sixers behind Jayl
 
 ### **Coby White (Hornets vs. Bulls) Over Points + Rebounds + Assists**
 
+[](https://www.lineups.com/)
+
+![Image 37](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10190.png)Coby White
+
+[![Image 38: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp_finals/132775/kalshi_sc)[To Win Finals MVP](https://lineups.go.metabet.io/bet/nba_mvp_finals/132775/kalshi_sc)[1¢](https://lineups.go.metabet.io/bet/nba_mvp_finals/132775/kalshi_sc)
+
+[![Image 39: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_most_improved_player_of_the_year/132775/kalshi_sc)[To Win Most Improved Player](https://lineups.go.metabet.io/bet/nba_most_improved_player_of_the_year/132775/kalshi_sc)[8¢](https://lineups.go.metabet.io/bet/nba_most_improved_player_of_the_year/132775/kalshi_sc)
+
+[![Image 40](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/coby_white/player_132775 "Powered by MetaBet")[](https://www.metabet.io/odds)
+
 White has been progressively ramping up since making his season debut Nov. 2, boosting his both his production and minutes over time. He’s close to hitting on all cylinders nine games in, as he just played a season-high 28 minutes on Sunday against the Grizzlies and tied a season best with 21 points in that span. White is averaging a solid 18.6 points, 3.8 assists and 2.6 rebounds across 24 minutes over his last five games, a span where he’s encouragingly putting up 18.8 field-goal + free-throw attempts per contest.
 
 White now gets a pre-Thanksgiving crack at his old Bulls squad, a team that’s been highly targetable with Overs all season. Chicago is ranked No. 28 in offensive efficiency rating allowed to point guards (31.6), also surrendering 47.2% shooting, including 41.6% from behind the arc. The Bulls are also averaging an NBA-high 107.7 possessions per game while allowing an Eastern Conference-high 212.2 points + rebounds + assists per road contest, all numbers that further boost White’s prospects.
@@ -360,6 +382,18 @@ White now gets a pre-Thanksgiving crack at his old Bulls squad, a team that’s 
 **Original Line Publish**: 23.5
 
 ### **Ty Jerome (Grizzlies vs. Clippers) Over Points + Rebounds + Assists**
+
+[](https://www.lineups.com/)
+
+![Image 41](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10206.png)Ty Jerome
+
+[![Image 42: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661950/underdog_sc)[O/U Points Scored (@ MIN)](https://lineups.go.metabet.io/bet/nba_game_player_points/661950/underdog_sc)[20.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661950/underdog_sc)
+
+[![Image 43: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661950/underdog_sc)[O/U Total Rebounds (@ MIN)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661950/underdog_sc)[3.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661950/underdog_sc)
+
+[![Image 44: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661950/underdog_sc)[O/U Total Assists (@ MIN)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661950/underdog_sc)[5.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661950/underdog_sc)
+
+[![Image 45](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/ty_jerome/player_132853 "Powered by MetaBet")[](https://www.metabet.io/odds)
 
 Jerome is authoring a career-best season, averaging a stellar 25.1 points, 5.2 assists and 3.5 rebounds per contest while shooting an impressive 47.9% overall. The breakout veteran already has six tallies of 27 points or better, seven four-rebound-plus efforts and nine games with five assists or more. He’s been far and away at his best at home, where he’s put up 39.0 points + rebounds + assists across 31.6 minutes per game, a sample where he’s also shot a blistering 57.6%, including 39.5% from behind the arc.
 
@@ -395,27 +429,27 @@ _Photo Credit: REUTERS_
 
 ## Latest Betting News
 
-[![Image 32: Patrick Mahomes](https://www.lineups.com/wp-content/uploads/2026/11/Mahomes-150x150.jpg)](https://www.lineups.com/articles/chiefs-bills-picks-predictions-odds-nfl-thanksgiving/)
+[![Image 46: Patrick Mahomes](https://www.lineups.com/wp-content/uploads/2026/11/Mahomes-150x150.jpg)](https://www.lineups.com/articles/chiefs-bills-picks-predictions-odds-nfl-thanksgiving/)
 
 [](https://www.lineups.com/articles/chiefs-bills-picks-predictions-odds-nfl-thanksgiving/)
 #### [](https://www.lineups.com/articles/chiefs-bills-picks-predictions-odds-nfl-thanksgiving/)[Chiefs-Bills Picks, Predictions & Odds: NFL Thanksgiving](https://www.lineups.com/articles/chiefs-bills-picks-predictions-odds-nfl-thanksgiving/)
 
-[![Image 33: Saquon Barkley](https://www.lineups.com/wp-content/uploads/2026/11/Saquon-Barkley-150x150.jpg)](https://www.lineups.com/articles/eagles-cowboys-picks-predictions-odds-nfl-thanksgiving/)
+[![Image 47: Saquon Barkley](https://www.lineups.com/wp-content/uploads/2026/11/Saquon-Barkley-150x150.jpg)](https://www.lineups.com/articles/eagles-cowboys-picks-predictions-odds-nfl-thanksgiving/)
 
 [](https://www.lineups.com/articles/eagles-cowboys-picks-predictions-odds-nfl-thanksgiving/)
 #### [](https://www.lineups.com/articles/eagles-cowboys-picks-predictions-odds-nfl-thanksgiving/)[Eagles-Cowboys Picks, Predictions & Odds: NFL Thanksgiving](https://www.lineups.com/articles/eagles-cowboys-picks-predictions-odds-nfl-thanksgiving/)
 
-[![Image 34: Caleb Williams](https://www.lineups.com/wp-content/uploads/2026/11/CalebWilliams-150x150.jpg)](https://www.lineups.com/articles/bears-lions-picks-predictions-odds-nfl-thanksgiving/)
+[![Image 48: Caleb Williams](https://www.lineups.com/wp-content/uploads/2026/11/CalebWilliams-150x150.jpg)](https://www.lineups.com/articles/bears-lions-picks-predictions-odds-nfl-thanksgiving/)
 
 [](https://www.lineups.com/articles/bears-lions-picks-predictions-odds-nfl-thanksgiving/)
 #### [](https://www.lineups.com/articles/bears-lions-picks-predictions-odds-nfl-thanksgiving/)[Bears-Lions Picks, Predictions & Odds: NFL Thanksgiving](https://www.lineups.com/articles/bears-lions-picks-predictions-odds-nfl-thanksgiving/)
 
-[![Image 35: James Cook](https://www.lineups.com/wp-content/uploads/2026/11/James-Cook-150x150.jpg)](https://www.lineups.com/articles/thanksgiving-touchdown-picks-luther-burden-iii-devonta-smith-james-cook-anytime-td-bets-nfl-week-12/)
+[![Image 49: James Cook](https://www.lineups.com/wp-content/uploads/2026/11/James-Cook-150x150.jpg)](https://www.lineups.com/articles/thanksgiving-touchdown-picks-luther-burden-iii-devonta-smith-james-cook-anytime-td-bets-nfl-week-12/)
 
 [](https://www.lineups.com/articles/thanksgiving-touchdown-picks-luther-burden-iii-devonta-smith-james-cook-anytime-td-bets-nfl-week-12/)
 #### [](https://www.lineups.com/articles/thanksgiving-touchdown-picks-luther-burden-iii-devonta-smith-james-cook-anytime-td-bets-nfl-week-12/)[Thanksgiving Touchdown Picks: Luther Burden III, DeVonta Smith, & James Cook Anytime TD Bets, NFL Week 12](https://www.lineups.com/articles/thanksgiving-touchdown-picks-luther-burden-iii-devonta-smith-james-cook-anytime-td-bets-nfl-week-12/)
 
-[![Image 36: jahmyr gibbs](https://www.lineups.com/wp-content/uploads/2026/11/jahmyrgibbs-150x150.jpg)](https://www.lineups.com/articles/nfl-thanksgiving-day-dfs-picks-best-value-plays/)
+[![Image 50: jahmyr gibbs](https://www.lineups.com/wp-content/uploads/2026/11/jahmyrgibbs-150x150.jpg)](https://www.lineups.com/articles/nfl-thanksgiving-day-dfs-picks-best-value-plays/)
 
 [](https://www.lineups.com/articles/nfl-thanksgiving-day-dfs-picks-best-value-plays/)
 #### [](https://www.lineups.com/articles/nfl-thanksgiving-day-dfs-picks-best-value-plays/)[NFL Thanksgiving Day DFS Picks: Best Value Plays](https://www.lineups.com/articles/nfl-thanksgiving-day-dfs-picks-best-value-plays/)
@@ -426,7 +460,7 @@ About the Author
 
 [Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)
 
-[![Image 37: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/jcblanco22)[![Image 38: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:jcblanco1071@gmail.com)
+[![Image 51: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/jcblanco22)[![Image 52: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:jcblanco1071@gmail.com)
 
 Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports and sports betting. His work includes picks, industry news, analysis and profiles of people in both spaces. His articles have appeared on leading sports, fantasy sports and [sports betting sites](https://www.lineups.com/sports-betting/), including RotoWire, RotoBaller, The Game Day, TheLines, Legal Sports Report, CBS Sports, Yahoo Sports, NBA.com, Pro Football and Sports Network and Forbes. Juan Carlos has covered the NFL, NBA, MLB, CFL, USFL, XFL, UFL and BIG3 Basketball.
 
@@ -441,7 +475,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
  Related Stories 
 
-[![Image 39: Patrick Mahomes](https://www.lineups.com/wp-content/uploads/2026/11/Mahomes-390x230.jpg)](https://www.lineups.com/articles/chiefs-bills-picks-predictions-odds-nfl-thanksgiving/)
+[![Image 53: Patrick Mahomes](https://www.lineups.com/wp-content/uploads/2026/11/Mahomes-390x230.jpg)](https://www.lineups.com/articles/chiefs-bills-picks-predictions-odds-nfl-thanksgiving/)
 
 [NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -451,7 +485,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 25, 2026
 
-[![Image 40: Saquon Barkley](https://www.lineups.com/wp-content/uploads/2026/11/Saquon-Barkley-390x230.jpg)](https://www.lineups.com/articles/eagles-cowboys-picks-predictions-odds-nfl-thanksgiving/)
+[![Image 54: Saquon Barkley](https://www.lineups.com/wp-content/uploads/2026/11/Saquon-Barkley-390x230.jpg)](https://www.lineups.com/articles/eagles-cowboys-picks-predictions-odds-nfl-thanksgiving/)
 
 [NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -461,7 +495,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 25, 2026
 
-[![Image 41: Caleb Williams](https://www.lineups.com/wp-content/uploads/2026/11/CalebWilliams-390x230.jpg)](https://www.lineups.com/articles/bears-lions-picks-predictions-odds-nfl-thanksgiving/)
+[![Image 55: Caleb Williams](https://www.lineups.com/wp-content/uploads/2026/11/CalebWilliams-390x230.jpg)](https://www.lineups.com/articles/bears-lions-picks-predictions-odds-nfl-thanksgiving/)
 
 [NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -471,7 +505,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 25, 2026
 
-[![Image 42: James Cook](https://www.lineups.com/wp-content/uploads/2026/11/James-Cook-390x230.jpg)](https://www.lineups.com/articles/thanksgiving-touchdown-picks-luther-burden-iii-devonta-smith-james-cook-anytime-td-bets-nfl-week-12/)
+[![Image 56: James Cook](https://www.lineups.com/wp-content/uploads/2026/11/James-Cook-390x230.jpg)](https://www.lineups.com/articles/thanksgiving-touchdown-picks-luther-burden-iii-devonta-smith-james-cook-anytime-td-bets-nfl-week-12/)
 
 [NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -481,7 +515,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Frank Ammirante](https://www.lineups.com/author/frank-ammirante/)November 25, 2026
 
-[![Image 43: jahmyr gibbs](https://www.lineups.com/wp-content/uploads/2026/11/jahmyrgibbs-390x230.jpg)](https://www.lineups.com/articles/nfl-thanksgiving-day-dfs-picks-best-value-plays/)
+[![Image 57: jahmyr gibbs](https://www.lineups.com/wp-content/uploads/2026/11/jahmyrgibbs-390x230.jpg)](https://www.lineups.com/articles/nfl-thanksgiving-day-dfs-picks-best-value-plays/)
 
 [NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -491,7 +525,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Anthony Blanco](https://www.lineups.com/author/anthony-blanco/)November 25, 2026
 
-[![Image 44: Javonte Williams](https://www.lineups.com/wp-content/uploads/2026/11/Javonte-Williams-390x230.jpg)](https://www.lineups.com/articles/thanksgiving-day-player-props-colston-loveland-javonte-williams-and-josh-allen-best-bets-nfl-week-12/)
+[![Image 58: Javonte Williams](https://www.lineups.com/wp-content/uploads/2026/11/Javonte-Williams-390x230.jpg)](https://www.lineups.com/articles/thanksgiving-day-player-props-colston-loveland-javonte-williams-and-josh-allen-best-bets-nfl-week-12/)
 
 [NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -1544,6 +1578,18 @@ Let’s dive into three player props that catch our eye for Monday’s action. B
 
 ### **Scottie Barnes (Raptors vs. Bucks) Over Points**
 
+[](https://www.lineups.com/)
+
+![Image 32](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10220.png)Scottie Barnes
+
+[![Image 33: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661948/underdog_sc)[O/U Points Scored (vs. BRK)](https://lineups.go.metabet.io/bet/nba_game_player_points/661948/underdog_sc)[24.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661948/underdog_sc)
+
+[![Image 34: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661948/underdog_sc)[O/U Total Rebounds (vs. BRK)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661948/underdog_sc)[6.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661948/underdog_sc)
+
+[![Image 35: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661948/underdog_sc)[O/U Total Assists (vs. BRK)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661948/underdog_sc)[6.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661948/underdog_sc)
+
+[![Image 36](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/scottie_barnes/player_147548 "Powered by MetaBet")[](https://www.metabet.io/odds)
+
 Barnes is putting together a career-best season that includes a career-best average of 24.3 points, a figure over four points a game better than his prior high-water mark of 19.9 points in the 2023-24 season. The highly versatile forward is shooting a crisp 49.5% as well, and Barnes boasts a massive, team-high 34.1% usage rate and average of 30.8 points per 36 minutes with RJ Barrett (hamstring), who’ll remain sidelined Monday, off the floor.
 
 Barnes has recorded at least 20 points in nine of 10 games this season, a sample where he’s shot 52.8%. The opposing Bucks have been highly targetable all season for Overs, and they’re surrendering an Eastern Conference-high 30.9 offensive efficiency rating to power forwards. Milwaukee is also conceding 51.4% shooting in the last three games, and the eighth-most made three-pointers per road game (15.0) on the season.
@@ -1553,6 +1599,18 @@ Given Barnes’ current usage and his track record against the 19.5, this prop i
 **Original Line Publish:** 19.5
 
 ### **James Harden (Cavaliers vs. Bulls) Over Points + Assists**
+
+[](https://www.lineups.com/)
+
+![Image 37](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10192.png)James Harden
+
+[![Image 38: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp/11801/kalshi_sc)[To Win MVP](https://lineups.go.metabet.io/bet/nba_mvp/11801/kalshi_sc)[1¢](https://lineups.go.metabet.io/bet/nba_mvp/11801/kalshi_sc)
+
+[![Image 39: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp_in_season_tournament/11801/kalshi_sc)[To Win NBA Cup MVP](https://lineups.go.metabet.io/bet/nba_mvp_in_season_tournament/11801/kalshi_sc)[2¢](https://lineups.go.metabet.io/bet/nba_mvp_in_season_tournament/11801/kalshi_sc)
+
+[![Image 40: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp_finals/11801/kalshi_sc)[To Win Finals MVP](https://lineups.go.metabet.io/bet/nba_mvp_finals/11801/kalshi_sc)[1¢](https://lineups.go.metabet.io/bet/nba_mvp_finals/11801/kalshi_sc)
+
+[![Image 41](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/james_harden/player_11801 "Powered by MetaBet")[](https://www.metabet.io/odds)
 
 Harden has admittedly been a tough player to figure out this season, with the most recent evidence of such coming with his vintage 51-point outburst over 40 minutes against the Pacers on Friday. Harden does have 20- and 32-point tallies in two other November games as well, however, and despite a forgettable 3-for-10 showing from the field in his first meeting with the Bulls three games ago, he still mustered 19 points + assists.
 
@@ -1600,27 +1658,27 @@ _Photo Credit: REUTERS_
 
 ## Latest Betting News
 
-[![Image 32: Patrick Mahomes](https://www.lineups.com/wp-content/uploads/2026/11/Mahomes-150x150.jpg)](https://www.lineups.com/articles/chiefs-bills-picks-predictions-odds-nfl-thanksgiving/)
+[![Image 42: Patrick Mahomes](https://www.lineups.com/wp-content/uploads/2026/11/Mahomes-150x150.jpg)](https://www.lineups.com/articles/chiefs-bills-picks-predictions-odds-nfl-thanksgiving/)
 
 [](https://www.lineups.com/articles/chiefs-bills-picks-predictions-odds-nfl-thanksgiving/)
 #### [](https://www.lineups.com/articles/chiefs-bills-picks-predictions-odds-nfl-thanksgiving/)[Chiefs-Bills Picks, Predictions & Odds: NFL Thanksgiving](https://www.lineups.com/articles/chiefs-bills-picks-predictions-odds-nfl-thanksgiving/)
 
-[![Image 33: Saquon Barkley](https://www.lineups.com/wp-content/uploads/2026/11/Saquon-Barkley-150x150.jpg)](https://www.lineups.com/articles/eagles-cowboys-picks-predictions-odds-nfl-thanksgiving/)
+[![Image 43: Saquon Barkley](https://www.lineups.com/wp-content/uploads/2026/11/Saquon-Barkley-150x150.jpg)](https://www.lineups.com/articles/eagles-cowboys-picks-predictions-odds-nfl-thanksgiving/)
 
 [](https://www.lineups.com/articles/eagles-cowboys-picks-predictions-odds-nfl-thanksgiving/)
 #### [](https://www.lineups.com/articles/eagles-cowboys-picks-predictions-odds-nfl-thanksgiving/)[Eagles-Cowboys Picks, Predictions & Odds: NFL Thanksgiving](https://www.lineups.com/articles/eagles-cowboys-picks-predictions-odds-nfl-thanksgiving/)
 
-[![Image 34: Caleb Williams](https://www.lineups.com/wp-content/uploads/2026/11/CalebWilliams-150x150.jpg)](https://www.lineups.com/articles/bears-lions-picks-predictions-odds-nfl-thanksgiving/)
+[![Image 44: Caleb Williams](https://www.lineups.com/wp-content/uploads/2026/11/CalebWilliams-150x150.jpg)](https://www.lineups.com/articles/bears-lions-picks-predictions-odds-nfl-thanksgiving/)
 
 [](https://www.lineups.com/articles/bears-lions-picks-predictions-odds-nfl-thanksgiving/)
 #### [](https://www.lineups.com/articles/bears-lions-picks-predictions-odds-nfl-thanksgiving/)[Bears-Lions Picks, Predictions & Odds: NFL Thanksgiving](https://www.lineups.com/articles/bears-lions-picks-predictions-odds-nfl-thanksgiving/)
 
-[![Image 35: James Cook](https://www.lineups.com/wp-content/uploads/2026/11/James-Cook-150x150.jpg)](https://www.lineups.com/articles/thanksgiving-touchdown-picks-luther-burden-iii-devonta-smith-james-cook-anytime-td-bets-nfl-week-12/)
+[![Image 45: James Cook](https://www.lineups.com/wp-content/uploads/2026/11/James-Cook-150x150.jpg)](https://www.lineups.com/articles/thanksgiving-touchdown-picks-luther-burden-iii-devonta-smith-james-cook-anytime-td-bets-nfl-week-12/)
 
 [](https://www.lineups.com/articles/thanksgiving-touchdown-picks-luther-burden-iii-devonta-smith-james-cook-anytime-td-bets-nfl-week-12/)
 #### [](https://www.lineups.com/articles/thanksgiving-touchdown-picks-luther-burden-iii-devonta-smith-james-cook-anytime-td-bets-nfl-week-12/)[Thanksgiving Touchdown Picks: Luther Burden III, DeVonta Smith, & James Cook Anytime TD Bets, NFL Week 12](https://www.lineups.com/articles/thanksgiving-touchdown-picks-luther-burden-iii-devonta-smith-james-cook-anytime-td-bets-nfl-week-12/)
 
-[![Image 36: jahmyr gibbs](https://www.lineups.com/wp-content/uploads/2026/11/jahmyrgibbs-150x150.jpg)](https://www.lineups.com/articles/nfl-thanksgiving-day-dfs-picks-best-value-plays/)
+[![Image 46: jahmyr gibbs](https://www.lineups.com/wp-content/uploads/2026/11/jahmyrgibbs-150x150.jpg)](https://www.lineups.com/articles/nfl-thanksgiving-day-dfs-picks-best-value-plays/)
 
 [](https://www.lineups.com/articles/nfl-thanksgiving-day-dfs-picks-best-value-plays/)
 #### [](https://www.lineups.com/articles/nfl-thanksgiving-day-dfs-picks-best-value-plays/)[NFL Thanksgiving Day DFS Picks: Best Value Plays](https://www.lineups.com/articles/nfl-thanksgiving-day-dfs-picks-best-value-plays/)
@@ -1631,7 +1689,7 @@ About the Author
 
 [Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)
 
-[![Image 37: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/jcblanco22)[![Image 38: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:jcblanco1071@gmail.com)
+[![Image 47: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/jcblanco22)[![Image 48: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:jcblanco1071@gmail.com)
 
 Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports and sports betting. His work includes picks, industry news, analysis and profiles of people in both spaces. His articles have appeared on leading sports, fantasy sports and [sports betting sites](https://www.lineups.com/sports-betting/), including RotoWire, RotoBaller, The Game Day, TheLines, Legal Sports Report, CBS Sports, Yahoo Sports, NBA.com, Pro Football and Sports Network and Forbes. Juan Carlos has covered the NFL, NBA, MLB, CFL, USFL, XFL, UFL and BIG3 Basketball.
 
@@ -1646,7 +1704,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
  Related Stories 
 
-[![Image 39: Patrick Mahomes](https://www.lineups.com/wp-content/uploads/2026/11/Mahomes-390x230.jpg)](https://www.lineups.com/articles/chiefs-bills-picks-predictions-odds-nfl-thanksgiving/)
+[![Image 49: Patrick Mahomes](https://www.lineups.com/wp-content/uploads/2026/11/Mahomes-390x230.jpg)](https://www.lineups.com/articles/chiefs-bills-picks-predictions-odds-nfl-thanksgiving/)
 
 [NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -1656,7 +1714,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 25, 2026
 
-[![Image 40: Saquon Barkley](https://www.lineups.com/wp-content/uploads/2026/11/Saquon-Barkley-390x230.jpg)](https://www.lineups.com/articles/eagles-cowboys-picks-predictions-odds-nfl-thanksgiving/)
+[![Image 50: Saquon Barkley](https://www.lineups.com/wp-content/uploads/2026/11/Saquon-Barkley-390x230.jpg)](https://www.lineups.com/articles/eagles-cowboys-picks-predictions-odds-nfl-thanksgiving/)
 
 [NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -1666,7 +1724,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 25, 2026
 
-[![Image 41: Caleb Williams](https://www.lineups.com/wp-content/uploads/2026/11/CalebWilliams-390x230.jpg)](https://www.lineups.com/articles/bears-lions-picks-predictions-odds-nfl-thanksgiving/)
+[![Image 51: Caleb Williams](https://www.lineups.com/wp-content/uploads/2026/11/CalebWilliams-390x230.jpg)](https://www.lineups.com/articles/bears-lions-picks-predictions-odds-nfl-thanksgiving/)
 
 [NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -1676,7 +1734,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 25, 2026
 
-[![Image 42: James Cook](https://www.lineups.com/wp-content/uploads/2026/11/James-Cook-390x230.jpg)](https://www.lineups.com/articles/thanksgiving-touchdown-picks-luther-burden-iii-devonta-smith-james-cook-anytime-td-bets-nfl-week-12/)
+[![Image 52: James Cook](https://www.lineups.com/wp-content/uploads/2026/11/James-Cook-390x230.jpg)](https://www.lineups.com/articles/thanksgiving-touchdown-picks-luther-burden-iii-devonta-smith-james-cook-anytime-td-bets-nfl-week-12/)
 
 [NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -1686,7 +1744,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Frank Ammirante](https://www.lineups.com/author/frank-ammirante/)November 25, 2026
 
-[![Image 43: jahmyr gibbs](https://www.lineups.com/wp-content/uploads/2026/11/jahmyrgibbs-390x230.jpg)](https://www.lineups.com/articles/nfl-thanksgiving-day-dfs-picks-best-value-plays/)
+[![Image 53: jahmyr gibbs](https://www.lineups.com/wp-content/uploads/2026/11/jahmyrgibbs-390x230.jpg)](https://www.lineups.com/articles/nfl-thanksgiving-day-dfs-picks-best-value-plays/)
 
 [NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -1696,7 +1754,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Anthony Blanco](https://www.lineups.com/author/anthony-blanco/)November 25, 2026
 
-[![Image 44: Javonte Williams](https://www.lineups.com/wp-content/uploads/2026/11/Javonte-Williams-390x230.jpg)](https://www.lineups.com/articles/thanksgiving-day-player-props-colston-loveland-javonte-williams-and-josh-allen-best-bets-nfl-week-12/)
+[![Image 54: Javonte Williams](https://www.lineups.com/wp-content/uploads/2026/11/Javonte-Williams-390x230.jpg)](https://www.lineups.com/articles/thanksgiving-day-player-props-colston-loveland-javonte-williams-and-josh-allen-best-bets-nfl-week-12/)
 
 [NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 

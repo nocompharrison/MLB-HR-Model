@@ -1,4 +1,4 @@
-<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-26 18:05 ET -->
+<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-26 18:34 ET -->
 
 Title: NBA Injury Status - 2026-27 Season - ESPN
 
@@ -428,15 +428,39 @@ Sponsored Headlines
 
 [](https://www.ethos.com/life/easy-term-life)[Over 50? You May Be Surprised How Low Life Insurance Rates Are Policy Bull | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://www.ethos.com/life/easy-term-life "Over 50? You May Be Surprised How Low Life Insurance Rates Are")
 
+Undo
+
 [](https://related.trendingresults.net/topics/4331003/6738895)[New Small SUV for Elderly Leaves Others Behind - Take a Look!TrendingResults.net | Small SUVs | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://related.trendingresults.net/topics/4331003/6738895 "New Small SUV for Elderly Leaves Others Behind - Take a Look!")
+
+Undo
 
 [](https://toploanstoday.com/go/6acf79a3717188b8660cd4c0)[Don't Get a Heloc, Do This Instead Top Loans Today | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://toploanstoday.com/go/6acf79a3717188b8660cd4c0 "Don't Get a Heloc, Do This Instead")
 
+Undo
+
 [](https://getresparked.com/54db68e5-2217-45bd-a8d0-b1c5f5b59ea6)[Black Friday: The #1 Gift I Gave My Best Friend (She Loved it)Resparked | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://getresparked.com/54db68e5-2217-45bd-a8d0-b1c5f5b59ea6 "Black Friday: The #1 Gift I Gave My Best Friend (She Loved it)")
+
+Undo
 
 [](https://tracking.maggie-jewelry.com/cf/r/6af2f4f312ec2fe437b7c153)[North Charleston: Unsold Rings Are Almost Given Away [Closing Sale]Maggie Jewelry | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://tracking.maggie-jewelry.com/cf/r/6af2f4f312ec2fe437b7c153 "North Charleston: Unsold Rings Are Almost Given Away [Closing Sale]")
 
+Undo
+
 [](https://www.blinkist.com/magazine/posts/the-worlds-richest-person-follows-the-5-hour-rule-firstperson-tts-books-v1)[The First Trillionaire's Reading List: 5 Books He Says Everyone Should Know He follows the 5 Hour Rule: an hour of learning a day. This is the list he recommends, and there's a faster way to absorb every idea on it without clearing your calendar.Blinkist Magazine | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://www.blinkist.com/magazine/posts/the-worlds-richest-person-follows-the-5-hour-rule-firstperson-tts-books-v1 "The First Trillionaire's Reading List: 5 Books He Says Everyone Should Know")
+
+Undo
+
+[](https://trkv.plateful.co/9d69be7f-af0f-4c64-972f-c11863f9b1b1)[The 3 Materials US Officials Want Out of Kitchens for Thanksgiving Kitchen Story Time | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)](https://trkv.plateful.co/9d69be7f-af0f-4c64-972f-c11863f9b1b1 "The 3 Materials US Officials Want Out of Kitchens for Thanksgiving")
+
+Undo
+
+[](https://www.espn.com/nba/injuries)[Propane Adds Winter-Proof Comfort to Your Projects Build homes with efficient propane-powered heating, water heating, backup power, and more, and earn research compensation for qualifying projects.Propane Edu & Research Council | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://www.espn.com/nba/injuries "Propane Adds Winter-Proof Comfort to Your Projects")
+
+Undo
+
+[](https://www.blinkist.com/magazine/posts/warren-buffett-5-hour-rule-firstperson-tts)[Buffett's Real Edge Isn't Money. It's His 5-Hour Rule.He's spoken about it openly for decades. It costs nothing and requires no special talent. Yet almost nobody who hears about it actually does it.Blinkist Magazine | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)](https://www.blinkist.com/magazine/posts/warren-buffett-5-hour-rule-firstperson-tts "Buffett's Real Edge Isn't Money. It's His 5-Hour Rule.")
+
+Undo
 
 ### NBA News
 
@@ -452,7 +476,15 @@ Sponsored Headlines
 
 [](https://getresparked.com/54db68e5-2217-45bd-a8d0-b1c5f5b59ea6)[The #1 Gift I Ever Gave My Best Friend (You Won't Find It in Walmart)Resparked | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://getresparked.com/54db68e5-2217-45bd-a8d0-b1c5f5b59ea6 "The #1 Gift I Ever Gave My Best Friend (You Won't Find It in Walmart)")
 
+Undo
+
 [](https://www.espn.com/nba/injuries)[Winter-Proof Your Farm with Propane Earn up to $10,000 to protect your farm against cold weather with efficient propane equipment like building and water heaters, generators, and more.Propane Edu & Research Council | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://www.espn.com/nba/injuries "Winter-Proof Your Farm with Propane")
+
+Undo
+
+[](https://tracking.maggie-jewelry.com/cf/r/6afd86547343366960d66c54)[North Charleston: Unsold Flat Caps Are Almost Given Away [Closing Sale]Ashford & Sons | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://tracking.maggie-jewelry.com/cf/r/6afd86547343366960d66c54 "North Charleston: Unsold Flat Caps Are Almost Given Away [Closing Sale]")
+
+Undo
 
 ![Image 61: ESPN](https://a.espncdn.com/redesign/assets/img/logos/espn-404@2x.png)
 

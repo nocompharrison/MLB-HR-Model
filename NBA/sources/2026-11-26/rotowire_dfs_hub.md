@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-26 18:05 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-26 18:34 ET -->
 
 # NBA DFS Picks Today
 November 25, 2026
@@ -23,37 +23,37 @@ Stay on top of the most important news impacting today's slate with our live new
 Thursday, November 26 - Latest RotoWire player news for tonight's games
 All newsTop stories
 All NBA news
+MEM
+**[Isaiah Stewart](https://www.rotowire.com/basketball/player/isaiah-stewart-5137)** _C_ Q6:27 PM ET
+#### Dealing with hip soreness
+Stewart is questionable for Friday's game against the Timberwolves due to right hip soreness.
+Analysis
+Stewart could miss Friday's game, and if so, it'd be a huge blow for the Grizzlies since Zach Edey (ankle) is also questionable. If both players are out, Taylor Hendricks would be the next in line to see heavy minutes at center. Stewart is averaging 10.6 points, 3.3 rebounds and 0.9 assists per game this season.
+MEM
+**[Zach Edey](https://www.rotowire.com/basketball/player/zach-edey-6263)** _C_ Q _Top_ 6:24 PM ET
+#### Uncertain status for Friday
+Edey (ankle) is questionable for Friday's game against the Timberwolves.
+Analysis
+Edey didn't return to Wednesday's 115-97 win over the Clippers, finishing with seven points (3-4 FG, 1-1 FT), four rebounds, two assists and two blocks across nine minutes. Taylor Hendricks could be in line for a bigger role in the frontcourt Friday, as Isaiah Stewart (hip) is questionable as well.
+LAL
+**[Austin Reaves](https://www.rotowire.com/basketball/player/austin-reaves-5334)** _G_ Q _Top_ 6:21 PM ET
+#### Officially listed as questionable
+Reaves (heel) is questionable for Friday's game against the Spurs.
+Analysis
+Reaves practiced Wednesday, so he's trending in the right direction to face the Spurs, and a decision on his availability will likely come closer to Friday's 9:30 p.m. ET tipoff. Reaves has missed the last five games with a left heel contusion, so the Lakers have relied more on Quentin Grimes, Collin Sexton and Jake LaRavia for backcourt contributions alongside Luka Doncic.
+MIN
+**[LaMelo Ball](https://www.rotowire.com/basketball/player/lamelo-ball-5151)** _G_ Q _Top_ 6:14 PM ET
+#### Listed questionable vs. Memphis
+Ball (ankle) is questionable for Friday's game against the Grizzlies.
+Analysis
+Ball exited Wednesday's game against the Thunder and finished with 19 points (7-18 FG, 5-9 3Pt), seven rebounds, eight assists and one steal in 29 minutes. If he's unable to suit up Friday, Bones Hyland and Terrence Shannon would be in line to see more playing time in the backcourt. That would be a huge downgrade for a Minnesota team that's already missing two key backcourt pieces in Anthony Edwards (knee) and Donte DiVincenzo (Achilles).
 ATL
 **[Jock Landale](https://www.rotowire.com/basketball/player/jock-landale-4562)** _C_ OUT5:44 PM ET
 #### Absent once again
 Landale (hip) is out for Friday's game against the Celtics.
 Analysis
 Landale won't suit up Friday and this will be his fifth consecutive absence. His next chance to play will come against the Knicks on Sunday.
-IND
-**[Larry Nance](https://www.rotowire.com/basketball/player/larry-nance-3723)** _C_ Q5:43 PM ET
-#### Questionable to play Friday
-Nance (ankle) is questionable for Friday's game against the 76ers.
-Analysis
-Nance didn't return to Monday's game against the Thunder due to a sore right ankle, and it remains to be seen whether the big man will be able to suit up Friday. He shouldn't cause a massive impact in most fantasy lineups with his absence, as Nance is averaging just 4.2 points and 2.2 rebounds per game in 17 appearances off the bench this season.
-IND
-**[Aaron Nesmith](https://www.rotowire.com/basketball/player/aaron-nesmith-5120)** _F_ Q _Top_ 5:31 PM ET
-#### Could return Friday
-Nesmith (foot) is questionable for Friday's game against the 76ers.
-Analysis
-Nesmith didn't play Monday against the Thunder, but the questionable tag means he could be back in the rotation Friday. Nesmith has been the team's regular starter at the three when healthy, averaging 9.8 points, 3.8 rebounds and 2.7 assists per game across 10 appearances since the beginning of November.
-IND
-**[T.J. McConnell](https://www.rotowire.com/basketball/player/tj-mcconnell-3760)** _G_ Q5:29 PM ET
-#### Listed as questionable
-McConnell (hamstring) is questionable for Friday's game against the 76ers.
-Analysis
-McConnell has missed the Pacers' last two games due to left hamstring soreness, and the questionable tag suggests the veteran floor general could be an option Friday. He's not expected to have a big role in most fantasy lineups, though, as he's averaging just 7.0 points, 4.3 assists, and 2.3 rebounds per game in his seven outings off the bench this season.
-DET
-**[Duncan Robinson](https://www.rotowire.com/basketball/player/duncan-robinson-4470)** _F_ OUT _Top_ 5:26 PM ET
-#### Not playing Friday
-Robinson (quadriceps) is out for Friday's game against the Bucks.
-Analysis
-Robinson is carrying a day-to-day tag due to a left quadriceps strain, but the veteran sharpshooter is not ready to play yet and will miss a sixth consecutive game Friday. This means Kevin Huerter will likely continue seeing increased playing time for as long as Robinson is sidelined.
-Show 5 more (60 remaining)
+Show 5 more (64 remaining)
 Top = RotoWire's highest-priority updates. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details). Updates every 5 minutes.News: RotoWire
 ## **NBA Starting Lineups**
 Know who is expected to start, with salaries and projected points for Draftkings and Fanduel. Bookmark our [NBA starting lineups](https://www.rotowire.com/basketball/nba-lineups.php) page to turn on alerts and view the next day's lineups.
