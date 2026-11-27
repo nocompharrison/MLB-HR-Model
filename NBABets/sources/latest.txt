@@ -1,8 +1,8 @@
-# NBA betting sources | Fri 11/27/2026 | updated 2026-11-27 18:38 ET
+# NBA betting sources | Fri 11/27/2026 | updated 2026-11-27 18:52 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # STATUS  PATH  DETAIL  SOURCE-URL
 OK      NBABets/sources/2026-11-27/covers_top_picks.md       no changes since 2026-11-27 18:08  https://www.covers.com/nba/top-picks-nov-27-2026
 OK      NBABets/sources/2026-11-27/covers_ats_picks.md       no changes since 2026-11-27 18:08  https://www.covers.com/nba/against-the-spread-predictions-picks-nov-27-2026
-OK      NBABets/sources/2026-11-27/rotowire_bets.md          UPDATED (changed since 2026-11-27 18:08) 22,729 chars [today's 1 article(s)] https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-friday-nov-27-148578
-OK      NBABets/sources/2026-11-27/fanduel_research_bets.md  UPDATED (changed since 2026-11-27 18:08) 19,882 chars [today's 1 article(s)] https://www.fanduel.com/research/12-best-nba-bets-and-nba-player-props-today-for-friday-november-27-with-odds
-OK      NBABets/sources/2026-11-27/bettingpros_bets.md       UPDATED (changed since 2026-11-27 18:08) 179,767 chars [3 of 3 articles combined] https://www.bettingpros.com/articles/sports/nba/
+OK      NBABets/sources/2026-11-27/rotowire_bets.md          UPDATED (changed since 2026-11-27 18:38) 22,719 chars [today's 1 article(s)] https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-friday-nov-27-148578
+OK      NBABets/sources/2026-11-27/fanduel_research_bets.md  no changes since 2026-11-27 18:38  https://www.fanduel.com/research/12-best-nba-bets-and-nba-player-props-today-for-friday-november-27-with-odds
+OK      NBABets/sources/2026-11-27/bettingpros_bets.md       no changes since 2026-11-27 18:38  https://www.bettingpros.com/articles/sports/nba/

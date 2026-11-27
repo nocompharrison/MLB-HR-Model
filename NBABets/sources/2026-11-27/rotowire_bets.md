@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-friday-nov-27-148578 | fetched: 2026-11-27 18:38 ET -->
+<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-friday-nov-27-148578 | fetched: 2026-11-27 18:52 ET -->
 
 # Best NBA Bets Today: Player Props and Picks for Friday, Nov. 27
 Get the best NBA bets today, with expert player prop picks on assists + rebounds and blocks, plus odds from top sportsbooks and betting apps for Friday's Nov. 27 NBA slate.
@@ -127,11 +127,11 @@ Miami Heat
 Downgraded to out Friday
 NBA
 Minnesota Timberwolves
-  * ![Oklahoma City Thunder](https://assets.rotowire.com/images/teamlogo/basketball/100OKC.png?v=10)
-[Aday Mara](https://www.rotowire.com/basketball/player/aday-mara-6932)
-Another absence coming
+  * ![Philadelphia 76ers](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
+[Dean Wade](https://www.rotowire.com/basketball/player/dean-wade-4893)
+Not playing Friday
 NBA
-Oklahoma City Thunder
+Philadelphia 76ers
 
 
 [More NBA News](https://www.rotowire.com/basketball/news.php)
