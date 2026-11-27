@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-27 18:34 ET -->
+<!-- source: https://www.rotowire.com/basketball/nba-dfs-picks-today.php | fetched: 2026-11-27 18:49 ET -->
 
 # NBA DFS Picks Today
 November 27, 2026
@@ -23,6 +23,12 @@ Stay on top of the most important news impacting today's slate with our live new
 Friday, November 27 - Latest RotoWire player news for tonight's games
 All newsTop stories
 Teams playing today (22) All NBA news Atlanta Hawks (ATL @ BOS) Boston Celtics (ATL @ BOS) Brooklyn Nets (BKN @ TOR) Dallas Mavericks (DAL @ PHX) Denver Nuggets (DEN @ UTA) Detroit Pistons (MIL @ DET) Golden State Warriors (GSW @ POR) Indiana Pacers (PHI @ IND) Los Angeles Clippers (NOP @ LAC) Los Angeles Lakers (LAL @ SAN) Memphis Grizzlies (MEM @ MIN) Miami Heat (MIA @ NYK) Milwaukee Bucks (MIL @ DET) Minnesota Timberwolves (MEM @ MIN) New Orleans Pelicans (NOP @ LAC) New York Knicks (MIA @ NYK) Philadelphia 76ers (PHI @ IND) Phoenix Suns (DAL @ PHX) Portland Trail Blazers (GSW @ POR) San Antonio Spurs (LAL @ SAN) Toronto Raptors (BKN @ TOR) Utah Jazz (DEN @ UTA)
+Philadelphia 76ersPHI @ IND - 7:30 PM ET
+**[Dean Wade](https://www.rotowire.com/basketball/player/dean-wade-4893)** _F_ OUT _Top_ 6:31 PM ET
+#### Not playing Friday
+Wade (hamstring) is out for Friday's game against the Pacers, Austin Krell of Vertical 76 reports.
+Analysis
+Wade was added to the injury report earlier Friday due to injury management of a hamstring problem, and in the end, the forward has been ruled out. This poses a problem for the 76ers, as Jaylen Brown (hamstring) is out as well. Kentavious Caldwell-Pope could be in line for a bigger role because of the absences. Wade's next chance to play will come Saturday against the Rockets on the second leg of a back-to-back set.
 New York KnicksMIA @ NYK - 7:00 PM ET
 **[Karl-Anthony Towns](https://www.rotowire.com/basketball/player/karl-anthony-towns-3741)** _C_ _Top_ 6:27 PM ET
 #### Will play Friday
@@ -47,13 +53,7 @@ Indiana PacersPHI @ IND - 7:30 PM ET
 Oubre (hand) is available for Friday's game against the 76ers, per Alex Golden of SI.com.
 Analysis
 After entering the day with a questionable tag due to a right hand laceration, Oubre is set to suit up for Indiana. His availability keeps a key rotation forward in place Friday, and the veteran forward should be able to handle his typical workload.
-Indiana PacersPHI @ IND - 7:30 PM ET
-**[T.J. McConnell](https://www.rotowire.com/basketball/player/tj-mcconnell-3760)** _G_ OUT6:02 PM ET
-#### Ruled out Friday
-McConnell (hamstring) has been ruled out for Friday's game against the 76ers, Alex Golden of SI.com reports.
-Analysis
-McConnell will miss a third consecutive game Friday as he continues to manage a sore left hamstring. His next chance to return will come Saturday in the second leg of this back-to-back set; meanwhile, Quenton Jackson should continue to pick up additional minutes off the bench.
-Show 5 more (35 remaining)
+Show 5 more (36 remaining)
 Top = RotoWire's highest-priority updates. Injury tags: Q = Questionable, P = Probable, D = Doubtful, OUT = Out (hover for details). Updates every 5 minutes.News: RotoWire
 ## **NBA Starting Lineups**
 Know who is expected to start, with salaries and projected points for Draftkings and Fanduel. Bookmark our [NBA starting lineups](https://www.rotowire.com/basketball/nba-lineups.php) page to turn on alerts and view the next day's lineups.
@@ -63,9 +63,9 @@ DraftKings FanDuel
 Main Slate - 7 games - 7:00 PM Nov 28 - Main Slate - 5 games - 5:00 PM (lineups pending) Nov 28 - Main Slate - 3 games - 8:00 PM (lineups pending) Main Slate - 4 games - 9:30 PM Main Slate - 2 games - 8:00 PM Main Slate - 3 games - 7:30 PM Showdown - LAL @ SAS - 10:30 PM Nov 28 - Showdown - PHI @ HOU - 9:30 PM (lineups pending) Nov 28 - Showdown - BKN @ CHA - 6:00 PM (lineups pending) Showdown - DAL @ PHX - 9:00 PM Showdown - LAL @ SAS - 9:30 PM Showdown - MIA @ NYK - 7:00 PM Nov 28 - Showdown - ORL @ WSH - 5:00 PM (lineups pending) Nov 28 - Showdown - PHI @ HOU - 8:30 PM (lineups pending) Main Slate - 7 games - 7:00 PM Nov 28 - Main Slate - 5 games - 5:00 PM (lineups pending) All games (7) MIA @ NYK - 7:00 PM ET MIL @ DET - 7:30 PM ET PHI @ IND - 7:30 PM ET BKN @ TOR - 7:30 PM ET ATL @ BOS - 8:00 PM ET MEM @ MIN - 8:30 PM ET DAL @ PHX - 9:00 PM ET
 Implied total vs. the slate _Lowest_ _Highest_
 **MIA @ NYK**
-O/U 221.57:00 PM ET
-HeatExpectedAway
-_Implied_**109.5** _Spread_**+2.5**  
+O/U 222.57:00 PM ET
+HeatConfirmedAway
+_Implied_**109.5** _Spread_**+3.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Bam Adebayo  | $8,300  | 38.0  |  
@@ -73,8 +73,8 @@ _Implied_**109.5** _Spread_**+2.5**
 | PG  | Davion Mitchell  | $7,300  | 32.0  |  
 | SF  | Pelle Larsson  | $4,800  | 20.1  |  
 | SG  | Klay Thompson  | $5,100  | 21.3  |  
-KnicksExpectedHome
-_Implied_**112.0** _Spread_**-2.5**  
+KnicksConfirmedHome
+_Implied_**113.0** _Spread_**-3.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Karl-Anthony Towns  | $9,600  | 53.3  |  
@@ -143,9 +143,9 @@ _Implied_**114.0** _Spread_**-9.5**
 | SF  | Allen Graves  | $4,600  | 23.1  |  
 | SG  | Ja'Kobe Walter  | $5,900  | 29.0  |  
 **ATL @ BOS**
-O/U 223.58:00 PM ET
+O/U 224.58:00 PM ET
 HawksExpectedAway
-_Implied_**107.0** _Spread_**+9.5**  
+_Implied_**107.5** _Spread_**+9.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Onyeka Okongwu  | $6,800  | 34.1  |  
@@ -154,7 +154,7 @@ _Implied_**107.0** _Spread_**+9.5**
 | SF  | Dyson Daniels  | $7,100  | 35.0  |  
 | SG  | Nickeil Alexander-Walker  | $7,100  | 33.0  |  
 CelticsExpectedHome
-_Implied_**116.5** _Spread_**-9.5**  
+_Implied_**117.0** _Spread_**-9.5**  
 | Pos  | Player  | Salary  | Proj  |  
 | --- | --- | --- | --- |  
 | C  | Neemias Queta  | $5,500  | 29.8  |  

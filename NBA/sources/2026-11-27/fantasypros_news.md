@@ -1,4 +1,4 @@
-<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-27 18:34 ET -->
+<!-- source: https://www.fantasypros.com/nba/player-news.php | fetched: 2026-11-27 18:49 ET -->
 
 # Fantasy Basketball News
 ##  Latest Player Updates 
@@ -7,6 +7,34 @@
 All News Breaking News Rumors NBA Draft Game Recaps Injuries Transactions
 Teams Atlanta Hawks Boston Celtics Brooklyn Nets Charlotte Hornets Chicago Bulls Cleveland Cavaliers Dallas Mavericks Denver Nuggets Detroit Pistons Golden State Warriors Houston Rockets Indiana Pacers Los Angeles Clippers Los Angeles Lakers Memphis Grizzlies Miami Heat Milwaukee Bucks Minnesota Timberwolves New Orleans Pelicans New York Knicks Oklahoma City Thunder Orlando Magic Philadelphia 76ers Phoenix Suns Portland Trail Blazers Sacramento Kings San Antonio Spurs Toronto Raptors Utah Jazz Washington Wizards
 Positions Guards Forwards Centers
+[![Karl-Anthony Towns](https://images.fantasypros.com/images/players/nba/3012/headshot/100x100.png)](https://www.fantasypros.com/nba/players/karl-anthony-towns.php)
+C - NYK
+[» Rankings](https://www.fantasypros.com/nba/players/karl-anthony-towns.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/karl-anthony-towns.php)  
+[» More News](https://www.fantasypros.com/nba/news/karl-anthony-towns.php)
+[Karl-Anthony Towns (abdomen) off injury report Friday](https://www.fantasypros.com/nba/news/623032/karl-anthony-towns-abdomen-off-injury-report-friday.php)  
+
+Fri, Nov 27th 6:27pm EST  
+By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
+Karl-Anthony Towns (abdomen) is off of the injury report for Friday night’s contest between the New York Knicks and Miami Heat according to Ira Winderman. (Source: [Ira Winderman on Twitter](https://x.com/iraheatbeat/status/2126457068315939110?a=dXz-LDy_wSeiIC6cVHY&s=46))
+**_Fantasy Impact:_** Towns is good to go after clearing through pregame issues on the injured abdomen, boosting a New York lineup that will be without backup center Andre Drummond (head) against the Heat Friday night.
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
+[![Aday Mara](https://images.fantasypros.com/images/players/nba/6523/headshot/100x100.png)](https://www.fantasypros.com/nba/players/aday-mara.php)
+C - OKC
+[» Rankings](https://www.fantasypros.com/nba/players/aday-mara.php)  
+[» Stats](https://www.fantasypros.com/nba/stats/aday-mara.php)  
+[» More News](https://www.fantasypros.com/nba/news/aday-mara.php)
+[Aday Mara (shin) ruled out Saturday ](https://www.fantasypros.com/nba/news/623030/aday-mara-shin-ruled-out-saturday.php)  
+
+Fri, Nov 27th 6:22pm EST  
+By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
+Aday Mara has been ruled out for Saturday's game against the Bucks. 
+**_Fantasy Impact:_** Mara will miss a fourth straight game. Micah Peavy should continue to see some more run in his place. 
+Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
+**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
+* * *
 [![Alijah Martin](https://images.fantasypros.com/images/players/nba/6378/headshot/100x100.png)](https://www.fantasypros.com/nba/players/alijah-martin.php)
 G - TOR
 [» Rankings](https://www.fantasypros.com/nba/players/alijah-martin.php)  
@@ -256,34 +284,6 @@ Fri, Nov 27th 2:53pm EST
 By [Ari Koslow](https://www.fantasypros.com/news/correspondents/ari-koslow.php)
 Kyrie Irving is listed as questionable for Friday's game against the Suns. (Source: [NBA Injury Report](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-27_02_00PM.pdf))
 **_Fantasy Impact:_** Irving is continuing to manage a left knee injury. He'll need to be monitored closer to tip-off. 
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![Austin Reaves](https://images.fantasypros.com/images/players/nba/5342/headshot/100x100.png)](https://www.fantasypros.com/nba/players/austin-reaves.php)
-G - LAL
-[» Rankings](https://www.fantasypros.com/nba/players/austin-reaves.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/austin-reaves.php)  
-[» More News](https://www.fantasypros.com/nba/news/austin-reaves.php)
-[Austin Reaves (heel) returns to lineup Friday](https://www.fantasypros.com/nba/news/622921/austin-reaves-heel-returns-to-lineup-friday.php)  
-
-Fri, Nov 27th 2:20pm EST  
-By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
-Austin Reaves (heel) will return to the lineup for Friday night’s matchup between the Los Angeles Lakers and San Antonio Spurs according to Dave McMenamin. (Source: [Dave McMenamin on Twitter](https://x.com/mcten/status/2126394348933898647?a=O8sSIePQ0pVSZTcCqP4&s=46))
-**_Fantasy Impact:_** Reaves is back after missing multiple games with the heel contusion, boosting an explosive backcourt alongside superstar Luka Doncic while Quentin Grimes returns to a reserve role against the Spurs.
-Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
-**Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
-* * *
-[![OG Anunoby](https://images.fantasypros.com/images/players/nba/3325/headshot/100x100.png)](https://www.fantasypros.com/nba/players/og-anunoby.php)
-F - NYK
-[» Rankings](https://www.fantasypros.com/nba/players/og-anunoby.php)  
-[» Stats](https://www.fantasypros.com/nba/stats/og-anunoby.php)  
-[» More News](https://www.fantasypros.com/nba/news/og-anunoby.php)
-[OG Anunoby (calf) ruled out Friday](https://www.fantasypros.com/nba/news/622913/og-anunoby-calf-ruled-out-friday.php)  
-
-Fri, Nov 27th 2:07pm EST  
-By [Chris Schommer](https://www.fantasypros.com/news/correspondents/chris-schommer.php)
-OG Anunoby (calf) has been ruled out for Friday’s contest between the New York Knicks and Miami Heat according to Ira Winderman. (Source: [Ira Winderman on Twitter](https://x.com/iraheatbeat/status/2126387765017469372?a=xyVt6FpxSj1jIC_x6Oc&s=46))
-**_Fantasy Impact:_** Anunoby will remain sidelined for head coach Mike Brown, with Landry Shamet likely to remain in the starting five while Josh Hart sees increased usage in the frontcourt against the Heat Friday night.
 Category: [Injury Updates](https://www.fantasypros.com/nba/injury-news.php)
 **Was this helpful?**![thumbs up button](https://images.fantasypros.com/images/icons/fp-thumbs-up.png)![thumbs down button](https://images.fantasypros.com/images/icons/fp-thumbs-down.png)
 * * *

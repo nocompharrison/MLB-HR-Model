@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-27 18:34 ET -->
+<!-- source: https://www.rotowire.com/basketball/news.php | fetched: 2026-11-27 18:49 ET -->
 
 News Filters
 [All](https://www.rotowire.com/basketball/news.php?view=all) [Latest](https://www.rotowire.com/basketball/news.php) [Injuries](https://www.rotowire.com/basketball/news.php?view=injuries) [Top](https://www.rotowire.com/basketball/news.php?view=top) [ATL](https://www.rotowire.com/basketball/news.php?team=ATL) [BKN](https://www.rotowire.com/basketball/news.php?team=BKN) [BOS](https://www.rotowire.com/basketball/news.php?team=BOS) [CHA](https://www.rotowire.com/basketball/news.php?team=CHA) [CHI](https://www.rotowire.com/basketball/news.php?team=CHI) [CLE](https://www.rotowire.com/basketball/news.php?team=CLE) [DET](https://www.rotowire.com/basketball/news.php?team=DET) [IND](https://www.rotowire.com/basketball/news.php?team=IND) [MIA](https://www.rotowire.com/basketball/news.php?team=MIA) [MIL](https://www.rotowire.com/basketball/news.php?team=MIL) [NYK](https://www.rotowire.com/basketball/news.php?team=NYK) [ORL](https://www.rotowire.com/basketball/news.php?team=ORL) [PHI](https://www.rotowire.com/basketball/news.php?team=PHI) [TOR](https://www.rotowire.com/basketball/news.php?team=TOR) [WAS](https://www.rotowire.com/basketball/news.php?team=WAS)
@@ -12,6 +12,14 @@ Positions
 News Display Mode
 Compact 
 Expanded 
+![PHI](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
+[Dean Wade](https://www.rotowire.com/basketball/player/dean-wade-4893)[Not playing Friday](https://www.rotowire.com/basketball/headlines/dean-wade-injury-not-playing-friday-541187)
+**F** Philadelphia 76ers
+Hamstring
+November 27, 2026
+Wade (hamstring) is out for Friday's game against the Pacers, [Austin Krell of Vertical 76](https://x.com/NBAKrell/status/2126457870858301601) reports.
+**ANALYSIS**  
+[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 ![NYK](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
 [Karl-Anthony Towns](https://www.rotowire.com/basketball/player/karl-anthony-towns-3741)[Will play Friday](https://www.rotowire.com/basketball/headlines/karl-anthony-towns-news-will-play-friday-541186)
 **C** New York Knicks
@@ -196,14 +204,6 @@ Nance (ankle) is [probable](https://ak-static.cms.nba.com/referee/injury/Injury-
 **F** Philadelphia 76ers
 November 27, 2026
 Wade (hamstring) is [questionable](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-27_01_00PM.pdf) for Friday's game against Indiana.
-**ANALYSIS**  
-[Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
-![MIL](https://assets.rotowire.com/images/teamlogo/basketball/100MIL.png?v=10)
-[Kasparas Jakucionis](https://www.rotowire.com/basketball/player/kasparas-jakucionis-6557)[Ruled out Friday](https://www.rotowire.com/basketball/headlines/kasparas-jakucionis-injury-ruled-out-friday-541162)
-**G** Milwaukee Bucks
-Ankle
-November 27, 2026
-Jakucionis (ankle) [won't play](https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-27_12_45PM.pdf) Friday's game against the Pistons.
 **ANALYSIS**  
 [Subscribe now](https://www.rotowire.com/subscribe/) to instantly reveal our take on this news.
 [Get More News](https://www.rotowire.com/subscribe/)

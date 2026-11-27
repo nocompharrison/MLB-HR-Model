@@ -1,4 +1,4 @@
-<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-27 18:34 ET -->
+<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-27 18:49 ET -->
 
 Title: NBA Injury Status - 2026-27 Season - ESPN
 
@@ -385,6 +385,44 @@ Prime Video
 
 Data Provided by Rotowire
 
+Sponsored Headlines
+
+[](https://www.thedoctorschannel.com/article/pulsar-intravitreal-aflibercept-8-mg-in-namd)[PULSAR: Intravitreal Aflibercept 8 mg in nAMD – The Doctor's Channel The Doctor's Channel | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://www.thedoctorschannel.com/article/pulsar-intravitreal-aflibercept-8-mg-in-namd "PULSAR: Intravitreal Aflibercept 8 mg in nAMD – The Doctor's Channel")
+
+Undo
+
+[](https://www.thedoctorschannel.com/article/candela-aflibercept-8-mg-in-patients-with-namd)[CANDELA: Aflibercept 8 mg in Patients With nAMD – The Doctor's Channel The Doctor's Channel | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://www.thedoctorschannel.com/article/candela-aflibercept-8-mg-in-patients-with-namd "CANDELA: Aflibercept 8 mg in Patients With nAMD – The Doctor's Channel")
+
+Undo
+
+[](https://www.menshealth.com/weight-loss/a69595595/how-i-took-control-of-my-weight-loss-journey)[How I Took Control of My Weight Loss Journey | Paid Partnership with Novo Nordisk |Men's Health | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-04-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://www.menshealth.com/weight-loss/a69595595/how-i-took-control-of-my-weight-loss-journey "How I Took Control of My Weight Loss Journey | Paid Partnership with Novo Nordisk |")
+
+Undo
+
+[](https://www.beautyskinjournal.com/pages/im-62-strangers-think-im-42-ob-lng)[My Friend’s Dermatologist Shared This Korean Cream. Strangers Now Guess 40s Koriderm | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://www.beautyskinjournal.com/pages/im-62-strangers-think-im-42-ob-lng "My Friend’s Dermatologist Shared This Korean Cream. Strangers Now Guess 40s")
+
+Undo
+
+[](https://www.goodrx.com/ubrelvy)[Medication for Migraine Headaches GoodRx is NOT insurance GoodRx | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://www.goodrx.com/ubrelvy "Medication for Migraine Headaches")
+
+Undo
+
+[](https://trkv.plateful.co/9d69be7f-af0f-4c64-972f-c11863f9b1b1)[Toxic Cookware Is Being Banned - Here's The Safe Alternative A doctor threw out her non-stick pans, then spent six months failing to replace them. The answer came from a lab that can't risk contamination.Kitchen Story Time | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://trkv.plateful.co/9d69be7f-af0f-4c64-972f-c11863f9b1b1 "Toxic Cookware Is Being Banned - Here's The Safe Alternative")
+
+Undo
+
+[](https://ad.rejuvacare.com/5b96808e-b94d-4032-a46b-958da4a70195)[Why Your Rotator Cuff Won’t Heal (What Most Doctors Miss)Shoulder Relief News | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)](https://ad.rejuvacare.com/5b96808e-b94d-4032-a46b-958da4a70195 "Why Your Rotator Cuff Won’t Heal (What Most Doctors Miss)")
+
+Undo
+
+[](https://shw.selecthomewarranty.com/best-in-class-home-warranty-coverage)[Avoid $3000 Home Repairs, Plans Under $1 Per Day Select Home Warranty, appliance, and full-home plans, explore add-ons like roof leak coverage, and discover how simple claims can be. Get a free quote today. [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:) Get Quote](https://shw.selecthomewarranty.com/best-in-class-home-warranty-coverage "Avoid $3000 Home Repairs, Plans Under $1 Per Day")
+
+Undo
+
+[](https://www.ethos.com/life/easy-term-life)[Over 50? You May Be Surprised How Low Life Insurance Rates Are A newer online application process has lowered costs for many people in their 50s and 60s. Takes about 10 minutes to check your rate.Policy Bull | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)](https://www.ethos.com/life/easy-term-life "Over 50? You May Be Surprised How Low Life Insurance Rates Are")
+
+Undo
+
 ### NBA News
 
 [![Image 54: Wizards rookie Felix Okpara punches Rob Dillingham in G League tilt](https://a.espncdn.com/combiner/i?img=/photo/2026/1127/r1752248_600x400_3-2.jpg&w=220) ## Wizards rookie Felix Okpara punches Rob Dillingham in G League tilt Wizards two-way forward Felix Okpara threw a punch at Westchester Knicks guard Rob Dillingham, sparking a brief fight during a G League game Friday night. * 34m](https://www.espn.com/nba/story/_/id/50615568/wizards-rookie-okpara-punches-dillingham-g-league-tilt)
@@ -394,6 +432,20 @@ Data Provided by Rotowire
 [![Image 56: Timberwolves downgrade star LaMelo Ball to out with ankle sprain](https://a.espncdn.com/combiner/i?img=/photo/2026/1126/r1751519_600x400_3-2.jpg&w=220) ## Timberwolves downgrade star LaMelo Ball to out with ankle sprain The Minnesota Timberwolves downgraded star guard LaMelo Ball to out for Friday night's NBA Cup game vs. the Memphis Grizzlies due to a left ankle sprain. * 4h](https://www.espn.com/nba/story/_/id/50613102/timberwolves-downgrade-lamelo-ball-ankle-sprain)
 
 [All NBA News](https://www.espn.com/nba/)
+
+Sponsored Headlines
+
+[](https://trkv.plateful.co/9d69be7f-af0f-4c64-972f-c11863f9b1b1)[The 3 Materials US Officials Want Out of Kitchens for Thanksgiving Kitchen Story Time | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://trkv.plateful.co/9d69be7f-af0f-4c64-972f-c11863f9b1b1 "The 3 Materials US Officials Want Out of Kitchens for Thanksgiving")
+
+Undo
+
+[](https://ontimedirectmax.com/d4sxsek4n79gmiea2loq)[Men 45+: Consider This Modern 3-in-1 Chew (See If You Qualify)DirectMax | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://ontimedirectmax.com/d4sxsek4n79gmiea2loq "Men 45+: Consider This Modern 3-in-1 Chew (See If You Qualify)")
+
+Undo
+
+[](https://infisdrenintiodic.com/ed05f688-ecfa-43c5-a6fc-3613d3f70943)[The Gift My 72-Year-Old Mom Hasn't Taken Off in a Year Artisan Weekly | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:) Read More](https://infisdrenintiodic.com/ed05f688-ecfa-43c5-a6fc-3613d3f70943 "The Gift My 72-Year-Old Mom Hasn't Taken Off in a Year")
+
+Undo
 
 ![Image 57: ESPN](https://a.espncdn.com/redesign/assets/img/logos/espn-404@2x.png)
 
