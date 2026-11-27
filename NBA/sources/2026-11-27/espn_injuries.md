@@ -1,10 +1,8 @@
-<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-27 16:05 ET -->
+<!-- source: https://www.espn.com/nba/injuries | fetched: 2026-11-27 18:05 ET -->
 
 Title: NBA Injury Status - 2026-27 Season - ESPN
 
 URL Source: https://www.espn.com/nba/injuries
-
-Published Time: Wed, 18 Nov 2026 18:59:06 GMT
 
 Markdown Content:
 ![Image 1](blob:http://localhost/2ae4cf0a8557682a62e562fa2b78188e)
@@ -18,7 +16,7 @@ Skip to main content Skip to navigation
 *   ![Image 2](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/mia.png&w=32&h=32&scale=crop&cquality=40&location=origin)MIA  10-7  
 *   ![Image 3](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/ny.png&w=32&h=32&scale=crop&cquality=40&location=origin)NY  12-6  
 
-7:00 PM
+4:00 PM
 
 Prime Video
 
@@ -29,7 +27,7 @@ Prime Video
 *   ![Image 4](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/mil.png&w=32&h=32&scale=crop&cquality=40&location=origin)MIL  2-17  
 *   ![Image 5](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/det.png&w=32&h=32&scale=crop&cquality=40&location=origin)DET  11-6  
 
-7:30 PM
+4:30 PM
 
 [](https://www.espn.com/nba/game/_/gameId/401909328/76ers-pacers)
 
@@ -38,7 +36,7 @@ Prime Video
 *   ![Image 6](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/phi.png&w=32&h=32&scale=crop&cquality=40&location=origin)PHI  15-4  
 *   ![Image 7](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/ind.png&w=32&h=32&scale=crop&cquality=40&location=origin)IND  6-12  
 
-7:30 PM
+4:30 PM
 
 [](https://www.espn.com/nba/game/_/gameId/401909329/nets-raptors)
 
@@ -47,7 +45,7 @@ Prime Video
 *   ![Image 8](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/bkn.png&w=32&h=32&scale=crop&cquality=40&location=origin)BKN  4-13  
 *   ![Image 9](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/tor.png&w=32&h=32&scale=crop&cquality=40&location=origin)TOR  6-11  
 
-7:30 PM
+4:30 PM
 
 [](https://www.espn.com/nba/game/_/gameId/401909330/hawks-celtics)
 
@@ -56,7 +54,7 @@ Prime Video
 *   ![Image 10](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/atl.png&w=32&h=32&scale=crop&cquality=40&location=origin)ATL  11-6  
 *   ![Image 11](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/bos.png&w=32&h=32&scale=crop&cquality=40&location=origin)BOS  12-6  
 
-8:00 PM
+5:00 PM
 
 [](https://www.espn.com/nba/game/_/gameId/401909331/grizzlies-timberwolves)
 
@@ -65,7 +63,7 @@ Prime Video
 *   ![Image 12](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/mem.png&w=32&h=32&scale=crop&cquality=40&location=origin)MEM  14-5  
 *   ![Image 13](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/min.png&w=32&h=32&scale=crop&cquality=40&location=origin)MIN  14-5  
 
-8:30 PM
+5:30 PM
 
 [](https://www.espn.com/nba/game/_/gameId/401909332/mavericks-suns)
 
@@ -74,7 +72,7 @@ Prime Video
 *   ![Image 14](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/dal.png&w=32&h=32&scale=crop&cquality=40&location=origin)DAL  11-7  
 *   ![Image 15](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/phx.png&w=32&h=32&scale=crop&cquality=40&location=origin)PHX  9-8  
 
-9:00 PM
+6:00 PM
 
 [](https://www.espn.com/nba/game/_/gameId/401909333/lakers-spurs)
 
@@ -83,7 +81,7 @@ Prime Video
 *   ![Image 16](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/lal.png&w=32&h=32&scale=crop&cquality=40&location=origin)LAL  15-3  
 *   ![Image 17](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/sa.png&w=32&h=32&scale=crop&cquality=40&location=origin)SA  15-4  
 
-9:30 PM
+6:30 PM
 
 Prime Video
 
@@ -94,7 +92,7 @@ Prime Video
 *   ![Image 18](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/den.png&w=32&h=32&scale=crop&cquality=40&location=origin)DEN  10-6  
 *   ![Image 19](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/utah.png&w=32&h=32&scale=crop&cquality=40&location=origin)UTAH  3-16  
 
-9:30 PM
+6:30 PM
 
 [](https://www.espn.com/nba/game/_/gameId/401909335/pelicans-clippers)
 
@@ -103,7 +101,7 @@ Prime Video
 *   ![Image 20](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/no.png&w=32&h=32&scale=crop&cquality=40&location=origin)NO  5-14  
 *   ![Image 21](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/lac.png&w=32&h=32&scale=crop&cquality=40&location=origin)LAC  4-13  
 
-9:30 PM
+6:30 PM
 
 [](https://www.espn.com/nba/game/_/gameId/401909336/warriors-trail-blazers)
 
@@ -112,7 +110,7 @@ Prime Video
 *   ![Image 22](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/gs.png&w=32&h=32&scale=crop&cquality=40&location=origin)GS  10-8  
 *   ![Image 23](https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/por.png&w=32&h=32&scale=crop&cquality=40&location=origin)POR  12-6  
 
-9:30 PM
+6:30 PM
 
 [Full Scoreboard »](https://www.espn.com/nba/scoreboard)
 
@@ -310,6 +308,8 @@ Prime Video
 
 | NAME | POS | EST. RETURN DATE | STATUS | COMMENT |
 | --- | --- | --- | --- | --- |
+| [Kevin Porter Jr.](https://www.espn.com/nba/player/_/id/4397140/kevin-porter-jr) | G | Nov 29 | Out | Nov 27: Porter won't play Saturday against the Wizards as he's still in the process of getting up to speed on his conditioning. |
+| [Anthony Black](https://www.espn.com/nba/player/_/id/4712849/anthony-black) | G | Nov 28 | Day-To-Day | Nov 27: Black (back) is questionable for Saturday's game against the Wizards. |
 | [Colin Castleton](https://www.espn.com/nba/player/_/id/4397204/colin-castleton) | C | Nov 27 | Day-To-Day | Nov 26: Castleton totaled five points (2-4 FG, 1-1 3Pt) and four rebounds in seven minutes during Tuesday's 132-116 preseason win over the Cavaliers. |
 | [Jonathan Isaac](https://www.espn.com/nba/player/_/id/4065654/jonathan-isaac) | F | Nov 29 | Out | Nov 21: Isaac (knee) is out for Sunday's game against the Wizards. |
 | [Izaiyah Nelson](https://www.espn.com/nba/player/_/id/5107251/izaiyah-nelson) | F | Nov 29 | Out | Nov 18: Head coach Sean Sweeney said Wednesday that Nelson (ankle) has been doing "some on-court stuff," though Sweeney added that the work has been "minimal," Jason Beede of the Orlando Sentinel reports. |
@@ -387,15 +387,71 @@ Prime Video
 
 Data Provided by Rotowire
 
+You May Like
+
+[](https://vitalspringsportal.com/vital-springs-report)[Seniors With the Sharpest Memories Share These 3 Breakfast Secrets (See The List)Cognitive Wellness Support | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://vitalspringsportal.com/vital-springs-report "Seniors With the Sharpest Memories Share These 3 Breakfast Secrets (See The List)")
+
+Undo
+
+[](https://tracking.smartestlifestyletrends.com/756c184a-746e-4a2c-a4e5-473f66fff2e3)[Oregon Drivers Holding A License for 20+ Years Did Not See This Coming Insure.com | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://tracking.smartestlifestyletrends.com/756c184a-746e-4a2c-a4e5-473f66fff2e3 "Oregon Drivers Holding A License for 20+ Years Did Not See This Coming")
+
+Undo
+
+[](https://getresparked.com/54db68e5-2217-45bd-a8d0-b1c5f5b59ea6)[Walmart Sold Out: Get The #1 DIY Gift Before Black Friday Resparked | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%201:) Learn More](https://getresparked.com/54db68e5-2217-45bd-a8d0-b1c5f5b59ea6 "Walmart Sold Out: Get The #1 DIY Gift Before Black Friday")
+
+Undo
+
+[](https://nowhealthdaily.com/)[The 3 Words the Sharpest 80-Year-Olds Say Every Morning (See Which Ones)Times Today 60+ | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)](https://nowhealthdaily.com/ "The 3 Words the Sharpest 80-Year-Olds Say Every Morning (See Which Ones)")
+
+Undo
+
+[](https://www.noorh.co/hhf-dht-a-pt01-tb)[Thin Hair No More: This One Daily Vitamin Is Blowing Up Online Top Austin Hairstylist | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://www.noorh.co/hhf-dht-a-pt01-tb "Thin Hair No More: This One Daily Vitamin Is Blowing Up Online")
+
+Undo
+
+[](https://ad.rejuvacare.com/5b96808e-b94d-4032-a46b-958da4a70195)[Your Shoulder Pain May Never Go Away Unless You Do This One Thing Shoulder Relief News | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)](https://ad.rejuvacare.com/5b96808e-b94d-4032-a46b-958da4a70195 "Your Shoulder Pain May Never Go Away Unless You Do This One Thing")
+
+Undo
+
+[](https://www.ethos.com/life/easy-term-life)[Over 50? You May Be Surprised How Low Life Insurance Rates Are Ethos Life Insurance | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)](https://www.ethos.com/life/easy-term-life "Over 50? You May Be Surprised How Low Life Insurance Rates Are")
+
+Undo
+
+[](https://my.practicalhealthadvice.com/83976211-b530-4547-9e81-2b8c78f00d70)[Fighting Nеuropathy? This New Device Is Leaving Doctors Amazed!RejuvaFlow | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-b-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%203:)](https://my.practicalhealthadvice.com/83976211-b530-4547-9e81-2b8c78f00d70 "Fighting Nеuropathy? This New Device Is Leaving Doctors Amazed!")
+
+Undo
+
+[](https://giftst.neatforless.com/)[23 Must-Have Gadgets That Are Selling Out This Month (Perfect Gifts)Neat For Less | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%204:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%204:)](https://giftst.neatforless.com/ "23 Must-Have Gadgets That Are Selling Out This Month (Perfect Gifts)")
+
+Undo
+
+[](https://www.noorh.co/hhf-dht-a-pt01-tb)[Thin Hair Improved: This One Daily Vitamin Is Blowing Up Online Top Austin Hairstylist | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%204:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01-a-delta:below%20content%20-%20dead%20end%20-%20nba%20|%20Card%204:) Learn More](https://www.noorh.co/hhf-dht-a-pt01-tb "Thin Hair Improved: This One Daily Vitamin Is Blowing Up Online")
+
+Undo
+
 ### NBA News
 
-[![Image 54: Lakers' Austin Reaves available vs. Spurs after missing 5 games with heel bruise](https://a.espncdn.com/combiner/i?img=/photo/2026/1111/r1744439_600x400_3-2.jpg&w=220) ## Lakers' Austin Reaves available vs. Spurs after missing 5 games with heel bruise Lakers guard Austin Reaves is available to play in Friday night's NBA Cup matchup against the Spurs after missing the past five games with a heel bruise. * 36m * Dave McMenamin](https://www.espn.com/nba/story/_/id/50613364/lakers-reaves-available-missing-5-games-heel-bruise)
+[![Image 54: Lakers' Austin Reaves available vs. Spurs after missing 5 games with heel bruise](https://a.espncdn.com/combiner/i?img=/photo/2026/1111/r1744439_600x400_3-2.jpg&w=220) ## Lakers' Austin Reaves available vs. Spurs after missing 5 games with heel bruise Lakers guard Austin Reaves is available to play in Friday night's NBA Cup matchup against the Spurs after missing the past five games with a heel bruise. * 2h * Dave McMenamin](https://www.espn.com/nba/story/_/id/50613364/lakers-reaves-available-missing-5-games-heel-bruise)
 
-[![Image 55: Timberwolves downgrade star LaMelo Ball to out with ankle sprain](https://a.espncdn.com/combiner/i?img=/photo/2026/1126/r1751519_600x400_3-2.jpg&w=220) ## Timberwolves downgrade star LaMelo Ball to out with ankle sprain The Minnesota Timberwolves downgraded star guard LaMelo Ball to out for Friday night's NBA Cup game vs. the Memphis Grizzlies due to a left ankle sprain. * 2h](https://www.espn.com/nba/story/_/id/50613102/timberwolves-downgrade-lamelo-ball-ankle-sprain)
+[![Image 55: Timberwolves downgrade star LaMelo Ball to out with ankle sprain](https://a.espncdn.com/combiner/i?img=/photo/2026/1126/r1751519_600x400_3-2.jpg&w=220) ## Timberwolves downgrade star LaMelo Ball to out with ankle sprain The Minnesota Timberwolves downgraded star guard LaMelo Ball to out for Friday night's NBA Cup game vs. the Memphis Grizzlies due to a left ankle sprain. * 3h](https://www.espn.com/nba/story/_/id/50613102/timberwolves-downgrade-lamelo-ball-ankle-sprain)
 
-[![Image 56: Fantasy adds, NBA bets to make for Friday: Day'Ron Sharpe filling the box score](https://a.espncdn.com/combiner/i?img=/photo/2026/1127/r1752108_1296x729_16-9.jpg&w=220) ## Fantasy adds, NBA bets to make for Friday: Day'Ron Sharpe filling the box score Andre Snellings breaks down Friday's NBA slate, highlighting the fantasy streamers to add and bets to make. * 3h * Andre Snellings](https://www.espn.com/fantasy/basketball/story/_/id/50612457/fantasy-basketball-tips-nba-betting-picks-today)
+[![Image 56: Fantasy adds, NBA bets to make for Friday: Day'Ron Sharpe filling the box score](https://a.espncdn.com/combiner/i?img=/photo/2026/1127/r1752108_1296x729_16-9.jpg&w=220) ## Fantasy adds, NBA bets to make for Friday: Day'Ron Sharpe filling the box score Andre Snellings breaks down Friday's NBA slate, highlighting the fantasy streamers to add and bets to make. * 4h * Andre Snellings](https://www.espn.com/fantasy/basketball/story/_/id/50612457/fantasy-basketball-tips-nba-betting-picks-today)
 
 [All NBA News](https://www.espn.com/nba/)
+
+Sponsored Headlines
+
+[](https://giftst.gadgetedit.com/)[Best Christmas Gift: Here Are 23+ Of The Coolest Gifts For 2026 Gadget Edit | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%201:)](https://giftst.gadgetedit.com/ "Best Christmas Gift: Here Are 23+ Of The Coolest Gifts For 2026")
+
+Undo
+
+[](https://trkv.plateful.co/9d69be7f-af0f-4c64-972f-c11863f9b1b1)[Cook Thanksgiving 2026 Without The Toxins Oregon Officials Are Targeting Kitchen Story Time | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%202:) Learn More](https://trkv.plateful.co/9d69be7f-af0f-4c64-972f-c11863f9b1b1 "Cook Thanksgiving 2026 Without The Toxins Oregon Officials Are Targeting")
+
+Undo
+
+[](https://toploanstoday.com/go/6acf79a3717188b8660cd4c0)[No Monthly Payments - The New Way To Tap Home Equity - Way Easier Than HELOC Top Loans Today | [Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:)[Sponsored](https://popup.taboola.com/en/?template=colorbox&utm_source=espnnetwork-espn&utm_medium=referral&utm_content=thumbs-feed-01:right%20rail%20-%20dead%20end%20-%20nba%20|%20Card%203:) Learn More](https://toploanstoday.com/go/6acf79a3717188b8660cd4c0 "No Monthly Payments - The New Way To Tap Home Equity - Way Easier Than HELOC")
+
+Undo
 
 ![Image 57: ESPN](https://a.espncdn.com/redesign/assets/img/logos/espn-404@2x.png)
 

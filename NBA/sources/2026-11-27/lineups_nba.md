@@ -1,4 +1,4 @@
-<!-- source: https://www.lineups.com/nba-articles/ | fetched: 2026-11-27 16:05 ET -->
+<!-- source: https://www.lineups.com/nba-articles/ | fetched: 2026-11-27 18:05 ET -->
 
 
 ---
@@ -1516,6 +1516,18 @@ Let’s dive into three player props that catch our eye for Monday’s action. B
 
 ### **Scottie Barnes (Raptors vs. Bucks) Over Points**
 
+[](https://www.lineups.com/)
+
+![Image 32](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10220.png)Scottie Barnes
+
+[![Image 33: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661948/underdog_sc)[O/U Points Scored (vs. BRK)](https://lineups.go.metabet.io/bet/nba_game_player_points/661948/underdog_sc)[25.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661948/underdog_sc)
+
+[![Image 34: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661948/underdog_sc)[O/U Total Rebounds (vs. BRK)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661948/underdog_sc)[6.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661948/underdog_sc)
+
+[![Image 35: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661948/polymarket_sc)[O/U Total Assists (vs. BRK)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661948/polymarket_sc)[5.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661948/polymarket_sc)
+
+[![Image 36](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/scottie_barnes/player_147548 "Powered by MetaBet")[](https://www.metabet.io/odds)
+
 Barnes is putting together a career-best season that includes a career-best average of 24.3 points, a figure over four points a game better than his prior high-water mark of 19.9 points in the 2023-24 season. The highly versatile forward is shooting a crisp 49.5% as well, and Barnes boasts a massive, team-high 34.1% usage rate and average of 30.8 points per 36 minutes with RJ Barrett (hamstring), who’ll remain sidelined Monday, off the floor.
 
 Barnes has recorded at least 20 points in nine of 10 games this season, a sample where he’s shot 52.8%. The opposing Bucks have been highly targetable all season for Overs, and they’re surrendering an Eastern Conference-high 30.9 offensive efficiency rating to power forwards. Milwaukee is also conceding 51.4% shooting in the last three games, and the eighth-most made three-pointers per road game (15.0) on the season.
@@ -1525,6 +1537,18 @@ Given Barnes’ current usage and his track record against the 19.5, this prop i
 **Original Line Publish:** 19.5
 
 ### **James Harden (Cavaliers vs. Bulls) Over Points + Assists**
+
+[](https://www.lineups.com/)
+
+![Image 37](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10192.png)James Harden
+
+[![Image 38: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp/11801/kalshi_sc)[To Win MVP](https://lineups.go.metabet.io/bet/nba_mvp/11801/kalshi_sc)[1¢](https://lineups.go.metabet.io/bet/nba_mvp/11801/kalshi_sc)
+
+[![Image 39: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp_in_season_tournament/11801/kalshi_sc)[To Win NBA Cup MVP](https://lineups.go.metabet.io/bet/nba_mvp_in_season_tournament/11801/kalshi_sc)[2¢](https://lineups.go.metabet.io/bet/nba_mvp_in_season_tournament/11801/kalshi_sc)
+
+[![Image 40: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_mvp_finals/11801/kalshi_sc)[To Win Finals MVP](https://lineups.go.metabet.io/bet/nba_mvp_finals/11801/kalshi_sc)[1¢](https://lineups.go.metabet.io/bet/nba_mvp_finals/11801/kalshi_sc)
+
+[![Image 41](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/james_harden/player_11801 "Powered by MetaBet")[](https://www.metabet.io/odds)
 
 Harden has admittedly been a tough player to figure out this season, with the most recent evidence of such coming with his vintage 51-point outburst over 40 minutes against the Pacers on Friday. Harden does have 20- and 32-point tallies in two other November games as well, however, and despite a forgettable 3-for-10 showing from the field in his first meeting with the Bulls three games ago, he still mustered 19 points + assists.
 
@@ -1572,27 +1596,27 @@ _Photo Credit: REUTERS_
 
 ## Latest Betting News
 
-[![Image 32: Mason Rudolph](https://www.lineups.com/wp-content/uploads/2026/11/Rudolph-150x150.jpg)](https://www.lineups.com/articles/brocnos-steelers-dfs-picks-best-value-plays-nfl-week-12/)
+[![Image 42: Mason Rudolph](https://www.lineups.com/wp-content/uploads/2026/11/Rudolph-150x150.jpg)](https://www.lineups.com/articles/brocnos-steelers-dfs-picks-best-value-plays-nfl-week-12/)
 
 [](https://www.lineups.com/articles/brocnos-steelers-dfs-picks-best-value-plays-nfl-week-12/)
 #### [](https://www.lineups.com/articles/brocnos-steelers-dfs-picks-best-value-plays-nfl-week-12/)[Broncos-Steelers DFS Picks: Best Value Plays, NFL Week 12](https://www.lineups.com/articles/brocnos-steelers-dfs-picks-best-value-plays-nfl-week-12/)
 
-[![Image 33: Jonah Coleman](https://www.lineups.com/wp-content/uploads/2026/11/JonahColeman-150x150.jpg)](https://www.lineups.com/articles/broncos-steelers-picks-predictions-odds-black-friday-game/)
+[![Image 43: Jonah Coleman](https://www.lineups.com/wp-content/uploads/2026/11/JonahColeman-150x150.jpg)](https://www.lineups.com/articles/broncos-steelers-picks-predictions-odds-black-friday-game/)
 
 [](https://www.lineups.com/articles/broncos-steelers-picks-predictions-odds-black-friday-game/)
 #### [](https://www.lineups.com/articles/broncos-steelers-picks-predictions-odds-black-friday-game/)[Broncos-Steelers Picks, Predictions & Odds: Black Friday Game](https://www.lineups.com/articles/broncos-steelers-picks-predictions-odds-black-friday-game/)
 
-[![Image 34: Jaylen Warren](https://www.lineups.com/wp-content/uploads/2026/11/JaylenWarren-150x150.jpg)](https://www.lineups.com/articles/broncos-steelers-touchdown-picks-jonah-coleman-jaylen-warren-anytime-td-bets-nfl-week-12/)
+[![Image 44: Jaylen Warren](https://www.lineups.com/wp-content/uploads/2026/11/JaylenWarren-150x150.jpg)](https://www.lineups.com/articles/broncos-steelers-touchdown-picks-jonah-coleman-jaylen-warren-anytime-td-bets-nfl-week-12/)
 
 [](https://www.lineups.com/articles/broncos-steelers-touchdown-picks-jonah-coleman-jaylen-warren-anytime-td-bets-nfl-week-12/)
 #### [](https://www.lineups.com/articles/broncos-steelers-touchdown-picks-jonah-coleman-jaylen-warren-anytime-td-bets-nfl-week-12/)[Broncos-Steelers Touchdown Picks: Jonah Coleman & Jaylen Warren Anytime TD Bets, NFL Week 12](https://www.lineups.com/articles/broncos-steelers-touchdown-picks-jonah-coleman-jaylen-warren-anytime-td-bets-nfl-week-12/)
 
-[![Image 35: Bo Nix, Broncos](https://www.lineups.com/wp-content/uploads/2026/11/Bo-Nix-Broncos-150x150.jpg)](https://www.lineups.com/articles/broncos-steelers-player-props-michael-pittman-bo-nix-and-pat-freiermuth-best-bets-nfl-week-12/)
+[![Image 45: Bo Nix, Broncos](https://www.lineups.com/wp-content/uploads/2026/11/Bo-Nix-Broncos-150x150.jpg)](https://www.lineups.com/articles/broncos-steelers-player-props-michael-pittman-bo-nix-and-pat-freiermuth-best-bets-nfl-week-12/)
 
 [](https://www.lineups.com/articles/broncos-steelers-player-props-michael-pittman-bo-nix-and-pat-freiermuth-best-bets-nfl-week-12/)
 #### [](https://www.lineups.com/articles/broncos-steelers-player-props-michael-pittman-bo-nix-and-pat-freiermuth-best-bets-nfl-week-12/)[Broncos-Steelers Player Props: Michael Pittman, Bo Nix and Pat Freiermuth Best Bets, NFL Week 12](https://www.lineups.com/articles/broncos-steelers-player-props-michael-pittman-bo-nix-and-pat-freiermuth-best-bets-nfl-week-12/)
 
-[![Image 36: Maple Leafs](https://www.lineups.com/wp-content/uploads/2026/10/MapleLeafs-150x150.jpg)](https://www.lineups.com/articles/maple-leafs-ml-tracker-betting-to-win-100-every-game/)
+[![Image 46: Maple Leafs](https://www.lineups.com/wp-content/uploads/2026/10/MapleLeafs-150x150.jpg)](https://www.lineups.com/articles/maple-leafs-ml-tracker-betting-to-win-100-every-game/)
 
 [](https://www.lineups.com/articles/maple-leafs-ml-tracker-betting-to-win-100-every-game/)
 #### [](https://www.lineups.com/articles/maple-leafs-ml-tracker-betting-to-win-100-every-game/)[Maple Leafs ML Tracker: Betting to Win $100 Every Game](https://www.lineups.com/articles/maple-leafs-ml-tracker-betting-to-win-100-every-game/)
@@ -1603,7 +1627,7 @@ About the Author
 
 [Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)
 
-[![Image 37: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/jcblanco22)[![Image 38: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:jcblanco1071@gmail.com)
+[![Image 47: twitter icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/twitter.svg)](https://twitter.com/jcblanco22)[![Image 48: email icon](https://www.lineups.com/wp-content/themes/catena-unicorn/assets/img/social-icons/author-bio/email.svg)](mailto:jcblanco1071@gmail.com)
 
 Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports and sports betting. His work includes picks, industry news, analysis and profiles of people in both spaces. His articles have appeared on leading sports, fantasy sports and [sports betting sites](https://www.lineups.com/sports-betting/), including RotoWire, RotoBaller, The Game Day, TheLines, Legal Sports Report, CBS Sports, Yahoo Sports, NBA.com, Pro Football and Sports Network and Forbes. Juan Carlos has covered the NFL, NBA, MLB, CFL, USFL, XFL, UFL and BIG3 Basketball.
 
@@ -1618,7 +1642,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
  Related Stories 
 
-[![Image 39: Mason Rudolph](https://www.lineups.com/wp-content/uploads/2026/11/Rudolph-390x230.jpg)](https://www.lineups.com/articles/brocnos-steelers-dfs-picks-best-value-plays-nfl-week-12/)
+[![Image 49: Mason Rudolph](https://www.lineups.com/wp-content/uploads/2026/11/Rudolph-390x230.jpg)](https://www.lineups.com/articles/brocnos-steelers-dfs-picks-best-value-plays-nfl-week-12/)
 
 [NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -1628,7 +1652,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Anthony Blanco](https://www.lineups.com/author/anthony-blanco/)November 26, 2026
 
-[![Image 40: Jonah Coleman](https://www.lineups.com/wp-content/uploads/2026/11/JonahColeman-390x230.jpg)](https://www.lineups.com/articles/broncos-steelers-picks-predictions-odds-black-friday-game/)
+[![Image 50: Jonah Coleman](https://www.lineups.com/wp-content/uploads/2026/11/JonahColeman-390x230.jpg)](https://www.lineups.com/articles/broncos-steelers-picks-predictions-odds-black-friday-game/)
 
 [NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -1638,7 +1662,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 26, 2026
 
-[![Image 41: Jaylen Warren](https://www.lineups.com/wp-content/uploads/2026/11/JaylenWarren-390x230.jpg)](https://www.lineups.com/articles/broncos-steelers-touchdown-picks-jonah-coleman-jaylen-warren-anytime-td-bets-nfl-week-12/)
+[![Image 51: Jaylen Warren](https://www.lineups.com/wp-content/uploads/2026/11/JaylenWarren-390x230.jpg)](https://www.lineups.com/articles/broncos-steelers-touchdown-picks-jonah-coleman-jaylen-warren-anytime-td-bets-nfl-week-12/)
 
 [NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -1648,7 +1672,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Frank Ammirante](https://www.lineups.com/author/frank-ammirante/)November 26, 2026
 
-[![Image 42: Bo Nix, Broncos](https://www.lineups.com/wp-content/uploads/2026/11/Bo-Nix-Broncos-390x230.jpg)](https://www.lineups.com/articles/broncos-steelers-player-props-michael-pittman-bo-nix-and-pat-freiermuth-best-bets-nfl-week-12/)
+[![Image 52: Bo Nix, Broncos](https://www.lineups.com/wp-content/uploads/2026/11/Bo-Nix-Broncos-390x230.jpg)](https://www.lineups.com/articles/broncos-steelers-player-props-michael-pittman-bo-nix-and-pat-freiermuth-best-bets-nfl-week-12/)
 
 [NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -1658,7 +1682,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Juan Carlos Blanco](https://www.lineups.com/author/juan-carlos-blanco/)November 26, 2026
 
-[![Image 43: Patrick Mahomes](https://www.lineups.com/wp-content/uploads/2026/11/Mahomes-390x230.jpg)](https://www.lineups.com/articles/chiefs-bills-picks-predictions-odds-nfl-thanksgiving/)
+[![Image 53: Patrick Mahomes](https://www.lineups.com/wp-content/uploads/2026/11/Mahomes-390x230.jpg)](https://www.lineups.com/articles/chiefs-bills-picks-predictions-odds-nfl-thanksgiving/)
 
 [NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -1668,7 +1692,7 @@ Juan Carlos Blanco has spent **more than a decade** writing about fantasy sports
 
 [Thom Cunningham](https://www.lineups.com/author/thom-cunningham/)November 25, 2026
 
-[![Image 44: Saquon Barkley](https://www.lineups.com/wp-content/uploads/2026/11/Saquon-Barkley-390x230.jpg)](https://www.lineups.com/articles/eagles-cowboys-picks-predictions-odds-nfl-thanksgiving/)
+[![Image 54: Saquon Barkley](https://www.lineups.com/wp-content/uploads/2026/11/Saquon-Barkley-390x230.jpg)](https://www.lineups.com/articles/eagles-cowboys-picks-predictions-odds-nfl-thanksgiving/)
 
 [NFL Articles](https://www.lineups.com/nfl-articles/)[Sports Betting News, Odds Analysis, Picks & Predictions](https://www.lineups.com/articles/)
 
@@ -2116,11 +2140,11 @@ Let’s dive into three player props that catch our eye for Sunday’s action. B
 
 ![Image 32](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10195.png)Jamal Murray
 
-[![Image 33: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661953/underdog_sc)[O/U Points Scored (@ UTA)](https://lineups.go.metabet.io/bet/nba_game_player_points/661953/underdog_sc)[19.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661953/underdog_sc)
+[![Image 33: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661953/underdog_sc)[O/U Points Scored (@ UTA)](https://lineups.go.metabet.io/bet/nba_game_player_points/661953/underdog_sc)[22.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661953/underdog_sc)
 
-[![Image 34: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661953/polymarket_sc)[O/U Total Rebounds (@ UTA)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661953/polymarket_sc)[3.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661953/polymarket_sc)
+[![Image 34: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661953/kalshi_sc)[O/U Total Rebounds (@ UTA)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661953/kalshi_sc)[3.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661953/kalshi_sc)
 
-[![Image 35: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661953/polymarket_sc)[O/U Total Assists (@ UTA)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661953/polymarket_sc)[5.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661953/polymarket_sc)
+[![Image 35: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661953/kalshi_sc)[O/U Total Assists (@ UTA)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661953/kalshi_sc)[5.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661953/kalshi_sc)
 
 [![Image 36](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/jamal_murray/player_56172 "Powered by MetaBet")[](https://www.metabet.io/odds)
 
@@ -2128,11 +2152,11 @@ Let’s dive into three player props that catch our eye for Sunday’s action. B
 
 ![Image 37](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10195.png)Jamal Murray
 
-[![Image 38: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661953/underdog_sc)[O/U Points Scored (@ UTA)](https://lineups.go.metabet.io/bet/nba_game_player_points/661953/underdog_sc)[19.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661953/underdog_sc)
+[![Image 38: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661953/underdog_sc)[O/U Points Scored (@ UTA)](https://lineups.go.metabet.io/bet/nba_game_player_points/661953/underdog_sc)[22.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661953/underdog_sc)
 
-[![Image 39: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661953/polymarket_sc)[O/U Total Rebounds (@ UTA)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661953/polymarket_sc)[3.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661953/polymarket_sc)
+[![Image 39: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661953/kalshi_sc)[O/U Total Rebounds (@ UTA)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661953/kalshi_sc)[3.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661953/kalshi_sc)
 
-[![Image 40: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661953/polymarket_sc)[O/U Total Assists (@ UTA)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661953/polymarket_sc)[5.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661953/polymarket_sc)
+[![Image 40: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661953/kalshi_sc)[O/U Total Assists (@ UTA)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661953/kalshi_sc)[5.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661953/kalshi_sc)
 
 [![Image 41](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/jamal_murray/player_56172 "Powered by MetaBet")[](https://www.metabet.io/odds)
 

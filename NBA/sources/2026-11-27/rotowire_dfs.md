@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-friday-nov-27-148578 | fetched: 2026-11-27 16:05 ET -->
+<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-friday-nov-27-148578 | fetched: 2026-11-27 18:05 ET -->
 
 # Best NBA Bets Today: Player Props and Picks for Friday, Nov. 27
 Get the best NBA bets today, with expert player prop picks on assists + rebounds and blocks, plus odds from top sportsbooks and betting apps for Friday's Nov. 27 NBA slate.
@@ -51,67 +51,77 @@ Join the RotoWire Discord group to hear from our experts and other NBA fans.
 [ Join Our Discord ](https://www.rotowire.com/users/discord.php)
 ### Top News
 All MLB NBA NFL NHL
-  * ![Las Vegas Raiders](https://assets.rotowire.com/images/teamlogo/football/LV.svg?v=12)
-[Brock Bowers](https://www.rotowire.com/football/player/brock-bowers-17693)
-Questionable for Sunday night game
-NFL
-Las Vegas Raiders
-  * ![Cincinnati Bengals](https://assets.rotowire.com/images/teamlogo/football/CIN.svg?v=12)
-[Tee Higgins](https://www.rotowire.com/football/player/tee-higgins-14506)
-Deemed Questionable after Friday 'DNP'
-NFL
-Cincinnati Bengals
-  * ![Minnesota Timberwolves](https://assets.rotowire.com/images/teamlogo/basketball/100MIN.png?v=10)
-[LaMelo Ball](https://www.rotowire.com/basketball/player/lamelo-ball-5151)
-Downgraded to out Friday
+  * ![Miami Heat](https://assets.rotowire.com/images/teamlogo/basketball/100MIA.png?v=10)
+[Giannis Antetokounmpo](https://www.rotowire.com/basketball/player/giannis-antetokounmpo-3456)
+Will play Friday
 NBA
-Minnesota Timberwolves
-  * ![New England Patriots](https://assets.rotowire.com/images/teamlogo/football/NE.svg?v=12)
-[A.J. Brown](https://www.rotowire.com/football/player/aj-brown-13432)
-Ruled out for Sunday's game
+Miami Heat
+  * ![San Francisco 49ers](https://assets.rotowire.com/images/teamlogo/football/SF.svg?v=12)
+[Brock Purdy](https://www.rotowire.com/football/player/brock-purdy-15834)
+Won't play in Week 12
 NFL
-New England Patriots
-  * ![Chicago Bears](https://assets.rotowire.com/images/teamlogo/football/CHI.svg?v=12)
-[Colston Loveland](https://www.rotowire.com/football/player/colston-loveland-18460)
-Week-to-week with second opinion pending
+San Francisco 49ers
+  * ![Los Angeles Chargers](https://assets.rotowire.com/images/teamlogo/football/LAC.svg?v=12)
+[Justin Herbert](https://www.rotowire.com/football/player/justin-herbert-14446)
+Ruled out for Sunday's game versus New England
 NFL
-Chicago Bears
+Los Angeles Chargers
+  * ![Seattle Seahawks](https://assets.rotowire.com/images/teamlogo/football/SEA.svg?v=12)
+[Jaxon Smith-Njigba](https://www.rotowire.com/football/player/jaxon-smith-njigba-16654)
+Set to play Sunday
+NFL
+Seattle Seahawks
+  * ![Toronto Blue Jays](https://assets.rotowire.com/images/teamlogo/baseball/100TOR.png?v=8)
+[Jazz Chisholm](https://www.rotowire.com/baseball/player/jazz-chisholm-14550)
+Agrees to terms with Toronto
+MLB
+Toronto Blue Jays
 
 
 [NFL](https://www.rotowire.com/football/news.php)[NBA](https://www.rotowire.com/basketball/news.php)[MLB](https://www.rotowire.com/baseball/news.php)[NHL](https://www.rotowire.com/hockey/news.php)
+  * ![Toronto Blue Jays](https://assets.rotowire.com/images/teamlogo/baseball/100TOR.png?v=8)
+[Jazz Chisholm](https://www.rotowire.com/baseball/player/jazz-chisholm-14550)
+Agrees to terms with Toronto
+MLB
+Toronto Blue Jays
   * ![Arizona Diamondbacks](https://assets.rotowire.com/images/teamlogo/baseball/100ARI.png?v=8)
 [Henry Davis](https://www.rotowire.com/baseball/player/henry-davis-17301)
 Shipped to Arizona in trade
 MLB
 Arizona Diamondbacks
-  * ![Pittsburgh Pirates](https://assets.rotowire.com/images/teamlogo/baseball/100PIT.png?v=8)
-[Tim Tawa](https://www.rotowire.com/baseball/player/tim-tawa-17828)
-Dealt to Pirates
+  * ![Detroit Tigers](https://assets.rotowire.com/images/teamlogo/baseball/100DET.png?v=8)
+[Tsung-Che Cheng](https://www.rotowire.com/baseball/player/tsung-che-cheng-17676)
+Loses 40-man spot
 MLB
-Pittsburgh Pirates
-  * ![Kansas City Royals](https://assets.rotowire.com/images/teamlogo/baseball/100KC.png?v=8)
-[Mitch Spence](https://www.rotowire.com/baseball/player/mitch-spence-19200)
-Removed from 40-man roster
+Detroit Tigers
+  * ![Detroit Tigers](https://assets.rotowire.com/images/teamlogo/baseball/100DET.png?v=8)
+[Beau Brieske](https://www.rotowire.com/baseball/player/beau-brieske-17745)
+Designated for assignment
 MLB
-Kansas City Royals
-  * ![Boston Red Sox](https://assets.rotowire.com/images/teamlogo/baseball/100BOS.png?v=8)
-[Triston Casas](https://www.rotowire.com/baseball/player/triston-casas-15418)
-Added to winter ball roster
+Detroit Tigers
+  * ![Arizona Diamondbacks](https://assets.rotowire.com/images/teamlogo/baseball/100ARI.png?v=8)
+[Kona Takahashi](https://www.rotowire.com/baseball/player/kona-takahashi-19184)
+Signs one-year deal with Arizona
 MLB
-Boston Red Sox
-  * ![Toronto Blue Jays](https://assets.rotowire.com/images/teamlogo/baseball/100TOR.png?v=8)
-[Rhylan Thomas](https://www.rotowire.com/baseball/player/rhylan-thomas-19328)
-Re-ups with Blue Jays
-MLB
-Toronto Blue Jays
+Arizona Diamondbacks
 
 
 [More MLB News](https://www.rotowire.com/baseball/news.php)
+  * ![Miami Heat](https://assets.rotowire.com/images/teamlogo/basketball/100MIA.png?v=10)
+[Giannis Antetokounmpo](https://www.rotowire.com/basketball/player/giannis-antetokounmpo-3456)
+Will play Friday
+NBA
+Miami Heat
   * ![Minnesota Timberwolves](https://assets.rotowire.com/images/teamlogo/basketball/100MIN.png?v=10)
 [LaMelo Ball](https://www.rotowire.com/basketball/player/lamelo-ball-5151)
 Downgraded to out Friday
 NBA
 Minnesota Timberwolves
+  * ![Orlando Magic](https://assets.rotowire.com/images/teamlogo/basketball/100ORL.png?v=10)
+[Anthony Black](https://www.rotowire.com/basketball/player/anthony-black-5910)
+Iffy for Saturday
+NBA
+Orlando Magic
   * ![Los Angeles Lakers](https://assets.rotowire.com/images/teamlogo/basketball/100LAL.png?v=10)
 [Austin Reaves](https://www.rotowire.com/basketball/player/austin-reaves-5334)
 Will play Friday
@@ -122,47 +132,42 @@ Los Angeles Lakers
 Questionable with knee management
 NBA
 Dallas Mavericks
-  * ![San Antonio Spurs](https://assets.rotowire.com/images/teamlogo/basketball/100SAS.png?v=10)
-[Dylan Harper](https://www.rotowire.com/basketball/player/dylan-harper-6549)
-Goes through shootaround
-NBA
-San Antonio Spurs
-  * ![Portland Trail Blazers](https://assets.rotowire.com/images/teamlogo/basketball/100POR.png?v=10)
-[Damian Lillard](https://www.rotowire.com/basketball/player/damian-lillard-3304)
-Ruled out with calf soreness
-NBA
-Portland Trail Blazers
 
 
 [More NBA News](https://www.rotowire.com/basketball/news.php)
-  * ![Las Vegas Raiders](https://assets.rotowire.com/images/teamlogo/football/LV.svg?v=12)
-[Brock Bowers](https://www.rotowire.com/football/player/brock-bowers-17693)
-Questionable for Sunday night game
+  * ![San Francisco 49ers](https://assets.rotowire.com/images/teamlogo/football/SF.svg?v=12)
+[Brock Purdy](https://www.rotowire.com/football/player/brock-purdy-15834)
+Won't play in Week 12
 NFL
-Las Vegas Raiders
-  * ![Cincinnati Bengals](https://assets.rotowire.com/images/teamlogo/football/CIN.svg?v=12)
-[Tee Higgins](https://www.rotowire.com/football/player/tee-higgins-14506)
-Deemed Questionable after Friday 'DNP'
+San Francisco 49ers
+  * ![Los Angeles Chargers](https://assets.rotowire.com/images/teamlogo/football/LAC.svg?v=12)
+[Justin Herbert](https://www.rotowire.com/football/player/justin-herbert-14446)
+Ruled out for Sunday's game versus New England
 NFL
-Cincinnati Bengals
-  * ![New England Patriots](https://assets.rotowire.com/images/teamlogo/football/NE.svg?v=12)
-[A.J. Brown](https://www.rotowire.com/football/player/aj-brown-13432)
-Ruled out for Sunday's game
+Los Angeles Chargers
+  * ![Seattle Seahawks](https://assets.rotowire.com/images/teamlogo/football/SEA.svg?v=12)
+[Jaxon Smith-Njigba](https://www.rotowire.com/football/player/jaxon-smith-njigba-16654)
+Set to play Sunday
 NFL
-New England Patriots
-  * ![Chicago Bears](https://assets.rotowire.com/images/teamlogo/football/CHI.svg?v=12)
-[Colston Loveland](https://www.rotowire.com/football/player/colston-loveland-18460)
-Week-to-week with second opinion pending
+Seattle Seahawks
+  * ![Houston Texans](https://assets.rotowire.com/images/teamlogo/football/HOU.svg?v=12)
+[Woody Marks](https://www.rotowire.com/football/player/woody-marks-18449)
+Doesn't carry Week 12 injury designation
 NFL
-Chicago Bears
+Houston Texans
   * ![Jacksonville Jaguars](https://assets.rotowire.com/images/teamlogo/football/JAX.svg?v=12)
-[Parker Washington](https://www.rotowire.com/football/player/parker-washington-16690)
-Out vs. Titans, considered week-to-week
+[Bhayshul Tuten](https://www.rotowire.com/football/player/bhayshul-tuten-18524)
+Ruled out for Sunday
 NFL
 Jacksonville Jaguars
 
 
 [More NFL News](https://www.rotowire.com/football/news.php)
+  * ![Colorado Avalanche](https://assets.rotowire.com/images/teamlogo/hockey/100COL.png?v=5)
+[Martin Necas](https://www.rotowire.com/hockey/player/martin-necas-5412)
+Late scratch Friday
+NHL
+Colorado Avalanche
   * ![Boston Bruins](https://assets.rotowire.com/images/teamlogo/hockey/100BOS.png?v=5)
 [David Pastrnak](https://www.rotowire.com/hockey/player/david-pastrnak-4405)
 Suffers lower-body injury
@@ -178,16 +183,11 @@ Anaheim Ducks
 Ready to rock
 NHL
 Toronto Maple Leafs
-  * ![Vegas Golden Knights](https://assets.rotowire.com/images/teamlogo/hockey/100VGK.png?v=5)
-[Carter Hart](https://www.rotowire.com/hockey/player/carter-hart-5156)
-Expected to start Friday
+  * ![Chicago BlackHawks](https://assets.rotowire.com/images/teamlogo/hockey/100CHI.png?v=5)
+[Spencer Knight](https://www.rotowire.com/hockey/player/spencer-knight-6003)
+Starting against Rangers
 NHL
-Vegas Golden Knights
-  * ![Los Angeles Kings](https://assets.rotowire.com/images/teamlogo/hockey/100LAK.png?v=5)
-[Darcy Kuemper](https://www.rotowire.com/hockey/player/darcy-kuemper-3739)
-Guarding road goal
-NHL
-Los Angeles Kings
+Chicago BlackHawks
 
 
 [More NHL News](https://www.rotowire.com/hockey/news.php)
