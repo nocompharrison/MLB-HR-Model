@@ -1,32 +1,32 @@
 0,PLAYER,SALARY,PROJ,POS,PG,SG,SF,PF,PG/SG,SG/SF,SF/PF,PF/C,C,Team,,,,,Total,,Max,Min,,All (Exclude?),Count,,Locks?,Skip Google Sheet,Today's Schedule
-0,Giannis Antetokounmpo,11600,52.2,PF,,46165,,0,,,,,,MIA,,Salary,Score,Players,PG,1,2,2,,ATL,1,,,,Miami Heat vs New York Knicks 7:00p
-1,Jayson Tatum,9900,46.53,PF/SF,,,,,,,1,,,BOS,,60000,332.60999999999996,24442,SG,46165,2,2,,BKN,0,,,,Milwaukee Bucks vs Detroit Pistons 7:30p
-0,Scottie Barnes,9500,47.38,PF,,,,0,,,,,,TOR,,,,,SF,1,2,2,,BOS,3,3,,,Philadelphia 76ers vs Indiana Pacers 7:30p
-1,Karl-Anthony Towns,9800,0,C,,,,,,,,,1,NY,,60000,,9,PF,1,2,2,,CHA,0,3,,,Brooklyn Nets vs Toronto Raptors 7:30p
-0,Jalen Johnson,9700,43.07,PF,,,,0,,,,,,ATL,,,,,C,4,1,1,,CHI,0,46167,,,Atlanta Hawks vs Boston Celtics 8:00p
-0,Cooper Flagg,9600,44.44,SF/PF,,,,,,,0,,,DAL,,,,,PG/SG,1,4,2,,CLE,0,46166,,,Memphis Grizzlies vs Minnesota Timberwolves 8:30p
-0,Joel Embiid,9000,0,C,,,,,,,,,0,PHI,,,,,SG/SF,46166,4,1,,DAL,0,2,,,Dallas Mavericks vs Phoenix Suns 9:00p
-0,Ayo Dosunmu,6100,33.92,SG/PG,,,,,0,,,,,MIN,,,,,SF/PF,3,4,1,,DEN,0,5,,,New Orleans Pelicans vs Los Angeles Clippers 9:30p
-0,LeBron James,8100,39.69,PF,,,,0,,,,,,PHI,,,,,PF/C,4,3,1,,DET,1,46166,,,Golden State Warriors vs Portland Trail Blazers 9:30p
-1,Bam Adebayo,8600,37.84,C,,,,,,,,,1,MIA,,,,,Total,46174,46166,,,GSW,0,2,,,Los Angeles Lakers vs San Antonio Spurs 9:30p
-0,Jalen Brunson,8200,41,PG,0,,,,,,,,,NY,Optimal Lineup - RotoBaller,Pos,Salary,Projection,11/25/26 6:43 PM,,,,,HOU,0,,,,Denver Nuggets vs Utah Jazz 9:30p
-1,Ausar Thompson,7800,38.04,SF/SG,,,,,,1,,,,DET,Jalen Brunson,PG,8200,41.82,,,,,,IND,0,,,,
-1,Paul George,7500,32.25,SF,,,1,,,,,,,BOS,Ty Jerome,SG,7300,43.8,,,,,,LAC,0,,,,
-0,Devin Booker,8300,39.84,PG,0,,,,,,,,,PHO,Kevin Durant,SF,7100,40.47,,,,,,LAL,0,,,,
-0,Immanuel Quickley,6400,32,PG,0,,,,,,,,,TOR,Isaiah Hartenstein,PF,6500,35.75,,,,,,MEM,0,,,,
-0,Pascal Siakam,7400,37.74,PF,,,,0,,,,,,IND,Karl-Anthony Towns,C,9400,47.94,,,,,,MIA,1,,,,
-0,Julius Randle,6900,33.81,PF,,,,0,,,,,,BKN,LaMelo Ball,G/F,7300,38.69,,,,,,MIL,0,,,,
-1,Tyrese Maxey,8400,40.32,PG,1,,,,,,,,,PHI,Day'Ron Sharpe,F/C,5400,29.86,,,,,,MIN,0,,,,
-0,Daniss Jenkins,5400,38.6,PG/SG,,,,,0,,,,,DET,Tre Jones,UTIL,4600,28.52,,,,,,NO,0,,,,
-0,Day'Ron Sharpe,5600,31.16,C,,,,,,,,,0,BKN,Mikel Brown,UTIL,4200,25.76,,,,,,NY,1,,,,
-0,Dyson Daniels,7400,33.49,SF/SG,,,,,,0,,,,ATL,Total,,60000,332.60999999999996,,,,,,OKC,0,,,,
-0,Ty Jerome,7200,41.76,PG/SG,,,,,0,,,,,MEM,,,,,,,,,,ORL,0,,,,
-0,Kyrie Irving,7700,0,PG,0,,,,,,,,,DAL,,,,,,,,,,PHI,1,,,,
-0,Jaden McDaniels,7200,32.4,PF,,,,0,,,,,,MIN,,,,,,,,,,PHO,1,,,,
+1,Giannis Antetokounmpo,11600,52.2,PF,,46165,,1,,,,,,MIA,,Salary,Score,Players,PG,1,2,2,,ATL,0,,,,Miami Heat vs New York Knicks 7:00p
+0,Jayson Tatum,9900,46.53,PF/SF,,,,,,,0,,,BOS,,60000,351.24,24442,SG,46165,2,2,,BKN,0,,,,Milwaukee Bucks vs Detroit Pistons 7:30p
+1,Scottie Barnes,9500,47.38,PF,,,,1,,,,,,TOR,,,,,SF,0,2,2,,BOS,0,2,,,Philadelphia 76ers vs Indiana Pacers 7:30p
+0,Karl-Anthony Towns,9800,0,C,,,,,,,,,0,NY,,60000,,9,PF,3,2,2,,CHA,0,4,,,Brooklyn Nets vs Toronto Raptors 7:30p
+0,Jalen Johnson,9700,43.07,PF,,,,0,,,,,,ATL,,,,,C,1,1,1,,CHI,0,46169,,,Atlanta Hawks vs Boston Celtics 8:00p
+0,Cooper Flagg,9600,44.44,SF/PF,,,,,,,0,,,DAL,,,,,PG/SG,3,4,2,,CLE,0,46168,,,Memphis Grizzlies vs Minnesota Timberwolves 8:30p
+0,Joel Embiid,9000,0,C,,,,,,,,,0,PHI,,,,,SG/SF,46166,4,1,,DAL,0,1,,,Dallas Mavericks vs Phoenix Suns 9:00p
+0,Ayo Dosunmu,6100,33.92,SG/PG,,,,,0,,,,,MIN,,,,,SF/PF,4,4,1,,DEN,0,4,,,New Orleans Pelicans vs Los Angeles Clippers 9:30p
+0,LeBron James,8100,39.69,PF,,,,0,,,,,,PHI,,,,,PF/C,1,3,1,,DET,2,46168,,,Golden State Warriors vs Portland Trail Blazers 9:30p
+0,Bam Adebayo,8600,37.84,C,,,,,,,,,0,MIA,,,,,Total,46174,46168,,,GSW,0,4,,,Los Angeles Lakers vs San Antonio Spurs 9:30p
+0,Jalen Brunson,8200,41,PG,0,,,,,,,,,NY,Optimal Lineup - RotoBaller,Pos,Salary,Projection,11/27/26 6:27 PM,,,,,HOU,0,,,,Denver Nuggets vs Utah Jazz 9:30p
+0,Ausar Thompson,7800,38.04,SF/SG,,,,,,0,,,,DET,Ty Jerome,PG,7200,41.76,,,,,,IND,1,,,,
+0,Paul George,7500,32.25,SF,,,0,,,,,,,BOS,Daniss Jenkins,SG,5400,38.6,,,,,,LAC,0,,,,
+0,Devin Booker,8300,39.84,PG,0,,,,,,,,,PHO,Josh Hart,SF,5200,33.28,,,,,,LAL,0,,,,
+0,Immanuel Quickley,6400,32,PG,0,,,,,,,,,TOR,Giannis Antetokounmpo,PF,11600,52.2,,,,,,MEM,1,,,,
+1,Pascal Siakam,7400,37.74,PF,,,,1,,,,,,IND,Paul Reed,C,5600,47.04,,,,,,MIA,1,,,,
+0,Julius Randle,6900,33.81,PF,,,,0,,,,,,BKN,Pascal Siakam,G/F,7400,37.74,,,,,,MIL,0,,,,
+0,Tyrese Maxey,8400,40.32,PG,0,,,,,,,,,PHI,Scottie Barnes,F/C,9500,47.38,,,,,,MIN,1,,,,
+1,Daniss Jenkins,5400,38.6,PG/SG,,,,,1,,,,,DET,Mikal Bridges,UTIL,4200,26.46,,,,,,NO,0,,,,
+0,Day'Ron Sharpe,5600,31.16,C,,,,,,,,,0,BKN,Bones Hyland,UTIL,3900,26.78,,,,,,NY,2,,,,
+0,Dyson Daniels,7400,33.49,SF/SG,,,,,,0,,,,ATL,Total,,60000,351.24,,,,,,OKC,0,,,,
+1,Ty Jerome,7200,41.76,PG/SG,,,,,1,,,,,MEM,,,,,,,,,,ORL,0,,,,
+0,Kyrie Irving,7700,0,PG,0,,,,,,,,,DAL,,,,,,,,,,PHI,0,,,,
+0,Jaden McDaniels,7200,32.4,PF,,,,0,,,,,,MIN,,,,,,,,,,PHO,0,,,,
 0,Tyler Herro,7300,32.120000000000005,SG/PG,,,,,0,,,,,MIL,,,,,,,,,,POR,0,,,,
-0,Josh Hart,5200,33.28,SF/PF,,,,,,,0,,,NY,,,,,,,,,,SAC,0,,,,
+1,Josh Hart,5200,33.28,SF/PF,,,,,,,1,,,NY,,,,,,,,,,SAC,0,,,,
 0,Nickeil Alexander-Walker,6600,34.32,SG/PG,,,,,0,,,,,ATL,,,,,,,,,,SA,0,,,,
-0,Michael Porter,6300,32.26,SF,,,0,,,,,,,BKN,,,,,,,,,,TOR,0,,,,
+0,Michael Porter,6300,32.26,SF,,,0,,,,,,,BKN,,,,,,,,,,TOR,1,,,,
 0,Cedric Coward,7000,32.34,SG/SF,,,,,,0,,,,MEM,,,,,,,,,,UTA,0,,,,
 0,Andrew Nembhard,5900,31.47,SG/PG,,,,,0,,,,,IND,,,,,,,,,,WAS,0,,,,
 0,Davion Mitchell,7000,32.05,PG,0,,,,,,,,,MIA,,,,,,,,,,,9,,,,
@@ -36,14 +36,14 @@
 0,Dillon Brooks,5100,27.54,SF,,,0,,,,,,,PHO,,,,,,,,,,,,,,,
 0,Derrick White,5300,27.56,PG/SG,,,,,0,,,,,BOS,,,,,,,,,,,,,,,
 0,Ivica Zubac,6100,28.059999999999995,C,,,,,,,,,0,IND,,,,,,,,,,,,,,,
-0,Paul Reed,5600,47.04,C,,,,,,,,,0,DET,,,,,,,,,,,,,,,
-0,Bones Hyland,3900,26.78,PG,0,,,,,,,,,MIN,,,,,,,,,,,,,,,
-1,Onyeka Okongwu,6500,34.45,C,,,,,,,,,1,ATL,Last Data Scrape: 11/27/2026 6:23:33 PM,,,,,,,,,,,,,,
-1,Neemias Queta,5300,28.44,C,,,,,,,,,1,BOS,,,,,,,,,,,,,,,
+1,Paul Reed,5600,47.04,C,,,,,,,,,1,DET,,,,,,,,,,,,,,,
+1,Bones Hyland,3900,26.78,PG,1,,,,,,,,,MIN,,,,,,,,,,,,,,,
+0,Onyeka Okongwu,6500,34.45,C,,,,,,,,,0,ATL,Last Data Scrape: 11/27/2026 6:23:33 PM,,,,,,,,,,,,,,
+0,Neemias Queta,5300,28.44,C,,,,,,,,,0,BOS,,,,,,,,,,,,,,,
 0,Ja'Kobe Walter,4900,27.57,SG/SF,,,,,,0,,,,TOR,,,,,,,,,,,,,,,
-1,Miles Bridges,6600,31.68,PF,,,,1,,,,,,PHO,,,,,,,,,,,,,,,
+0,Miles Bridges,6600,31.68,PF,,,,0,,,,,,PHO,,,,,,,,,,,,,,,
 0,Kyle Kuzma,4600,20.7,SF/PF,,,,,,,0,,,MIL,,,,,,,,,,,,,,,
-0,Mikal Bridges,4200,26.46,SF/SG,,,,,,0,,,,NY,,,,,,,,,,,,,,,
+1,Mikal Bridges,4200,26.46,SF/SG,,,,,,1,,,,NY,,,,,,,,,,,,,,,
 0,Rudy Gobert,5500,30.25,C,,,,,,,,,0,MIN,,,,,,,,,,,,,,,
 0,Jalen Green,5200,28.4,SG,,0,,,,,,,,PHO,,,,,,,,,,,,,,,
 0,Isaiah Joe,3800,18.24,SG,,0,,,,,,,,DET,,,,,,,,,,,,,,,
