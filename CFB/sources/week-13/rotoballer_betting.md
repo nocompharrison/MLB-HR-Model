@@ -1,4 +1,4 @@
-<!-- source: https://www.rotoballer.com/rotoballer-challenge-homepage | fetched: 2026-11-26 20:05 ET -->
+<!-- source: https://www.rotoballer.com/rotoballer-challenge-homepage | fetched: 2026-11-27 11:39 ET -->
 
 Title: RotoBaller Challenge Homepage
 
@@ -15,7 +15,7 @@ Markdown Content:
 
 [Logout](https://www.rotoballer.com/wp-login.php?action=logout)[My Account](https://www.rotoballer.com/my-account)[Upgrade](https://www.rotoballer.com/upgrade-premium-account?pa=upgrade)
 
-[👉 TAP TO SAVE 50% WITH CODE **CHAMP**](https://www.rotoballer.com/nfl-fantasy-football-cheat-sheet-draft-kit?pa=topNFL26pre#table)
+[🦃 BLACK FRIDAY - SAVE 50% WITH CODE **THANKS**](https://www.rotoballer.com/all-premium-access-nfl-mlb-nba-nhl?pa=big4#table)
 
 *   [PREMIUM](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services "PREMIUM SUBSCRIPTIONS")
 *   [FANTASY SPORTS](https://www.rotoballer.com/rotoballer-challenge-homepage#)
@@ -959,7 +959,7 @@ Markdown Content:
         *   [Vintage Basketball](https://www.ebay.com/sch/i.html?_nkw=vintage+basketball+cards&_sacat=212&_from=R40&_trksid=p2334524.m570.l1313&_odkw=vintage+football+cards&_osacat=212&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339136655&customid=&toolid=10001&mkevt=1)
         *   [Vintage Hockey](https://www.ebay.com/sch/i.html?_nkw=vintage+hockey+cards&_sacat=212&_from=R40&_trksid=p2334524.m570.l1313&_odkw=vintage+basketball+cards&_osacat=212&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339136655&customid=&toolid=10001&mkevt=1)
 
-[👋 **WELCOME VIP!** CLICK HERE TO ACCESS PREMIUM TOOLS OR CHANGE SUBSCRIPTION](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services?pa=top)[👉 CLICK TO SAVE 50 % OFF ANY PREMIUM PACKAGE WITH CODE **CHAMP**](https://www.rotoballer.com/nfl-fantasy-football-cheat-sheet-draft-kit?pa=topNFL26pre#table)
+[👋 **WELCOME VIP!** CLICK HERE TO ACCESS PREMIUM TOOLS OR CHANGE SUBSCRIPTION](https://www.rotoballer.com/premium-fantasy-sports-subscriber-services?pa=top)[🦃 BLACK FRIDAY - SAVE 50% WITH CODE **THANKS**](https://www.rotoballer.com/all-premium-access-nfl-mlb-nba-nhl?pa=big4#table)
 
 ![Image 5](https://www.rotoballer.com/wp-content/uploads/teamlogos/rotoballer_logo_nfl_white_transparent.png)[X](https://www.rotoballer.com/rotoballer-challenge-homepage)
 
@@ -1648,7 +1648,7 @@ Need help?
 
 [![Image 39](https://www.rotoballer.com/wp-content/uploads/2026/03/lightning-01.svg)News](https://www.rotoballer.com/player-news?sport=nfl&pa=sitefooter&utm_source=sitefooter)[![Image 40](https://www.rotoballer.com/wp-content/uploads/2026/03/trophy-01.svg)Rankings](https://www.rotoballer.com/nfl-fantasy-football-rankings-tiered-ppr/265860)[![Image 41](https://www.rotoballer.com/wp-content/uploads/2026/03/target-01.svg)Who to Start](https://www.rotoballer.com/who-should-i-start-fantasy-football-weekly-matchups?pa=sitefooter&utm_source=sitefooter)[![Image 42](https://www.rotoballer.com/wp-content/uploads/2026/08/10-injury-list.svg)Injuries](https://www.rotoballer.com/nfl-injuries-report-fantasy-football-injury-updates?pa=sitefooter&utm_source=sitefooter)[![Image 43](https://www.rotoballer.com/wp-content/uploads/2026/03/diamond-01.svg)Live Game Center](https://www.rotoballer.com/nfl-game-center-live-scores-fantasy-football-scoreboard?pa=sitefooter&utm_source=sitefooter&v=2)
 
-![Image 44](https://lantern.roeye.com/track.php?fingerprint=5a53934c-c63e-46ff-8e0d-492f923e189f&referrer=&landingpage=https%3A%2F%2Fwww.rotoballer.com%2Frotoballer-challenge-homepage&useragent=Mozilla%2F5.0%20(X11%3B%20Linux%20x86_64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F158.0.0.0%20Safari%2F537.36&site=128693)![Image 45](https://pixel.rubiconproject.com/token?pid=49096&us_privacy=1YNY)
+![Image 44](https://lantern.roeye.com/track.php?fingerprint=6a9aca8d-a3e9-45cc-8d64-e6bf4b6e5170&referrer=&landingpage=https%3A%2F%2Fwww.rotoballer.com%2Frotoballer-challenge-homepage&useragent=Mozilla%2F5.0%20(X11%3B%20Linux%20x86_64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F158.0.0.0%20Safari%2F537.36&site=128693)![Image 45](https://pixel.rubiconproject.com/token?pid=49096&us_privacy=1YNY)
 
 ✕
 ## Do not sell or share my personal information.
