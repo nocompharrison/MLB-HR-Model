@@ -1,4 +1,4 @@
-<!-- source: https://fanduel.com/research/10-best-college-basketball-bets-today-for-friday-november-27-with-odds-spreads-and-ml-s | fetched: 2026-11-27 11:17 ET -->
+<!-- source: https://fanduel.com/research/10-best-college-basketball-bets-today-for-friday-november-27-with-odds-spreads-and-ml-s | fetched: 2026-11-27 17:02 ET -->
 
 ![NCAAB icon](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F8877645a457f4b548a131eb1f11f968fe53e066c-16x16.svg&w=100&q=100)NCAAB NewsChevronDown
 [Home](https://fanduel.com/research/ncaab)[March Madness](https://fanduel.com/research/ncaab/march-madness-odds-picks-predictions)[News](https://fanduel.com/research/ncaab/news)[Teams](https://www.numberfire.com/ncaab/teams)[Odds](https://sportsbook.fanduel.com/navigation/ncaab)[Fantasy](https://www.fanduel.com/contests/ncaab)[NCAAB Predictions](https://fanduel.com/research/ncaab/predictions) 
@@ -11,7 +11,7 @@ START YOUR OWN WINNING STREAK
 # 10 Best College Basketball Bets Today for Friday, November 27 With Odds, Spreads and ML's
 ![Chris Beck](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F049738b4e37848ae476f59aaa06bcf5795a6ef98-200x200.jpg%3Fw%3D42%26h%3D42&w=100&q=100)
 [Chris Beck](https://fanduel.com/research/author/chris-beck)
-19m
+6h
 Link
 ![10 Best College Basketball Bets Today for Friday, November 27 With Odds, Spreads and ML's](https://fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2Fcb7a7e01b57f8c7bd0286f201feb4e67a122a426-7902x5268.jpg%3Frect%3D0%2C679%2C7902%2C3910%26w%3D964%26h%3D477&w=1920&q=100)
 **10 Best College Basketball Bets for Friday, November 27**
@@ -109,25 +109,25 @@ _The above author is a FanDuel employee and is not eligible to compete in public
 Link
 ## More Articles You May Like
 [NCAAB](https://fanduel.com/research/ncaab)
+## [Texas Tech vs San Diego State College Basketball Prediction, Odds, Picks, Best Bets for Nov. 27](https://fanduel.com/research/texas-tech-vs-san-diego-state-college-basketball-predictions-odds-picks-best-bets-for-11-27-2026)
+1h
+Find Texas Tech vs. San Diego State predictions, betting odds, moneyline, spread, over/under and more for the Nov. 27 college basketball matchup.
+[](https://fanduel.com/research/texas-tech-vs-san-diego-state-college-basketball-predictions-odds-picks-best-bets-for-11-27-2026)
+[NCAAB](https://fanduel.com/research/ncaab)
+## [Gonzaga vs Creighton College Basketball Prediction, Odds, Picks, Best Bets for Nov. 27](https://fanduel.com/research/gonzaga-vs-creighton-college-basketball-predictions-odds-picks-best-bets-for-11-27-2026)
+5h
+Find Gonzaga vs. Creighton predictions, betting odds, moneyline, spread, over/under and more for the Nov. 27 college basketball matchup.
+[](https://fanduel.com/research/gonzaga-vs-creighton-college-basketball-predictions-odds-picks-best-bets-for-11-27-2026)
+[NCAAB](https://fanduel.com/research/ncaab)
 ## [10 Best College Basketball Bets Today for Friday, November 27 With Odds, Spreads and ML's](https://fanduel.com/research/10-best-college-basketball-bets-today-for-friday-november-27-with-odds-spreads-and-ml-s)
-19m
+6h
 Liberty, Iowa State, Hampton, Wake Forest, Navy, Fresno State, Georgetown, Louisiana Tech, Colgate, and the under 149.5 in Baylor at TCU headline our 10 best college basketball bets for Friday's slate.
 [](https://fanduel.com/research/10-best-college-basketball-bets-today-for-friday-november-27-with-odds-spreads-and-ml-s)
 [NCAAB](https://fanduel.com/research/ncaab)
 ## [Miami (FL) vs Alabama College Basketball Prediction, Odds, Picks, Best Bets for Nov. 27](https://fanduel.com/research/miami-fl-vs-alabama-college-basketball-predictions-odds-picks-best-bets-for-11-27-2026)
-4h
+9h
 Find Miami (FL) vs. Alabama predictions, betting odds, moneyline, spread, over/under and more for the Nov. 27 college basketball matchup.
 [](https://fanduel.com/research/miami-fl-vs-alabama-college-basketball-predictions-odds-picks-best-bets-for-11-27-2026)
-[NCAAB](https://fanduel.com/research/ncaab)
-## [Tennessee vs Louisville College Basketball Prediction, Odds, Picks, Best Bets for Nov. 27](https://fanduel.com/research/tennessee-vs-louisville-college-basketball-predictions-odds-picks-best-bets-for-11-27-2026)
-4h
-Find Tennessee vs. Louisville predictions, betting odds, moneyline, spread, over/under and more for the Nov. 27 college basketball matchup.
-[](https://fanduel.com/research/tennessee-vs-louisville-college-basketball-predictions-odds-picks-best-bets-for-11-27-2026)
-[NCAAB](https://fanduel.com/research/ncaab)
-## [St. John's vs Iowa State College Basketball Prediction, Odds, Picks, Best Bets for Nov. 27](https://fanduel.com/research/st-john-s-vs-iowa-state-college-basketball-predictions-odds-picks-best-bets-for-11-27-2026)
-4h
-Find St. John's vs. Iowa State predictions, betting odds, moneyline, spread, over/under and more for the Nov. 27 college basketball matchup.
-[](https://fanduel.com/research/st-john-s-vs-iowa-state-college-basketball-predictions-odds-picks-best-bets-for-11-27-2026)
 UCLA is a 7.5-point favorite at home, which is a lot to give in a game where Georgetown can slow the pace and hold for possessions. The Hoyas cover with any loss of seven or fewer points.
 ### [Louisiana Tech +4.5 vs Texas State (-120)](https://sportsbook.fanduel.com/basketball/ncaa-basketball-mens-games/texas-state-@-louisiana-tech-36367184)
 Spread
