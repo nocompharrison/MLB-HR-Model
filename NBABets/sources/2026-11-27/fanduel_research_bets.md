@@ -1,4 +1,4 @@
-<!-- source: https://www.fanduel.com/research/12-best-nba-bets-and-nba-player-props-today-for-thursday-november-27-with-odds | fetched: 2026-11-27 11:09 ET -->
+<!-- source: https://www.fanduel.com/research/12-best-nba-bets-and-nba-player-props-today-for-friday-november-27-with-odds | fetched: 2026-11-27 16:10 ET -->
 
 ![NBA icon](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F7a762c8a748288841c3b50792c8f8079ab49f44a-16x16.svg&w=100&q=100)NBA NewsChevronDown
 [Home](https://www.fanduel.com/research/nba)[News](https://www.fanduel.com/research/nba/news)[Teams](https://sportsbook.fanduel.com/teams/nba/teams%20)[Odds](https://sportsbook.fanduel.com/navigation/nba%20)[Player Prop Bets](https://www.fanduel.com/research/nba/best-prop-bets-today)[NBA DFS](https://www.fanduel.com/contests/nba)[Projections](https://www.fanduel.com/research/nba/fantasy/dfs-projections)[Player News](https://www.fanduel.com/research/nba/player-news)[Game Updates](https://www.fanduel.com/research/nba/player-news/game-updates)[Injuries](https://www.fanduel.com/research/nba/player-news/injuries)[Lineups](https://www.fanduel.com/research/nba/player-news/lineups)[Transactions](https://www.fanduel.com/research/nba/player-news/transactions)[Predictions](http://www.fanduel.com/research/nba/predictions)[Playoff Predictions](https://www.fanduel.com/research/nba/playoff-predictions) 
@@ -8,12 +8,12 @@ START YOUR OWN WINNING STREAK
 ![SportsBookLogo](https://www.fanduel.com/research/_next/image?url=%2Fresearch%2F_next%2Fstatic%2Fmedia%2FsportsbookLogo.37db1646.svg&w=400&q=100)
 [ See Promos ChevronRight ](https://sportsbook.fanduel.com/promotions)
 [NBA](https://www.fanduel.com/research/nba)
-# 12 Best NBA Bets and NBA Player Props Today for Thursday, November 27 With Odds
+# 12 Best NBA Bets and NBA Player Props Today for Friday, November 27 With Odds
 ![Chris Beck](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F049738b4e37848ae476f59aaa06bcf5795a6ef98-200x200.jpg%3Fw%3D42%26h%3D42&w=100&q=100)
 [Chris Beck](https://www.fanduel.com/research/author/chris-beck)
-5m
+5h
 Link
-![12 Best NBA Bets and NBA Player Props Today for Thursday, November 27 With Odds](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F04b82b059447a752f443085ab389c3b75715c326-4948x3299.jpg%3Frect%3D0%2C426%2C4948%2C2448%26w%3D964%26h%3D477&w=1920&q=100)
+![12 Best NBA Bets and NBA Player Props Today for Friday, November 27 With Odds](https://www.fanduel.com/research/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpbwem9y5%2Fch_production%2F04b82b059447a752f443085ab389c3b75715c326-4948x3299.jpg%3Frect%3D0%2C426%2C4948%2C2448%26w%3D964%26h%3D477&w=1920&q=100)
 **12 Best NBA Bets and Player Props for Thursday, November 27**
   * Miami Heat +3.5 at New York Knicks
   * Brooklyn Nets +9.5 at Toronto Raptors
@@ -126,23 +126,23 @@ _The above author is a FanDuel employee and is not eligible to compete in public
 Link
 ## More Articles You May Like
 [NBA](https://www.fanduel.com/research/nba)
-## [12 Best NBA Bets and NBA Player Props Today for Thursday, November 27 With Odds](https://www.fanduel.com/research/12-best-nba-bets-and-nba-player-props-today-for-thursday-november-27-with-odds)
-5m
+## [12 Best NBA Bets and NBA Player Props Today for Friday, November 27 With Odds](https://www.fanduel.com/research/12-best-nba-bets-and-nba-player-props-today-for-friday-november-27-with-odds)
+5h
 Heat +3.5, Nets +9.5, Bucks +10.5, Grizzlies +4.5, Mavericks +2.5, Pelicans +3.5, Lakers +6.5, and the under 228.5 headline our best NBA bets, with Karl-Anthony Towns, Joel Embiid, Tyrese Maxey, and Devin Booker leading the player props.
-[](https://www.fanduel.com/research/12-best-nba-bets-and-nba-player-props-today-for-thursday-november-27-with-odds)
+[](https://www.fanduel.com/research/12-best-nba-bets-and-nba-player-props-today-for-friday-november-27-with-odds)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Timberwolves vs. Grizzlies Prediction, Odds, Picks, Best Bets for Nov. 27](https://www.fanduel.com/research/timberwolves-vs-grizzlies-prediction-nba-odds-spread-best-bets-for-11-27-2026)
-20h
+1d
 Find Timberwolves vs. Grizzlies predictions, betting odds, moneyline, spread, over/under and more for the Nov. 27 NBA matchup.
 [](https://www.fanduel.com/research/timberwolves-vs-grizzlies-prediction-nba-odds-spread-best-bets-for-11-27-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Raptors vs. Nets Prediction, Odds, Picks, Best Bets for Nov. 27](https://www.fanduel.com/research/raptors-vs-nets-prediction-nba-odds-spread-best-bets-for-11-27-2026)
-20h
+1d
 Find Raptors vs. Nets predictions, betting odds, moneyline, spread, over/under and more for the Nov. 27 NBA matchup.
 [](https://www.fanduel.com/research/raptors-vs-nets-prediction-nba-odds-spread-best-bets-for-11-27-2026)
 [NBA](https://www.fanduel.com/research/nba)
 ## [Pistons vs. Bucks Prediction, Odds, Picks, Best Bets for Nov. 27](https://www.fanduel.com/research/pistons-vs-bucks-prediction-nba-odds-spread-best-bets-for-11-27-2026)
-20h
+1d
 Find Pistons vs. Bucks predictions, betting odds, moneyline, spread, over/under and more for the Nov. 27 NBA matchup.
 [](https://www.fanduel.com/research/pistons-vs-bucks-prediction-nba-odds-spread-best-bets-for-11-27-2026)
 San Antonio is a 6.5-point home favorite, and the Lakers have enough shot creation to stay within a touchdown. Los Angeles covers with a loss of six or fewer, which fits a game where the Spurs' lead may not stretch beyond one possession.
