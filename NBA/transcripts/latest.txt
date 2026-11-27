@@ -1,4 +1,4 @@
-# NBA transcripts | 2026-11-27 | updated 2026-11-27 18:36 ET
+# NBA transcripts | 2026-11-27 | updated 2026-11-27 18:50 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # 11 files in NBA/transcripts/2026-11-27:
 NBA/transcripts/2026-11-27/06drKlRLM8M_PickDawgz_NBA_Picks_Friday_11_27_26_Jay_s_NBA_Jam_Session.txt
@@ -37,7 +37,7 @@ NONE    channel SportsLine: nothing new in the date window (or everything alread
 NONE    channel CirclesOff: nothing new in the date window (or everything already saved)
 NONE    channel SlopRules: nothing new in the date window (or everything already saved)
 NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-11-27/Wf3KPtmX2FM_FantasyAlarm_NBA_DFS_Picks_Today_11_27_DraftKings_Lineup_Strategy_Top_Values.txt  (9,677 words, via Groq)
+NONE    channel FantasyAlarm: nothing new in the date window (or everything already saved)
 NONE    channel FantasyAces: nothing new in the date window (or everything already saved)
 NONE    channel PickDawgz: nothing new in the date window (or everything already saved)
 NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
