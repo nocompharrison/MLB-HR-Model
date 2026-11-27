@@ -1,4 +1,4 @@
-<!-- source: https://www.actionnetwork.com/nba/nba-prop-ladders-escalator-picks-for-friday-november-27 | fetched: 2026-11-27 18:05 ET -->
+<!-- source: https://www.actionnetwork.com/nba/nba-prop-ladders-escalator-picks-for-friday-november-27 | fetched: 2026-11-27 18:34 ET -->
 
 Table of Contents
 [Home](https://www.actionnetwork.com/)Right Arrow[NBA](https://www.actionnetwork.com/nba)
@@ -88,7 +88,7 @@ Damian Lillard Three-pointer Escalator
 NBA
 [NBA Best Bets for Knicks vs Heat, Pacers vs 76ers, More (Friday, November 27)](https://www.actionnetwork.com/nba/nba-best-bets-for-knicks-vs-heat-pacers-vs-76ers-more-friday-november-27)
 Action Network Staff
-7 hours ago
+8 hours ago
 [![NBA Predictions: Spreads, Totals & Prop Bets for Friday, November 27](https://images.actionnetwork.com/blog/2026/11/NBABettingCard1127.jpg)](https://www.actionnetwork.com/nba/nba-predictions-spreads-totals-prop-bets-for-friday-november-27)
 NBA
 [NBA Predictions: Spreads, Totals & Prop Bets for Friday, November 27](https://www.actionnetwork.com/nba/nba-predictions-spreads-totals-prop-bets-for-friday-november-27)
@@ -98,7 +98,7 @@ Matt Moore
 NBA
 [NBA Player Props: 3 Picks & Predictions for Friday, November 27](https://www.actionnetwork.com/nba/nba-player-props-3-picks-predictions-for-friday-november-27)
 Joe Dellera
-6 hours ago
+7 hours ago
 [![NBA Parlay Picks: 2 Moneyline Predictions for Friday, November 27](https://images.actionnetwork.com/blog/2026/11/nba-moneyline-picks-2-predictions-for-friday-november-27.jpg)](https://www.actionnetwork.com/nba/nba-parlay-picks-2-moneyline-predictions-for-friday-november-27)
 NBA
 [NBA Parlay Picks: 2 Moneyline Predictions for Friday, November 27](https://www.actionnetwork.com/nba/nba-parlay-picks-2-moneyline-predictions-for-friday-november-27)
@@ -113,12 +113,12 @@ Joe Dellera
 NBA
 [76ers vs Pacers Prediction, Pick, NBA Cup Odds for Friday, November 27](https://www.actionnetwork.com/nba/philadelphia-76ers-vs-indiana-pacers-predictions-odds-nba-cup-picks)
 Matt Moore
-8 hours ago
+9 hours ago
 [![Hawks vs Celtics Prediction, Pick, NBA Cup Odds for Friday, November 27](https://images.actionnetwork.com/blog/2026/11/Hawks-Celtics-11272026.jpg)](https://www.actionnetwork.com/nba/atlanta-hawks-vs-boston-celtics-predictions-odds-nba-cup-picks)
 NBA
 [Hawks vs Celtics Prediction, Pick, NBA Cup Odds for Friday, November 27](https://www.actionnetwork.com/nba/atlanta-hawks-vs-boston-celtics-predictions-odds-nba-cup-picks)
 Andrew O'Connor-Watts
-8 hours ago
+9 hours ago
 [![Warriors vs Trail Blazers Prediction, Odds, NBA Cup Picks for Friday, November 27](https://images.actionnetwork.com/blog/2026/11/golden-state-warriors-vs-portland-trail-blazers-predictions-odds-nba-cup-picks-for-friday-november-27.jpg)](https://www.actionnetwork.com/nba/golden-state-warriors-vs-portland-trail-blazers-predictions-odds-nba-cup-picks-for-friday-november-27)
 NBA
 [Warriors vs Trail Blazers Prediction, Odds, NBA Cup Picks for Friday, November 27](https://www.actionnetwork.com/nba/golden-state-warriors-vs-portland-trail-blazers-predictions-odds-nba-cup-picks-for-friday-november-27)
@@ -128,18 +128,18 @@ Matt Moore
 NBA
 [Nets vs Raptors Prediction, Pick, NBA Cup Odds for Friday, November 27](https://www.actionnetwork.com/nba/brooklyn-nets-vs-toronto-raptors-prediction-pick-nba-cup-odds-friday-november-27)
 Matt Moore
-8 hours ago
+9 hours ago
 [![Nuggets vs Jazz Prediction, Odds, NBA Cup Picks for Friday, November 27](https://images.actionnetwork.com/blog/2026/11/denver-nuggets-vs-utah-jazz-predictions-odds-nba-cup-picks-for-friday-november-27.jpg)](https://www.actionnetwork.com/nba/denver-nuggets-vs-utah-jazz-predictions-odds-nba-cup-picks-for-friday-november-27)
 NBA
 [Nuggets vs Jazz Prediction, Odds, NBA Cup Picks for Friday, November 27](https://www.actionnetwork.com/nba/denver-nuggets-vs-utah-jazz-predictions-odds-nba-cup-picks-for-friday-november-27)
 Joe Dellera
-8 hours ago
+9 hours ago
 [![Lakers vs Spurs Prediction, Odds, NBA Cup Pick for Friday, November 27](https://images.actionnetwork.com/blog/2026/11/LakersSpurs1127.jpg)](https://www.actionnetwork.com/nba/los-angeles-lakers-vs-san-antonio-spurs-predictions-odds-nba-cup-picks-for-friday-november-27)
 NBA
 [Lakers vs Spurs Prediction, Odds, NBA Cup Pick for Friday, November 27](https://www.actionnetwork.com/nba/los-angeles-lakers-vs-san-antonio-spurs-predictions-odds-nba-cup-picks-for-friday-november-27)
 Matt Moore
-5 hours ago
+6 hours ago
 ### Follow Us On Social
 [](https://www.youtube.com/TheActionNetwork)[](https://discord.com/invite/actionnetwork)[](https://www.facebook.com/ActionNetworkHQ/)[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=ActionNetworkHQ)[](https://m.instagram.com/actionnetworkhq)[](https://www.tiktok.com/@actionnetworkhq)
-![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=b17bd9da-f8b1-4d45-a4ba-d19fbd49ce05&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=e0b61f4d-f8a6-4e5b-82fd-631601f05eec&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-prop-ladders-escalator-picks-for-friday-november-27&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=143&tw_session_id=1795820606644-793192789&tw_session_start=1&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=b17bd9da-f8b1-4d45-a4ba-d19fbd49ce05&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=e0b61f4d-f8a6-4e5b-82fd-631601f05eec&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-prop-ladders-escalator-picks-for-friday-november-27&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=2&tw_session_count=143&tw_session_id=1795820606644-793192789&tw_session_start=1&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=ba45ff1c-bb0c-42ad-8742-8438fe6ecb6a&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=e0b61f4d-f8a6-4e5b-82fd-631601f05eec&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-prop-ladders-escalator-picks-for-friday-november-27&tw_engaged_ms=6674&tw_iframe_status=0&tw_pid_src=2&tw_session_count=143&tw_session_id=1795820606644-793192789&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=ba45ff1c-bb0c-42ad-8742-8438fe6ecb6a&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=e0b61f4d-f8a6-4e5b-82fd-631601f05eec&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-prop-ladders-escalator-picks-for-friday-november-27&tw_engaged_ms=6674&tw_iframe_status=0&tw_pid_src=2&tw_session_count=143&tw_session_id=1795820606644-793192789&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
+![](https://www.facebook.com/tr?id=1401052825563845&ev=PageView&noscript=1)![](https://t.co/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=48221c6a-2592-4ea2-bf0d-da7fafb7dac0&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=659d3851-0839-423c-abed-ebf6e354c2db&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-prop-ladders-escalator-picks-for-friday-november-27&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=143&tw_session_id=1795820606644-793192789&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=3&event=%7B%7D&event_id=48221c6a-2592-4ea2-bf0d-da7fafb7dac0&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=659d3851-0839-423c-abed-ebf6e354c2db&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-prop-ladders-escalator-picks-for-friday-november-27&tw_engaged_ms=2&tw_iframe_status=0&tw_pid_src=2&tw_session_count=143&tw_session_id=1795820606644-793192789&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://t.co/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=365772c2-f27a-41d8-ad60-ae2c7ad95134&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=659d3851-0839-423c-abed-ebf6e354c2db&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-prop-ladders-escalator-picks-for-friday-november-27&tw_engaged_ms=7524&tw_iframe_status=0&tw_pid_src=2&tw_session_count=143&tw_session_id=1795820606644-793192789&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)![](https://analytics.twitter.com/i/adsct?bci=4&cv=100%261&dv=America%2FNew_York%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na%261&eci=2&event_id=365772c2-f27a-41d8-ad60-ae2c7ad95134&events=%5B%5B%22autobuttonclick%22%2C%7B%22value%22%3A%22Confirm%20My%20Choices%22%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=659d3851-0839-423c-abed-ebf6e354c2db&tw_ch_fvl=HeadlessChrome%2F153.0.8010.12%2CNot_A%20Brand%2F8.0.0.0%2CChromium%2F153.0.8010.12&tw_document_href=https%3A%2F%2Fwww.actionnetwork.com%2Fnba%2Fnba-prop-ladders-escalator-picks-for-friday-november-27&tw_engaged_ms=7524&tw_iframe_status=0&tw_pid_src=2&tw_session_count=143&tw_session_id=1795820606644-793192789&twpid=tw.1792525054149.458603079303181779&txn_id=o403j&type=javascript&version=2.4.12)
 

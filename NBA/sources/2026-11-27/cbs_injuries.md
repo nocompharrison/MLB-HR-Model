@@ -1,4 +1,4 @@
-<!-- source: https://www.cbssports.com/nba/injuries/ | fetched: 2026-11-27 18:05 ET -->
+<!-- source: https://www.cbssports.com/nba/injuries/ | fetched: 2026-11-27 18:34 ET -->
 
 Title: NBA Injury Report and Status 2026-27
 
@@ -1016,5 +1016,5 @@ The content on this site is for entertainment purposes only and CBS Sports makes
 
 Images by Getty Images and Imagn
 
-Your Privacy Choices![Image 237](https://user-sync.fwmrm.net/ad/u?mode=auto-user-sync&_fw_gdpr=0&_fw_gdpr_consent=)
+Your Privacy Choices![Image 237](https://user-sync.fwmrm.net/ad/u?mode=auto-user-sync&_fw_gdpr=0&_fw_gdpr_consent=)![Image 238](https://t.co/i/adsct?bci=3&dv=America%2FNew_York%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%266%2624%261280%261280%260%26na%261&eci=2&event_id=8d5ef42f-0741-43a5-8c96-69b1186f5c6d&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=84e428bd-a350-47e5-90b8-03c97e24f88b&tw_ch_fvl=Chromium%2F158.0.8127.88%2CNot.A%2FBrand%2F24.0.0.0%2CGoogle%20Chrome%2F158.0.8127.88&tw_document_href=https%3A%2F%2Fwww.cbssports.com%2Fnba%2Finjuries%2F&tw_engaged_ms=6&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=1&tw_sale_amount=0&tw_session_count=1&tw_session_id=1795820485780-96539148&tw_session_start=1&twpid=tw.1795820485780.4603274544959984&txn_id=o0cq4&type=javascript&version=2.4.12)![Image 239](https://analytics.twitter.com/i/adsct?bci=3&dv=America%2FNew_York%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%266%2624%261280%261280%260%26na%261&eci=2&event_id=8d5ef42f-0741-43a5-8c96-69b1186f5c6d&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=84e428bd-a350-47e5-90b8-03c97e24f88b&tw_ch_fvl=Chromium%2F158.0.8127.88%2CNot.A%2FBrand%2F24.0.0.0%2CGoogle%20Chrome%2F158.0.8127.88&tw_document_href=https%3A%2F%2Fwww.cbssports.com%2Fnba%2Finjuries%2F&tw_engaged_ms=6&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=1&tw_sale_amount=0&tw_session_count=1&tw_session_id=1795820485780-96539148&tw_session_start=1&twpid=tw.1795820485780.4603274544959984&txn_id=o0cq4&type=javascript&version=2.4.12)
 
