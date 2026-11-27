@@ -1,4 +1,4 @@
-<!-- source: https://www.lineups.com/nba-articles/ | fetched: 2026-11-27 11:05 ET -->
+<!-- source: https://www.lineups.com/nba-articles/ | fetched: 2026-11-27 16:05 ET -->
 
 
 ---
@@ -2118,7 +2118,7 @@ Let’s dive into three player props that catch our eye for Sunday’s action. B
 
 [![Image 33: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661953/underdog_sc)[O/U Points Scored (@ UTA)](https://lineups.go.metabet.io/bet/nba_game_player_points/661953/underdog_sc)[19.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661953/underdog_sc)
 
-[![Image 34: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661953/polymarket_sc)[O/U Total Rebounds (@ UTA)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661953/polymarket_sc)[4.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661953/polymarket_sc)
+[![Image 34: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661953/polymarket_sc)[O/U Total Rebounds (@ UTA)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661953/polymarket_sc)[3.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661953/polymarket_sc)
 
 [![Image 35: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661953/polymarket_sc)[O/U Total Assists (@ UTA)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661953/polymarket_sc)[5.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661953/polymarket_sc)
 
@@ -2130,7 +2130,7 @@ Let’s dive into three player props that catch our eye for Sunday’s action. B
 
 [![Image 38: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661953/underdog_sc)[O/U Points Scored (@ UTA)](https://lineups.go.metabet.io/bet/nba_game_player_points/661953/underdog_sc)[19.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661953/underdog_sc)
 
-[![Image 39: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661953/polymarket_sc)[O/U Total Rebounds (@ UTA)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661953/polymarket_sc)[4.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661953/polymarket_sc)
+[![Image 39: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661953/polymarket_sc)[O/U Total Rebounds (@ UTA)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661953/polymarket_sc)[3.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661953/polymarket_sc)
 
 [![Image 40: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661953/polymarket_sc)[O/U Total Assists (@ UTA)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661953/polymarket_sc)[5.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661953/polymarket_sc)
 
@@ -2164,11 +2164,11 @@ Bane has been markedly more productive and efficient in recent games, however, s
 
 ![Image 45](https://metabet.static.areyouwatchingthis.com/03325fb169d4ca908f52c07a4505bb8f/images/teams/80x80/10221.png)Darryn Peterson
 
-[![Image 46: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661953/underdog_sc)[O/U Points Scored (vs. DEN)](https://lineups.go.metabet.io/bet/nba_game_player_points/661953/underdog_sc)[16.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661953/underdog_sc)
+[![Image 46: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_game_player_points/661953/kalshi_sc)[O/U Points Scored (vs. DEN)](https://lineups.go.metabet.io/bet/nba_game_player_points/661953/kalshi_sc)[14.5](https://lineups.go.metabet.io/bet/nba_game_player_points/661953/kalshi_sc)
 
-[![Image 47: Underdog](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/underdog.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661953/underdog_sc)[O/U Total Rebounds (vs. DEN)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661953/underdog_sc)[4.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661953/underdog_sc)
+[![Image 47: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661953/kalshi_sc)[O/U Total Rebounds (vs. DEN)](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661953/kalshi_sc)[3.5](https://lineups.go.metabet.io/bet/nba_game_player_rebounds/661953/kalshi_sc)
 
-[![Image 48: Polymarket](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/polymarket.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661953/polymarket_sc)[O/U Total Assists (vs. DEN)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661953/polymarket_sc)[3.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661953/polymarket_sc)
+[![Image 48: Kalshi](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/sportsbooks/square/kalshi.svg)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661953/kalshi_sc)[O/U Total Assists (vs. DEN)](https://lineups.go.metabet.io/bet/nba_game_player_assists/661953/kalshi_sc)[3.5](https://lineups.go.metabet.io/bet/nba_game_player_assists/661953/kalshi_sc)
 
 [![Image 49](https://go.metabet.io/03325fb169d4ca908f52c07a4505bb8f/img/logo-watermark.svg)](https://www.metabet.io/?utm_source=lineups&utm_medium=adtile-watermark&utm_campaign=nba/darryn_peterson/player_276494 "Powered by MetaBet")[](https://www.metabet.io/odds)
 
