@@ -1,76 +1,58 @@
-# CFB transcripts | week 12 | updated 2026-11-21 08:35 ET
+# CFB transcripts | week 13 | updated 2026-11-26 20:05 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 39 files in CFB/transcripts/week-12:
-CFB/transcripts/week-12/1jKtXn3YpZc_BettingPros_BEST_BETS_for_Friday_College_Football_Week_12_Picks_Predictions_for_To.txt
-CFB/transcripts/week-12/33jRFmQOvT8_WagerTalk_CFB_Week_12_3_Underdogs_ONE_5159_Parlay_KellyInVegas.txt
-CFB/transcripts/week-12/AQsIzZTGveI_Cover3_College_Football_Week_12_Upset_Picks.txt
-CFB/transcripts/week-12/Eq1KejvHdAQ_PickDawgz_College_Football_Picks_Predictions_For_Today_Saturday_11_21_26_FREE_Co.txt
-CFB/transcripts/week-12/FjMZIgMtiKc_PickDawgz_ARIZONA_VS_KANSAS_ST_11_21_26_FREE_NCAAF_PICK_PREDICTION_ELITE_HANDICA.txt
-CFB/transcripts/week-12/FqxYma9CuEM_PickDawgz_Georgia_vs_South_Carolina_Picks_Predictions_College_Football_Week_12_P.txt
-CFB/transcripts/week-12/JBuRFtCTHhQ_WagerTalk_Top_7_College_Football_Week_12_Betting_Trends_Ralph_Michaels.txt
-CFB/transcripts/week-12/K7UUiZUVMyc_BBOC_College_Football_Week_12_Best_Bets_Game_Previews_Expert_Analysis_More.txt
-CFB/transcripts/week-12/LrDd--xeV1o_TCE_FCS_College_Football_Week_12_Preview_Picks.txt
-CFB/transcripts/week-12/NKDhGbkEsFo_BBOC_Oregon_vs_Michigan_State_BEST_BETS_Picks_for_Week_12.txt
-CFB/transcripts/week-12/QAzK7c2Vvrc_BBOC_UTSA_vs_UAB_BEST_BETS_Picks_for_Week_12.txt
-CFB/transcripts/week-12/QZ-qU2AjDEs_BettingPros_Top_4_Bets_for_Saturday_College_Football_Week_12_Picks_Betting_Predict.txt
-CFB/transcripts/week-12/SIcPWUYv_rY_SportsLine_College_Football_BEST_BETS_for_12PM_ET_Games.txt
-CFB/transcripts/week-12/TAQ_rIAHDKk_BBOC_Take_TEXAS_TECH_Texas_Tech_vs_Baylor_BEST_BETS_Picks_for_Week_12.txt
-CFB/transcripts/week-12/XEx4MuMuYK8_SportsLine_College_Football_PICKS_Tuesday_Best_Bets.txt
-CFB/transcripts/week-12/YQR3qNhkmbQ_WagerTalk_CFB_Week_12_BEST_Bets_SMU_vs_Notre_Dame_College_Football_Picks.txt
-CFB/transcripts/week-12/aSnojYTqAS0_SportsLine_College_Football_PICKS_and_BETS_for_Wednesday.txt
-CFB/transcripts/week-12/avcx49iUlHY_VSiN_College_Football_Week_12_Expert_Picks_Best_Bets_COMPILATION.txt
-CFB/transcripts/week-12/bhiseCJHXyE_SportsLine_College_Football_PICKS_Friday_Best_Bets.txt
-CFB/transcripts/week-12/c2rd9zp8uOk_WagerTalk_College_Football_Week_12_Picks_Hawaii_vs_Nevada_Reno_BEST_Bets_Nick_Pa.txt
-CFB/transcripts/week-12/c_YIzdaNJyo_TCE_CFB_Week_12_Preview_Picks_Top_Seven_Plays.txt
-CFB/transcripts/week-12/efF4dsPwulk_BBOC_UCLA_vs_Michigan_Preview_Best_Bets_Week_12_CFB.txt
-CFB/transcripts/week-12/ej_2OAG0CyM_BBOC_LSU_vs_Tennessee_Preview_Best_Bets_Week_12_CFB.txt
-CFB/transcripts/week-12/f0o5fJ_QlNg_SportsLine_NFL_Picks_College_Football_Bets_NBA_Picks_Early_Edge.txt
-CFB/transcripts/week-12/f3dAqoKBkJg_Cover3_WEEK_12_LOCKS_Best_Bets_Against_The_Spread_Picks_Moneyline_Sprinkles_M.txt
-CFB/transcripts/week-12/g8LDvUNDSEg_SportsLine_College_Basketball_Picks_NBA_Bets_College_Football_Early_Edge.txt
-CFB/transcripts/week-12/hEkEg2BL3Ys_BBOC_East_Carolina_vs_Army_BEST_BETS_Picks_for_Week_12.txt
-CFB/transcripts/week-12/i8AT-owoFWw_TCE_CFB_Week_12_Weekday_Games_Preview_Picks_MACtion.txt
-CFB/transcripts/week-12/mcsQr-dxg-U_WagerTalk_Friday_CFB_Best_Bets_Oregon_vs_Michigan_State_New_Mexico_vs_Wyoming_Pi.txt
-CFB/transcripts/week-12/nSreulw5z6o_SportsLine_College_Football_Picks_and_Bets_Week_12.txt
-CFB/transcripts/week-12/oiQMCYMePFU_BBOC_Ohio_State_vs_Washington_Preview_Best_Bets_Week_12_CFB.txt
-CFB/transcripts/week-12/pwYLJEfiXvo_PickDawgz_NCAAF_Picks_and_Predictions_11_21_26_The_Lowdown_With_Jeremy_Conn.txt
-CFB/transcripts/week-12/rscV4IJ6Zys_PickDawgz_UNLV_VS_SAN_JOSE_ST_11_21_26_NCAAF_FREE_VALUE_PLAY_OF_THE_DAY_PICKS_PR.txt
-CFB/transcripts/week-12/ryEnK074ODA_CallingOurShot_College_Football_Week_12_Best_Picks_and_Predictions.txt
-CFB/transcripts/week-12/s_T8niZswkw_PickDawgz_CFB_Picks_and_Predictions_fir_Today_11_21_2026_Dawg_of_the_Day.txt
-CFB/transcripts/week-12/snNdJmQPjVE_BBOC_Indiana_vs_Washington_Preview_Best_Bets_Week_12_CFB.txt
-CFB/transcripts/week-12/wgHOqvGqSJ8_PickDawgz_CFB_Picks_for_Today_11_21_26_Saturday_Best_CFB_Bets_are_ON_DECK.txt
-CFB/transcripts/week-12/xkbtXTZ-_LI_BBOC_College_Football_Week_12_Best_Bets_Picks_Group_of_6_Betting_Preview.txt
-CFB/transcripts/week-12/xrs8Xsx72ck_HitTheBooks_CFB_Week_12_Full_Breakdown_Best_Bets_Presented_By_FanDuel.txt
+# 19 files in CFB/transcripts/week-13:
+CFB/transcripts/week-13/-a8VpyHVlEA_TCE_Week_13_Preview_Picks_Rivalry_Week_in_CFB.txt
+CFB/transcripts/week-13/0OQP5_iT5gw_Cover3_WEEK_13_LOCKS_Best_Bets_Against_The_Spread_Picks_Moneyline_Sprinkles_M.txt
+CFB/transcripts/week-13/4f4jDn-Tw1o_SportsLine_College_Football_Picks_and_Bets_Week_13.txt
+CFB/transcripts/week-13/A3j6t3VIzbs_WagerTalk_College_Football_Week_13_Picks_Top_25_Rivalry_Week_Best_Bets_Steve_Mer.txt
+CFB/transcripts/week-13/FXy8q8ll3XE_WagerTalk_College_Football_Week_13_BEST_Bets_Buffalo_vs_Akron_Toledo_vs_Ohio.txt
+CFB/transcripts/week-13/Hta9Y2-6OWk_PickDawgz_TCU_vs_Texas_Tech_Picks_Predictions_College_Football_Week_13_Picks_Bes.txt
+CFB/transcripts/week-13/L2txall9wdA_Cover3_College_Football_Week_13_Upset_Picks.txt
+CFB/transcripts/week-13/MGgu2rhVjqU_BBOC_Central_Michigan_vs_Ball_State_Week_13_CFB_BETTING_PICKS.txt
+CFB/transcripts/week-13/MXMBi0WE0SE_BBOC_UMASS_vs_Bowling_Green_Week_13_CFB_BETTING_PICKS.txt
+CFB/transcripts/week-13/O_JZkkRQE1k_TCE_FCS_Playoffs_Round_1_Preview_Picks_for_every_game.txt
+CFB/transcripts/week-13/TY6jwLA1ek0_Cover3_Week_13_Preview_Predictions_USC_vs_UCLA.txt
+CFB/transcripts/week-13/TmWcBF9icoE_Cover3_Week_13_Preview_Predictions_Nebraska_vs_Iowa.txt
+CFB/transcripts/week-13/_gaJkKXoC9k_SportsLine_College_Football_PICKS_for_Tuesday.txt
+CFB/transcripts/week-13/aMAb5zzfUWg_Cover3_Who_Wins_The_Iron_Bowl_Auburn_vs_Alabama_Preview.txt
+CFB/transcripts/week-13/ax05YHpitbc_Cover3_Week_13_Preview_Predictions_Michigan_vs_Ohio_State.txt
+CFB/transcripts/week-13/eaw3dbyToIc_WagerTalk_College_Football_Week_13_Picks_5004_UNDERDOG_PARLAY_KellyInVegas.txt
+CFB/transcripts/week-13/ge5g6s2XMBU_BBOC_College_Football_Week_13_Best_Bets_Game_Previews_Expert_Analysis_More.txt
+CFB/transcripts/week-13/jYneVGNmQW4_BBOC_College_Football_Week_13_Best_Bets_Picks_Group_of_6_Betting_Preview.txt
+CFB/transcripts/week-13/x-wavot8y04_VSiN_College_Football_Week_13_Expert_Picks_Best_Bets_COMPILATION.txt
 
 # this run:
-NEW     CFB/transcripts/week-12/AQsIzZTGveI_Cover3_College_Football_Week_12_Upset_Picks.txt  (1,615 words)
-NEW     CFB/transcripts/week-12/ej_2OAG0CyM_BBOC_LSU_vs_Tennessee_Preview_Best_Bets_Week_12_CFB.txt  (1,306 words)
-NEW     CFB/transcripts/week-12/oiQMCYMePFU_BBOC_Ohio_State_vs_Washington_Preview_Best_Bets_Week_12_CFB.txt  (1,421 words)
-NEW     CFB/transcripts/week-12/snNdJmQPjVE_BBOC_Indiana_vs_Washington_Preview_Best_Bets_Week_12_CFB.txt  (968 words)
-NEW     CFB/transcripts/week-12/efF4dsPwulk_BBOC_UCLA_vs_Michigan_Preview_Best_Bets_Week_12_CFB.txt  (1,275 words)
-NEW     CFB/transcripts/week-12/K7UUiZUVMyc_BBOC_College_Football_Week_12_Best_Bets_Game_Previews_Expert_Analysis_More.txt  (16,100 words)
-NEW     CFB/transcripts/week-12/xrs8Xsx72ck_HitTheBooks_CFB_Week_12_Full_Breakdown_Best_Bets_Presented_By_FanDuel.txt  (8,792 words)
-NONE    channel VSiN: nothing new in the date window (or everything already saved)
-NEW     CFB/transcripts/week-12/LrDd--xeV1o_TCE_FCS_College_Football_Week_12_Preview_Picks.txt  (18,505 words)
-NEW     CFB/transcripts/week-12/YQR3qNhkmbQ_WagerTalk_CFB_Week_12_BEST_Bets_SMU_vs_Notre_Dame_College_Football_Picks.txt  (1,326 words)
+DEFER   Cover3 aetRilTg0eQ Week 13 College Football Previews & Predictions | BIG GAME B  (per-channel cap of 6 reached - raise it in the channel list or it comes next run)
+NEW     CFB/transcripts/week-13/L2txall9wdA_Cover3_College_Football_Week_13_Upset_Picks.txt  (1,439 words)
+NEW     CFB/transcripts/week-13/0OQP5_iT5gw_Cover3_WEEK_13_LOCKS_Best_Bets_Against_The_Spread_Picks_Moneyline_Sprinkles_M.txt  (13,137 words)
+NEW     CFB/transcripts/week-13/aMAb5zzfUWg_Cover3_Who_Wins_The_Iron_Bowl_Auburn_vs_Alabama_Preview.txt  (1,545 words)
+NEW     CFB/transcripts/week-13/ax05YHpitbc_Cover3_Week_13_Preview_Predictions_Michigan_vs_Ohio_State.txt  (1,932 words)
+NEW     CFB/transcripts/week-13/TY6jwLA1ek0_Cover3_Week_13_Preview_Predictions_USC_vs_UCLA.txt  (2,072 words)
+NEW     CFB/transcripts/week-13/TmWcBF9icoE_Cover3_Week_13_Preview_Predictions_Nebraska_vs_Iowa.txt  (2,971 words)
+NEW     CFB/transcripts/week-13/ge5g6s2XMBU_BBOC_College_Football_Week_13_Best_Bets_Game_Previews_Expert_Analysis_More.txt  (15,117 words)
+NEW     CFB/transcripts/week-13/MGgu2rhVjqU_BBOC_Central_Michigan_vs_Ball_State_Week_13_CFB_BETTING_PICKS.txt  (364 words)
+NEW     CFB/transcripts/week-13/MXMBi0WE0SE_BBOC_UMASS_vs_Bowling_Green_Week_13_CFB_BETTING_PICKS.txt  (515 words)
+NEW     CFB/transcripts/week-13/jYneVGNmQW4_BBOC_College_Football_Week_13_Best_Bets_Picks_Group_of_6_Betting_Preview.txt  (6,383 words)
+UPCOMING HitTheBooks -OIN1fOrSIg CFB Week 13 Full Breakdown & Best Bets! | Presented By FanDu  (not aired yet - scheduled for 11/27/26 11:00AM)
+NEW     CFB/transcripts/week-13/x-wavot8y04_VSiN_College_Football_Week_13_Expert_Picks_Best_Bets_COMPILATION.txt  (3,249 words)
+NEW     CFB/transcripts/week-13/O_JZkkRQE1k_TCE_FCS_Playoffs_Round_1_Preview_Picks_for_every_game.txt  (12,353 words)
+NEW     CFB/transcripts/week-13/-a8VpyHVlEA_TCE_Week_13_Preview_Picks_Rivalry_Week_in_CFB.txt  (30,374 words)
+NEW     CFB/transcripts/week-13/FXy8q8ll3XE_WagerTalk_College_Football_Week_13_BEST_Bets_Buffalo_vs_Akron_Toledo_vs_Ohio.txt  (1,766 words)
+NEW     CFB/transcripts/week-13/A3j6t3VIzbs_WagerTalk_College_Football_Week_13_Picks_Top_25_Rivalry_Week_Best_Bets_Steve_Mer.txt  (4,211 words)
+NEW     CFB/transcripts/week-13/eaw3dbyToIc_WagerTalk_College_Football_Week_13_Picks_5004_UNDERDOG_PARLAY_KellyInVegas.txt  (1,821 words)
 NONE    channel SplitZoneDuo: nothing new in the date window (or everything already saved)
-NEW     CFB/transcripts/week-12/QZ-qU2AjDEs_BettingPros_Top_4_Bets_for_Saturday_College_Football_Week_12_Picks_Betting_Predict.txt  (2,827 words)
-NEW     CFB/transcripts/week-12/1jKtXn3YpZc_BettingPros_BEST_BETS_for_Friday_College_Football_Week_12_Picks_Predictions_for_To.txt  (1,543 words)
+NONE    channel BettingPros: nothing new in the date window (or everything already saved)
 NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
-NEW     CFB/transcripts/week-12/SIcPWUYv_rY_SportsLine_College_Football_BEST_BETS_for_12PM_ET_Games.txt  (1,432 words)
-NEW     CFB/transcripts/week-12/f0o5fJ_QlNg_SportsLine_NFL_Picks_College_Football_Bets_NBA_Picks_Early_Edge.txt  (9,198 words)
-NEW     CFB/transcripts/week-12/bhiseCJHXyE_SportsLine_College_Football_PICKS_Friday_Best_Bets.txt  (1,915 words)
+NEW     CFB/transcripts/week-13/4f4jDn-Tw1o_SportsLine_College_Football_Picks_and_Bets_Week_13.txt  (9,167 words)
+UPCOMING SportsLine SuRajuQJWE4 Broncos vs Steelers Picks: Black Friday NFL Bets + NBA  + Co  (not aired yet - scheduled for 11/27/26 10:00AM)
+NEW     CFB/transcripts/week-13/_gaJkKXoC9k_SportsLine_College_Football_PICKS_for_Tuesday.txt  (659 words)
 NONE    channel CirclesOff: nothing new in the date window (or everything already saved)
 NONE    channel SlopRules: nothing new in the date window (or everything already saved)
 NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
 NONE    channel FantasyAlarm: nothing new in the date window (or everything already saved)
 NONE    channel FantasyAces: nothing new in the date window (or everything already saved)
-NEW     CFB/transcripts/week-12/rscV4IJ6Zys_PickDawgz_UNLV_VS_SAN_JOSE_ST_11_21_26_NCAAF_FREE_VALUE_PLAY_OF_THE_DAY_PICKS_PR.txt  (683 words)
-NEW     CFB/transcripts/week-12/Eq1KejvHdAQ_PickDawgz_College_Football_Picks_Predictions_For_Today_Saturday_11_21_26_FREE_Co.txt  (2,562 words)
-NEW     CFB/transcripts/week-12/FjMZIgMtiKc_PickDawgz_ARIZONA_VS_KANSAS_ST_11_21_26_FREE_NCAAF_PICK_PREDICTION_ELITE_HANDICA.txt  (469 words)
-NEW     CFB/transcripts/week-12/wgHOqvGqSJ8_PickDawgz_CFB_Picks_for_Today_11_21_26_Saturday_Best_CFB_Bets_are_ON_DECK.txt  (8,498 words)
-NEW     CFB/transcripts/week-12/pwYLJEfiXvo_PickDawgz_NCAAF_Picks_and_Predictions_11_21_26_The_Lowdown_With_Jeremy_Conn.txt  (1,795 words)
-NEW     CFB/transcripts/week-12/s_T8niZswkw_PickDawgz_CFB_Picks_and_Predictions_fir_Today_11_21_2026_Dawg_of_the_Day.txt  (766 words)
-NEW     CFB/transcripts/week-12/FqxYma9CuEM_PickDawgz_Georgia_vs_South_Carolina_Picks_Predictions_College_Football_Week_12_P.txt  (1,075 words)
+NEW     CFB/transcripts/week-13/Hta9Y2-6OWk_PickDawgz_TCU_vs_Texas_Tech_Picks_Predictions_College_Football_Week_13_Picks_Bes.txt  (847 words)
 NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
-NEW     CFB/transcripts/week-12/ryEnK074ODA_CallingOurShot_College_Football_Week_12_Best_Picks_and_Predictions.txt  (4,371 words)
+NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
 NOTE    changed VPN IP 2 time(s) this run after YouTube rate limits
+NOTE    deferred videos are picked up automatically on the next scheduled run
