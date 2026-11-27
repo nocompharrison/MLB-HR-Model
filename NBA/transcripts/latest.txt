@@ -1,30 +1,33 @@
-# NBA transcripts | 2026-11-27 | updated 2026-11-27 11:07 ET
+# NBA transcripts | 2026-11-27 | updated 2026-11-27 16:08 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 5 files in NBA/transcripts/2026-11-27:
+# 9 files in NBA/transcripts/2026-11-27:
+NBA/transcripts/2026-11-27/06drKlRLM8M_PickDawgz_NBA_Picks_Friday_11_27_26_Jay_s_NBA_Jam_Session.txt
 NBA/transcripts/2026-11-27/AFZM_w1-Kww_CallingOurShot_Friday_s_NBA_Best_Picks_and_Predictions_for_November_27th.txt
+NBA/transcripts/2026-11-27/Q_m1e1DRF9M_LockedOnNBA_Trail_Blazers_EMERGE_as_True_NBA_Contenders_Pacers_Pelicans_TRADE_RUMO.txt
 NBA/transcripts/2026-11-27/S9ndoGHNmXc_CallingOurShot_Denver_Broncos_vs_Pittsburgh_Steelers_Best_Picks_Predictions.txt
+NBA/transcripts/2026-11-27/TDWEk3oONtQ_ActionNetwork_Top_NBA_Sides_Totals_Player_Props_for_Friday_Buckets_Podcast.txt
 NBA/transcripts/2026-11-27/YXXC6hPnBJo_PickDawgz_NBA_Picks_Today_11_27_26_Best_Friday_NBA_Bets_are_ON_DECK.txt
 NBA/transcripts/2026-11-27/eIDqkXxqldA_WagerTalk_FRIDAY_NBA_Picks_TODAY_Heat_vs_Knicks_Lakers_vs_Spurs_NBA_Betting_Prev.txt
+NBA/transcripts/2026-11-27/vjisui3_3oo_Stokastic_NBA_DFS_Strategy_Friday_11_27_26_DraftKings_FanDuel_NBA_Lineup_Picks.txt
 NBA/transcripts/2026-11-27/yssxRSebtiE_FantasyAlarm_NBA_DFS_DraftKings_Preview_Top_Picks_Strategies_November_27th.txt
-# also filed this run under the slate their titles name: NBA/transcripts/2026-11-26
 
 # this run:
-NONE    channel ActionNetwork: nothing new in the date window (or everything already saved)
+NEW     NBA/transcripts/2026-11-27/TDWEk3oONtQ_ActionNetwork_Top_NBA_Sides_Totals_Player_Props_for_Friday_Buckets_Podcast.txt  (7,294 words)
 NONE    channel SGPN: nothing new in the date window (or everything already saved)
 NONE    channel SGPNPropcast: nothing new in the date window (or everything already saved)
 NONE    channel VSiN: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-11-27/eIDqkXxqldA_WagerTalk_FRIDAY_NBA_Picks_TODAY_Heat_vs_Knicks_Lakers_vs_Spurs_NBA_Betting_Prev.txt  (1,770 words)
-NONE    channel RotoGrinders: nothing new in the date window (or everything already saved)
+NONE    channel WagerTalk: nothing new in the date window (or everything already saved)
+UPCOMING RotoGrinders I8V_-x5Mays NBA DFS Picks & Strategy for #DraftKings & #FanDuel (11/28/2  (not aired yet - scheduled for 11/28/26 5:00PM)
+UPCOMING RotoGrinders BPurnZfkLzI NBA DFS Picks & Strategy for #DraftKings & #FanDuel (11/27/2  (not aired yet - scheduled for 11/27/26 5:40PM)
 UPCOMING ShipItNation QtguP6uVWpY NBA DFS Process | November 27, 2026 | DraftKings & FanDuel P  (not aired yet - scheduled for 11/27/26 4:30PM)
 NONE    channel DFSArmy: nothing new in the date window (or everything already saved)
 NONE    channel DFSArmyLive: nothing new in the date window (or everything already saved)
-NONE    channel Stokastic: nothing new in the date window (or everything already saved)
+NEW     NBA/transcripts/2026-11-27/vjisui3_3oo_Stokastic_NBA_DFS_Strategy_Friday_11_27_26_DraftKings_FanDuel_NBA_Lineup_Picks.txt  (5,938 words)
 NONE    channel RotoWire: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-11-26/gVF0ld8mf_Y_LockedOnNBA_GAME_NIGHT_What_NBA_Things_to_be_THANKFUL_FOR.txt  (6,960 words)
+NEW     NBA/transcripts/2026-11-27/Q_m1e1DRF9M_LockedOnNBA_Trail_Blazers_EMERGE_as_True_NBA_Contenders_Pacers_Pelicans_TRADE_RUMO.txt  (7,028 words)
 NONE    channel HoopBall: nothing new in the date window (or everything already saved)
 NONE    channel NBAGamblingPod: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-11-27/S9ndoGHNmXc_CallingOurShot_Denver_Broncos_vs_Pittsburgh_Steelers_Best_Picks_Predictions.txt  (2,275 words)
-NEW     NBA/transcripts/2026-11-27/AFZM_w1-Kww_CallingOurShot_Friday_s_NBA_Best_Picks_and_Predictions_for_November_27th.txt  (2,565 words)
+NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
 NONE    channel JayMoney: nothing new in the date window (or everything already saved)
 NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
 NONE    channel BettingPros: nothing new in the date window (or everything already saved)
@@ -34,5 +37,6 @@ NONE    channel SlopRules: nothing new in the date window (or everything already
 NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
 UPCOMING FantasyAlarm Wf3KPtmX2FM NBA DFS Picks Today 11/27 | DraftKings Lineup Strategy & Top  (not aired yet - scheduled for 11/27/26 5:00PM)
 NONE    channel FantasyAces: nothing new in the date window (or everything already saved)
-NEW     NBA/transcripts/2026-11-27/YXXC6hPnBJo_PickDawgz_NBA_Picks_Today_11_27_26_Best_Friday_NBA_Bets_are_ON_DECK.txt  (3,778 words)
+NEW     NBA/transcripts/2026-11-27/06drKlRLM8M_PickDawgz_NBA_Picks_Friday_11_27_26_Jay_s_NBA_Jam_Session.txt  (1,418 words)
 NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
+NOTE    changed VPN IP 1 time(s) this run after YouTube rate limits
