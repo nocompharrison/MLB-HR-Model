@@ -1,4 +1,4 @@
-<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-friday-nov-27-148578 | fetched: 2026-11-27 18:08 ET -->
+<!-- source: https://www.rotowire.com/basketball/article/best-nba-bets-player-props-picks-friday-nov-27-148578 | fetched: 2026-11-27 18:38 ET -->
 
 # Best NBA Bets Today: Player Props and Picks for Friday, Nov. 27
 Get the best NBA bets today, with expert player prop picks on assists + rebounds and blocks, plus odds from top sportsbooks and betting apps for Friday's Nov. 27 NBA slate.
@@ -51,6 +51,16 @@ Join the RotoWire Discord group to hear from our experts and other NBA fans.
 [ Join Our Discord ](https://www.rotowire.com/users/discord.php)
 ### Top News
 All MLB NBA NFL NHL
+  * ![New York Knicks](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
+[Karl-Anthony Towns](https://www.rotowire.com/basketball/player/karl-anthony-towns-3741)
+Will play Friday
+NBA
+New York Knicks
+  * ![Philadelphia 76ers](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
+[Jaylen Brown](https://www.rotowire.com/basketball/player/jaylen-brown-3894)
+MRI reveals no new injury
+NBA
+Philadelphia 76ers
   * ![Miami Heat](https://assets.rotowire.com/images/teamlogo/basketball/100MIA.png?v=10)
 [Giannis Antetokounmpo](https://www.rotowire.com/basketball/player/giannis-antetokounmpo-3456)
 Will play Friday
@@ -66,16 +76,6 @@ San Francisco 49ers
 Ruled out for Sunday's game versus New England
 NFL
 Los Angeles Chargers
-  * ![Seattle Seahawks](https://assets.rotowire.com/images/teamlogo/football/SEA.svg?v=12)
-[Jaxon Smith-Njigba](https://www.rotowire.com/football/player/jaxon-smith-njigba-16654)
-Set to play Sunday
-NFL
-Seattle Seahawks
-  * ![Toronto Blue Jays](https://assets.rotowire.com/images/teamlogo/baseball/100TOR.png?v=8)
-[Jazz Chisholm](https://www.rotowire.com/baseball/player/jazz-chisholm-14550)
-Agrees to terms with Toronto
-MLB
-Toronto Blue Jays
 
 
 [NFL](https://www.rotowire.com/football/news.php)[NBA](https://www.rotowire.com/basketball/news.php)[MLB](https://www.rotowire.com/baseball/news.php)[NHL](https://www.rotowire.com/hockey/news.php)
@@ -107,6 +107,16 @@ Arizona Diamondbacks
 
 
 [More MLB News](https://www.rotowire.com/baseball/news.php)
+  * ![New York Knicks](https://assets.rotowire.com/images/teamlogo/basketball/100NYK.png?v=10)
+[Karl-Anthony Towns](https://www.rotowire.com/basketball/player/karl-anthony-towns-3741)
+Will play Friday
+NBA
+New York Knicks
+  * ![Philadelphia 76ers](https://assets.rotowire.com/images/teamlogo/basketball/100PHI.png?v=10)
+[Jaylen Brown](https://www.rotowire.com/basketball/player/jaylen-brown-3894)
+MRI reveals no new injury
+NBA
+Philadelphia 76ers
   * ![Miami Heat](https://assets.rotowire.com/images/teamlogo/basketball/100MIA.png?v=10)
 [Giannis Antetokounmpo](https://www.rotowire.com/basketball/player/giannis-antetokounmpo-3456)
 Will play Friday
@@ -117,21 +127,11 @@ Miami Heat
 Downgraded to out Friday
 NBA
 Minnesota Timberwolves
-  * ![Orlando Magic](https://assets.rotowire.com/images/teamlogo/basketball/100ORL.png?v=10)
-[Anthony Black](https://www.rotowire.com/basketball/player/anthony-black-5910)
-Iffy for Saturday
+  * ![Oklahoma City Thunder](https://assets.rotowire.com/images/teamlogo/basketball/100OKC.png?v=10)
+[Aday Mara](https://www.rotowire.com/basketball/player/aday-mara-6932)
+Another absence coming
 NBA
-Orlando Magic
-  * ![Los Angeles Lakers](https://assets.rotowire.com/images/teamlogo/basketball/100LAL.png?v=10)
-[Austin Reaves](https://www.rotowire.com/basketball/player/austin-reaves-5334)
-Will play Friday
-NBA
-Los Angeles Lakers
-  * ![Dallas Mavericks](https://assets.rotowire.com/images/teamlogo/basketball/100DAL.png?v=10)
-[Kyrie Irving](https://www.rotowire.com/basketball/player/kyrie-irving-3186)
-Questionable with knee management
-NBA
-Dallas Mavericks
+Oklahoma City Thunder
 
 
 [More NBA News](https://www.rotowire.com/basketball/news.php)
@@ -183,11 +183,11 @@ Anaheim Ducks
 Ready to rock
 NHL
 Toronto Maple Leafs
-  * ![Chicago BlackHawks](https://assets.rotowire.com/images/teamlogo/hockey/100CHI.png?v=5)
-[Spencer Knight](https://www.rotowire.com/hockey/player/spencer-knight-6003)
-Starting against Rangers
+  * ![Tampa Bay Lightning](https://assets.rotowire.com/images/teamlogo/hockey/100TBL.png?v=5)
+[Victor Hedman](https://www.rotowire.com/hockey/player/victor-hedman-3197)
+Leaves Friday's game
 NHL
-Chicago BlackHawks
+Tampa Bay Lightning
 
 
 [More NHL News](https://www.rotowire.com/hockey/news.php)
