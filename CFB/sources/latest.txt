@@ -1,4 +1,4 @@
-# CFB sources | week 13 | updated 2026-11-27 11:39 ET
+# CFB sources | week 13 | updated 2026-11-28 08:34 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
 # STATUS  PATH  DETAIL  SOURCE-URL
-OK      CFB/sources/week-13/rotoballer_betting.md            UPDATED (changed since 2026-11-26 20:05) 170,012 chars (via Jina) [newest 1 article(s) - no dates found in them] https://www.rotoballer.com/rotoballer-challenge-homepage
+OK      CFB/sources/week-13/rotoballer_betting.md            UPDATED (changed since 2026-11-27 11:39) 170,013 chars (via Jina) [newest 1 article(s) - no dates found in them] https://www.rotoballer.com/rotoballer-challenge-homepage
