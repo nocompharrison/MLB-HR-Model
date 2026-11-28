@@ -1,6 +1,6 @@
-# NFL transcripts | week 12 | updated 2026-11-27 20:19 ET
+# NFL transcripts | week 12 | updated 2026-11-28 06:47 ET
 # raw base: https://raw.githubusercontent.com/nocompharrison/MLB-HR-Model/main/
-# 86 files in NFL/transcripts/week-12:
+# 90 files in NFL/transcripts/week-12:
 NFL/transcripts/week-12/-_SPL-Lz2GM_CirclesOff_I_Ran_10_000_Simulations_of_One_NFL_Game_Here_s_How_Presented_by_Proph.txt
 NFL/transcripts/week-12/-gxUj4JR_Wk_Stokastic_Packers_Rams_Showdown_Strategy_Wednesday_Week_12_DFS_Picks_NFL_DFS_Str.txt
 NFL/transcripts/week-12/-u0O4lz0lv4_TheAudible_Week_12_NFL_preview_Can_Burrow_bounce_back_Trusting_Bijan_vs_Vikings_4.txt
@@ -22,6 +22,7 @@ NFL/transcripts/week-12/68MFp4oW_-0_ShipItNation_NFL_DFS_Week_12_Thanksgiving_Sh
 NFL/transcripts/week-12/6TQmvOprsJo_SportsLine_Packers_vs_Rams_Picks_Thanksgiving_Eve_NFL_Bets_NBA_NHL_Early_Edge.txt
 NFL/transcripts/week-12/6gZSvZhb1hc_PickDawgz_NFL_Picks_Predictions_For_Today_Wednesday_11_25_26_FREE_NFL_Best_Bets.txt
 NFL/transcripts/week-12/6tdWk-OmTH8_SGPN_Patriots_vs_Chargers_Prediction_Picks_Best_Bets_NFL_Week_12.txt
+NFL/transcripts/week-12/7NlSqEZsCMk_DFSArmy_Week_12_NFL_DFS_Plays_Under_10_Ownership_Draftkings_and_Fanduel.txt
 NFL/transcripts/week-12/7gaHBR92Fp8_TheAudible_How_does_Seth_McGowan_s_hamstring_injury_make_it_even_smarter_to_drop.txt
 NFL/transcripts/week-12/8St0eCh44dg_FantasyAlarm_Week_12_NFL_DFS_Cheat_Sheet_Must_Play_Picks_Stacks_Values.txt
 NFL/transcripts/week-12/9ZpuHfbykFY_Footballers_Week_12_Waivers_OUCH_Borland_Fantasy_Football_2026_Ep_2022.txt
@@ -37,6 +38,8 @@ NFL/transcripts/week-12/FmdnRpUGw3c_PlayerProfiler_Fantasy_Football_Week_12_Star
 NFL/transcripts/week-12/GYzYq8pvbHA_FootballersDFS_Thanksgiving_DFS_Slate_Battle_Royale_Fantasy_Football_DFS_Betting.txt
 NFL/transcripts/week-12/GqH7yqIv3J8_SGPNPropcast_NFL_Week_12_Weekday_Games_Thanksgiving_Player_Props_11_24_26.txt
 NFL/transcripts/week-12/Kqj62uTD77A_PickDawgz_Free_NFL_Betting_Picks_Predictions_Today_11_26_2026_Brian_s_Take_it_to.txt
+NFL/transcripts/week-12/LKt9PKokV3w_SGPNPropcast_NFL_Week_12_Player_Props_11_27_26.txt
+NFL/transcripts/week-12/MIrAyK62VlI_DFSArmy_NFL_Week_12_DraftKings_and_FanDuel_DFS_Strategy_and_Picks_Tournament_T.txt
 NFL/transcripts/week-12/NHaT8FFyypI_Stokastic_NFL_DFS_Tournament_Strategy_Week_12.txt
 NFL/transcripts/week-12/PCWkCR9vexw_ActionNetwork_NFL_Week_12_Picks_Predictions_Best_Bets_for_EVERY_Game.txt
 NFL/transcripts/week-12/PCom2M8Yxv0_ActionNetwork_Our_Anytime_Touchdown_Picks_for_the_Thanksgiving_Week_12_Slate_of_The.txt
@@ -58,6 +61,7 @@ NFL/transcripts/week-12/X9PIZRq7EIg_SGPNPropcast_NFL_Week_12_Circa_Million_Sprea
 NFL/transcripts/week-12/XOW5ElxNprY_DFSArmy_Packers_vs_Rams_Showdown_Breakdown_Wednesday_Night_Football_DraftKings.txt
 NFL/transcripts/week-12/Zh4nd-mpAUU_Stokastic_Broncos_Steelers_Showdown_Strategy_Black_Friday_Week_12_DFS_Picks_NFL.txt
 NFL/transcripts/week-12/_TsU3ACTWCU_PickDawgz_CHICAGO_BEARS_VS_DETROIT_LIONS_FREE_NFL_PICK_PREDICTION_The_Yang_Angle.txt
+NFL/transcripts/week-12/a4EQveySOTE_RotoGrinders_Broncos_vs_Steelers_Friday_Showdown_NFL_DFS_Picks_Strategy.txt
 NFL/transcripts/week-12/c1UDeJdpy9I_ShipItNation_Packers_vs_Rams_NFL_DFS_Showdown_WNF_Week_12_Showdown_Shippers_Picks_P.txt
 NFL/transcripts/week-12/cnw_zoe8j4E_Stokastic_NFL_DFS_Live_Before_Lock_Thanksgiving_Week_12_NFL_DFS_Picks_for_DraftK.txt
 NFL/transcripts/week-12/dSzGTxMPf6k_RotoGrinders_Thanksgiving_Slate_Pre_Lock_NFL_DFS_Picks_Strategy.txt
@@ -92,36 +96,30 @@ NFL/transcripts/week-12/yoI7y8R6izs_DFSArmy_NFL_Week_Thanksgiving_DraftKings_and
 NONE    channel Footballers: nothing new in the date window (or everything already saved)
 NONE    channel FootballersDFS: nothing new in the date window (or everything already saved)
 NONE    channel SwankTank: nothing new in the date window (or everything already saved)
-DEFER   RotoGrinders a4EQveySOTE Broncos vs. Steelers Friday Showdown! - NFL DFS Picks & Stra  (per-channel cap of 4 reached - raise it in the channel list or it comes next run)
+DEFER   RotoGrinders Nv0T3VbHvu0 NFL DFS Tournament Strategy for Week 12 on DraftKings & FanD  (per-channel cap of 4 reached - raise it in the channel list or it comes next run)
+NEW     NFL/transcripts/week-12/a4EQveySOTE_RotoGrinders_Broncos_vs_Steelers_Friday_Showdown_NFL_DFS_Picks_Strategy.txt  (8,465 words)
 UPCOMING RotoGrinders rZfzZkf9ais LIVE NFL DFS Picks & Strategy for DraftKings & FanDuel! (Wee  (not aired yet - scheduled for 11/29/26 9:30AM)
 UPCOMING RotoGrinders d8rMGabKMrA Panthers vs. Buccs MNF Showdown! - NFL DFS Picks & Strategy  (not aired yet - scheduled for 11/30/26 7:30PM)
 UPCOMING RotoGrinders qMJLx_0P0Xw Raiders vs. Browns SNF Showdown! - NFL DFS Picks & Strategy  (not aired yet - scheduled for 11/29/26 7:30PM)
-UPCOMING RotoGrinders Nv0T3VbHvu0 NFL DFS Tournament Strategy for Week 12 on DraftKings & FanD  (not aired yet - scheduled for 11/28/26 1:00PM)
-NEW     NFL/transcripts/week-12/0u7ZsNcfr3U_ShipItNation_NFL_DFS_Week_12_Cash_Game_Countdown_DraftKings_FanDuel_DFS_Strategy_an.txt  (1,987 words)
-NEW     NFL/transcripts/week-12/roYF6KVrhEk_ShipItNation_Broncos_vs_Steelers_NFL_DFS_Showdown_Black_Friday_Week_12_Showdown_Shi.txt  (8,751 words)
 UPCOMING ShipItNation SQeMulUfloQ NFL DFS Week 12 Leverage Lane | DraftKings & FanDuel Strateg  (not aired yet - scheduled for 11/28/26 10:00AM)
 NONE    channel SGPN: nothing new in the date window (or everything already saved)
-NOCAPS  SGPNPropcast LKt9PKokV3w NFL Week 12 Player Props - 11/27/26  (no captions; Groq: live stream still processing - audio not final yet)
+NEW     NFL/transcripts/week-12/LKt9PKokV3w_SGPNPropcast_NFL_Week_12_Player_Props_11_27_26.txt  (5,285 words)
 NONE    channel ActionNetwork: nothing new in the date window (or everything already saved)
-NOCAPS  DFSArmy MIrAyK62VlI NFL Week 12 DraftKings and FanDuel DFS Strategy and Picks |   (no captions; Groq: still live - audio not final yet)
-NEW     NFL/transcripts/week-12/hc_H4YRQwTY_DFSArmy_Broncos_vs_Steelers_Showdown_Breakdown_Friday_Night_Football_DraftKing.txt  (9,697 words)
+NEW     NFL/transcripts/week-12/7NlSqEZsCMk_DFSArmy_Week_12_NFL_DFS_Plays_Under_10_Ownership_Draftkings_and_Fanduel.txt  (2,931 words)
+NEW     NFL/transcripts/week-12/MIrAyK62VlI_DFSArmy_NFL_Week_12_DraftKings_and_FanDuel_DFS_Strategy_and_Picks_Tournament_T.txt  (15,030 words)
 NONE    channel DFSArmyLive: nothing new in the date window (or everything already saved)
-NEW     NFL/transcripts/week-12/-u0O4lz0lv4_TheAudible_Week_12_NFL_preview_Can_Burrow_bounce_back_Trusting_Bijan_vs_Vikings_4.txt  (12,511 words)
 UPCOMING TheAudible LIpHPOt06Bs Week 12 Ask Me Anything Livestream with Bob Harris  (not aired yet - scheduled for 11/28/26 12:00PM)
-NEW     NFL/transcripts/week-12/FmdnRpUGw3c_PlayerProfiler_Fantasy_Football_Week_12_Starts_Sits_BUY_SELL_Players_We_re_Thankful_F.txt  (13,271 words)
-NEW     NFL/transcripts/week-12/Zh4nd-mpAUU_Stokastic_Broncos_Steelers_Showdown_Strategy_Black_Friday_Week_12_DFS_Picks_NFL.txt  (10,936 words)
-NEW     NFL/transcripts/week-12/NHaT8FFyypI_Stokastic_NFL_DFS_Tournament_Strategy_Week_12.txt  (9,239 words)
-NEW     NFL/transcripts/week-12/xuPBvYoJByk_BettingPros_Top_10_NFL_Player_Props_Picks_for_Week_12_Prop_Bets_TD_Scorers_2026.txt  (9,426 words)
+NONE    channel PlayerProfiler: nothing new in the date window (or everything already saved)
+NONE    channel Stokastic: nothing new in the date window (or everything already saved)
+NONE    channel BettingPros: nothing new in the date window (or everything already saved)
 NONE    channel LandYourBets: nothing new in the date window (or everything already saved)
-NEW     NFL/transcripts/week-12/ioRQ3I6EilU_SportsLine_NFL_Picks_Bets_for_Sunday_Week_12_Games.txt  (11,007 words)
-NEW     NFL/transcripts/week-12/gFLN1erxAKg_SportsLine_Week_12_NFL_PLAYER_PROPS_Picks_and_Bets.txt  (10,129 words)
-NEW     NFL/transcripts/week-12/SuRajuQJWE4_SportsLine_Broncos_vs_Steelers_Picks_Black_Friday_NFL_Bets_College_Football_Picks.txt  (8,928 words)
+NONE    channel SportsLine: nothing new in the date window (or everything already saved)
 NONE    channel CirclesOff: nothing new in the date window (or everything already saved)
 NONE    channel SlopRules: nothing new in the date window (or everything already saved)
 NONE    channel MattyChucks: nothing new in the date window (or everything already saved)
-NEW     NFL/transcripts/week-12/8St0eCh44dg_FantasyAlarm_Week_12_NFL_DFS_Cheat_Sheet_Must_Play_Picks_Stacks_Values.txt  (6,350 words)
+NONE    channel FantasyAlarm: nothing new in the date window (or everything already saved)
 NONE    channel FantasyAces: nothing new in the date window (or everything already saved)
-NEW     NFL/transcripts/week-12/vriu6tbZwVI_PickDawgz_DENVER_BRONCOS_VS_PITTSBURGH_STEELERS_FREE_NFL_PICK_PREDICTION_The_Yan.txt  (446 words)
+NONE    channel PickDawgz: nothing new in the date window (or everything already saved)
 NONE    channel KrisFDHelp: nothing new in the date window (or everything already saved)
 NONE    channel CallingOurShot: nothing new in the date window (or everything already saved)
 NOTE    changed VPN IP 1 time(s) this run after YouTube rate limits
